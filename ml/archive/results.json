@@ -1,0 +1,149 @@
+{
+  "model": "XGBoost",
+  "tuning": "GridSearchCV",
+  "best_params": {
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "n_estimators": 100
+  },
+  "cv_best_f1": 0.7662,
+  "test_metrics": {
+    "accuracy": 0.6777,
+    "precision": 0.6865,
+    "recall": 0.8169,
+    "f1_score": 0.7461,
+    "confusion_matrix": [
+      [
+        154,
+        163
+      ],
+      [
+        80,
+        357
+      ]
+    ],
+    "test_samples": 754
+  },
+  "feature_importance": [
+    {
+      "feature": "rank_diff",
+      "importance": 0.196193
+    },
+    {
+      "feature": "form_pts_diff",
+      "importance": 0.167307
+    },
+    {
+      "feature": "form_gf_diff",
+      "importance": 0.076432
+    },
+    {
+      "feature": "away_goals_scored_home",
+      "importance": 0.062839
+    },
+    {
+      "feature": "home_goals_scored_away",
+      "importance": 0.056146
+    },
+    {
+      "feature": "away_goals_scored_away",
+      "importance": 0.054033
+    },
+    {
+      "feature": "home_goals_scored_home",
+      "importance": 0.051034
+    },
+    {
+      "feature": "h2h_home_wins",
+      "importance": 0.040688
+    },
+    {
+      "feature": "home_form_pts",
+      "importance": 0.040685
+    },
+    {
+      "feature": "away_rank",
+      "importance": 0.036537
+    },
+    {
+      "feature": "h2h_away_wins",
+      "importance": 0.035007
+    },
+    {
+      "feature": "home_rank",
+      "importance": 0.033818
+    },
+    {
+      "feature": "home_form_gf",
+      "importance": 0.029027
+    },
+    {
+      "feature": "home_form_ga",
+      "importance": 0.02856
+    },
+    {
+      "feature": "form_ga_diff",
+      "importance": 0.023128
+    },
+    {
+      "feature": "comp_SA",
+      "importance": 0.020247
+    },
+    {
+      "feature": "away_form_gf",
+      "importance": 0.017645
+    },
+    {
+      "feature": "away_form_ga",
+      "importance": 0.017451
+    },
+    {
+      "feature": "away_form_pts",
+      "importance": 0.013222
+    },
+    {
+      "feature": "home_advantage",
+      "importance": 0.0
+    },
+    {
+      "feature": "comp_BL1",
+      "importance": 0.0
+    },
+    {
+      "feature": "comp_FL1",
+      "importance": 0.0
+    },
+    {
+      "feature": "comp_PD",
+      "importance": 0.0
+    },
+    {
+      "feature": "comp_PL",
+      "importance": 0.0
+    }
+  ],
+  "config": {
+    "param_grid": {
+      "n_estimators": [
+        100,
+        200,
+        300
+      ],
+      "max_depth": [
+        3,
+        4,
+        5
+      ],
+      "learning_rate": [
+        0.01,
+        0.05,
+        0.1
+      ]
+    },
+    "cv_folds": 5,
+    "test_split": "80/20 stratified",
+    "data_scaled": true,
+    "random_state": 42,
+    "target": "1=home_win, 0=away_win"
+  }
+}

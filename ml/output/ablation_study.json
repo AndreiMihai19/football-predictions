@@ -1,0 +1,131 @@
+{
+  "baseline": {
+    "accuracy": 0.4896957801766438,
+    "f1_macro": 0.4768847524293551,
+    "f1_away": 0.5173482032218092,
+    "f1_home": 0.5753559155621011,
+    "f1_draw": 0.3379501385041551
+  },
+  "ablations": [
+    {
+      "accuracy": 0.4822374877330716,
+      "f1_macro": 0.4579807575744268,
+      "f1_away": 0.5073659398939304,
+      "f1_home": 0.5823084200567644,
+      "f1_draw": 0.2842679127725857,
+      "group": "ELO",
+      "n_features_removed": 3,
+      "delta_accuracy_pp": -0.75,
+      "delta_f1_macro": -0.0189,
+      "impact": "MARE"
+    },
+    {
+      "accuracy": 0.4773307163886163,
+      "f1_macro": 0.47106268102537957,
+      "f1_away": 0.5060006487187804,
+      "f1_home": 0.5572189799543263,
+      "f1_draw": 0.3499684144030322,
+      "group": "Goals Venue",
+      "n_features_removed": 4,
+      "delta_accuracy_pp": -1.24,
+      "delta_f1_macro": -0.0058,
+      "impact": "MEDIU"
+    },
+    {
+      "accuracy": 0.4883218842001963,
+      "f1_macro": 0.4740534665151635,
+      "f1_away": 0.5150769230769231,
+      "f1_home": 0.5760975609756097,
+      "f1_draw": 0.33098591549295775,
+      "group": "Form",
+      "n_features_removed": 9,
+      "delta_accuracy_pp": -0.14,
+      "delta_f1_macro": -0.0028,
+      "impact": "MIC"
+    },
+    {
+      "accuracy": 0.487144259077527,
+      "f1_macro": 0.4742153655308616,
+      "f1_away": 0.5150294391075302,
+      "f1_home": 0.5725490196078431,
+      "f1_draw": 0.3350676378772112,
+      "group": "League",
+      "n_features_removed": 5,
+      "delta_accuracy_pp": -0.26,
+      "delta_f1_macro": -0.0027,
+      "impact": "MIC"
+    },
+    {
+      "accuracy": 0.4881256133464181,
+      "f1_macro": 0.47556804932259245,
+      "f1_away": 0.5178515988823347,
+      "f1_home": 0.5724104074619538,
+      "f1_draw": 0.3364421416234888,
+      "group": "Venue Split",
+      "n_features_removed": 4,
+      "delta_accuracy_pp": -0.16,
+      "delta_f1_macro": -0.0013,
+      "impact": "MIC"
+    },
+    {
+      "accuracy": 0.48930323846908735,
+      "f1_macro": 0.47582220662557234,
+      "f1_away": 0.5160692212608158,
+      "f1_home": 0.5752688172043011,
+      "f1_draw": 0.3361285814116003,
+      "group": "H2H",
+      "n_features_removed": 3,
+      "delta_accuracy_pp": -0.04,
+      "delta_f1_macro": -0.0011,
+      "impact": "MIC"
+    },
+    {
+      "accuracy": 0.4887144259077527,
+      "f1_macro": 0.4761155855211158,
+      "f1_away": 0.5155666251556662,
+      "f1_home": 0.5734573947110676,
+      "f1_draw": 0.33932273669661367,
+      "group": "Rank",
+      "n_features_removed": 3,
+      "delta_accuracy_pp": -0.1,
+      "delta_f1_macro": -0.0008,
+      "impact": "MIC"
+    },
+    {
+      "accuracy": 0.48910696761530914,
+      "f1_macro": 0.47616703697656226,
+      "f1_away": 0.5181762168823167,
+      "f1_home": 0.5737463126843658,
+      "f1_draw": 0.33657858136300417,
+      "group": "Momentum",
+      "n_features_removed": 4,
+      "delta_accuracy_pp": -0.06,
+      "delta_f1_macro": -0.0007,
+      "impact": "MIC"
+    },
+    {
+      "accuracy": 0.4896957801766438,
+      "f1_macro": 0.47630050132356977,
+      "f1_away": 0.5183585313174947,
+      "f1_home": 0.5756981871631554,
+      "f1_draw": 0.3348447854900593,
+      "group": "Rest",
+      "n_features_removed": 2,
+      "delta_accuracy_pp": 0.0,
+      "delta_f1_macro": -0.0006,
+      "impact": "MIC"
+    },
+    {
+      "accuracy": 0.4902845927379784,
+      "f1_macro": 0.47661647787558303,
+      "f1_away": 0.5163479333744602,
+      "f1_home": 0.5763125763125763,
+      "f1_draw": 0.33718892393971256,
+      "group": "Draw Signals",
+      "n_features_removed": 3,
+      "delta_accuracy_pp": 0.06,
+      "delta_f1_macro": -0.0003,
+      "impact": "MIC"
+    }
+  ]
+}

@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 1779738943736,
+    "timestamp": "2026-05-25T19:55:43.734Z",
+    "homeTeam": {
+      "name": "Real Madrid CF",
+      "crest": "https://crests.football-data.org/86.png",
+      "rank": 2
+    },
+    "awayTeam": {
+      "name": "FC Barcelona",
+      "crest": "https://crests.football-data.org/81.png",
+      "rank": 1
+    },
+    "competition": "PD",
+    "prediction": {
+      "label": "Draw",
+      "probability_home_win": 0.3361,
+      "probability_away_win": 0.3113,
+      "confidence": "Low",
+      "confidencePercent": 35
+    },
+    "actualResult": null,
+    "wasCorrect": null
+  },
+  {
+    "id": 1778828224895,
+    "timestamp": "2026-05-15T06:57:04.890Z",
+    "homeTeam": {
+      "name": "AS Roma",
+      "crest": "https://crests.football-data.org/100.png",
+      "rank": 5
+    },
+    "awayTeam": {
+      "name": "SS Lazio",
+      "crest": "https://crests.football-data.org/110.png",
+      "rank": 9
+    },
+    "competition": "SA",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.864,
+      "probability_away_win": 0.136,
+      "confidence": "High",
+      "confidencePercent": 86
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778828220889,
+    "timestamp": "2026-05-15T06:57:00.858Z",
+    "homeTeam": {
+      "name": "Manchester United FC",
+      "crest": "https://crests.football-data.org/66.png",
+      "rank": 3
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest FC",
+      "crest": "https://crests.football-data.org/351.png",
+      "rank": 16
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5051,
+      "probability_away_win": 0.4949,
+      "confidence": "Low",
+      "confidencePercent": 51
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778828041186,
+    "timestamp": "2026-05-15T06:54:01.181Z",
+    "homeTeam": {
+      "name": "Aston Villa FC",
+      "crest": "https://crests.football-data.org/58.png",
+      "rank": 5
+    },
+    "awayTeam": {
+      "name": "Liverpool FC",
+      "crest": "https://crests.football-data.org/64.png",
+      "rank": 4
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5023,
+      "probability_away_win": 0.4977,
+      "confidence": "Low",
+      "confidencePercent": 50
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778617482212,
+    "timestamp": "2026-05-12T20:24:42.202Z",
+    "homeTeam": {
+      "name": "SC Freiburg",
+      "crest": "https://crests.football-data.org/17.png",
+      "rank": 7
+    },
+    "awayTeam": {
+      "name": "RB Leipzig",
+      "crest": "https://crests.football-data.org/721.png",
+      "rank": 3
+    },
+    "competition": "BL1",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.3966,
+      "probability_away_win": 0.6034,
+      "confidence": "Medium",
+      "confidencePercent": 60
+    },
+    "actualResult": "home",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778617479784,
+    "timestamp": "2026-05-12T20:24:39.780Z",
+    "homeTeam": {
+      "name": "1. FC Heidenheim 1846",
+      "crest": "https://crests.football-data.org/44.png",
+      "rank": 17
+    },
+    "awayTeam": {
+      "name": "1. FSV Mainz 05",
+      "crest": "https://crests.football-data.org/15.png",
+      "rank": 10
+    },
+    "competition": "BL1",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.6156,
+      "probability_away_win": 0.3844,
+      "confidence": "Medium",
+      "confidencePercent": 62
+    },
+    "actualResult": "away",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778617476989,
+    "timestamp": "2026-05-12T20:24:36.983Z",
+    "homeTeam": {
+      "name": "SV Werder Bremen",
+      "crest": "https://crests.football-data.org/12.png",
+      "rank": 15
+    },
+    "awayTeam": {
+      "name": "Borussia Dortmund",
+      "crest": "https://crests.football-data.org/4.png",
+      "rank": 2
+    },
+    "competition": "BL1",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.4304,
+      "probability_away_win": 0.5696,
+      "confidence": "Medium",
+      "confidencePercent": 57
+    },
+    "actualResult": "away",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778617323986,
+    "timestamp": "2026-05-12T20:22:03.979Z",
+    "homeTeam": {
+      "name": "Valencia CF",
+      "crest": "https://crests.football-data.org/95.png",
+      "rank": 12
+    },
+    "awayTeam": {
+      "name": "Rayo Vallecano de Madrid",
+      "crest": "https://crests.football-data.org/87.png",
+      "rank": 10
+    },
+    "competition": "PD",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.4685,
+      "probability_away_win": 0.5315,
+      "confidence": "Low",
+      "confidencePercent": 53
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778617265553,
+    "timestamp": "2026-05-12T20:21:05.548Z",
+    "homeTeam": {
+      "name": "Villarreal CF",
+      "crest": "https://crests.football-data.org/94.png",
+      "rank": 3
+    },
+    "awayTeam": {
+      "name": "Sevilla FC",
+      "crest": "https://crests.football-data.org/559.png",
+      "rank": 13
+    },
+    "competition": "PD",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.7595,
+      "probability_away_win": 0.2405,
+      "confidence": "High",
+      "confidencePercent": 76
+    },
+    "actualResult": "away",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778617264157,
+    "timestamp": "2026-05-12T20:21:04.151Z",
+    "homeTeam": {
+      "name": "RCD Espanyol de Barcelona",
+      "crest": "https://crests.football-data.org/80.png",
+      "rank": 18
+    },
+    "awayTeam": {
+      "name": "Athletic Club",
+      "crest": "https://crests.football-data.org/77.png",
+      "rank": 9
+    },
+    "competition": "PD",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.4241,
+      "probability_away_win": 0.5759,
+      "confidence": "Medium",
+      "confidencePercent": 58
+    },
+    "actualResult": "home",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778617168762,
+    "timestamp": "2026-05-12T20:19:28.757Z",
+    "homeTeam": {
+      "name": "Como 1907",
+      "crest": "https://crests.football-data.org/7397.png",
+      "rank": 6
+    },
+    "awayTeam": {
+      "name": "Parma Calcio 1913",
+      "crest": "https://crests.football-data.org/112.png",
+      "rank": 12
+    },
+    "competition": "SA",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.578,
+      "probability_away_win": 0.422,
+      "confidence": "Medium",
+      "confidencePercent": 58
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778617166662,
+    "timestamp": "2026-05-12T20:19:26.657Z",
+    "homeTeam": {
+      "name": "Genoa CFC",
+      "crest": "https://crests.football-data.org/107.png",
+      "rank": 13
+    },
+    "awayTeam": {
+      "name": "AC Milan",
+      "crest": "https://crests.football-data.org/98.png",
+      "rank": 4
+    },
+    "competition": "SA",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.567,
+      "probability_away_win": 0.433,
+      "confidence": "Medium",
+      "confidencePercent": 57
+    },
+    "actualResult": "away",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778617164838,
+    "timestamp": "2026-05-12T20:19:24.832Z",
+    "homeTeam": {
+      "name": "AS Roma",
+      "crest": "https://crests.football-data.org/100.png",
+      "rank": 5
+    },
+    "awayTeam": {
+      "name": "SS Lazio",
+      "crest": "https://crests.football-data.org/110.png",
+      "rank": 9
+    },
+    "competition": "SA",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.7097,
+      "probability_away_win": 0.2903,
+      "confidence": "High",
+      "confidencePercent": 71
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778616156440,
+    "timestamp": "2026-05-12T20:02:36.434Z",
+    "homeTeam": {
+      "name": "Liverpool FC",
+      "crest": "https://crests.football-data.org/64.png",
+      "rank": 4
+    },
+    "awayTeam": {
+      "name": "Brentford FC",
+      "crest": "https://crests.football-data.org/402.png",
+      "rank": 8
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.6315,
+      "probability_away_win": 0.3685,
+      "confidence": "Medium",
+      "confidencePercent": 63
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778616039963,
+    "timestamp": "2026-05-12T20:00:39.957Z",
+    "homeTeam": {
+      "name": "Tottenham Hotspur FC",
+      "crest": "https://crests.football-data.org/73.png",
+      "rank": 17
+    },
+    "awayTeam": {
+      "name": "Everton FC",
+      "crest": "https://crests.football-data.org/62.png",
+      "rank": 10
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.475,
+      "probability_away_win": 0.525,
+      "confidence": "Low",
+      "confidencePercent": 53
+    },
+    "actualResult": "home",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778615800401,
+    "timestamp": "2026-05-12T19:56:40.393Z",
+    "homeTeam": {
+      "name": "Nottingham Forest FC",
+      "crest": "https://crests.football-data.org/351.png",
+      "rank": 16
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "crest": "https://crests.football-data.org/bournemouth.png",
+      "rank": 6
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5171,
+      "probability_away_win": 0.4829,
+      "confidence": "Low",
+      "confidencePercent": 52
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778615634068,
+    "timestamp": "2026-05-12T19:53:54.059Z",
+    "homeTeam": {
+      "name": "Manchester City FC",
+      "crest": "https://crests.football-data.org/65.png",
+      "rank": 2
+    },
+    "awayTeam": {
+      "name": "Crystal Palace FC",
+      "crest": "https://crests.football-data.org/354.png",
+      "rank": 15
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.7684,
+      "probability_away_win": 0.2316,
+      "confidence": "High",
+      "confidencePercent": 77
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778614605012,
+    "timestamp": "2026-05-12T19:36:45.007Z",
+    "homeTeam": {
+      "name": "Villarreal CF",
+      "crest": "https://crests.football-data.org/94.png",
+      "rank": 3
+    },
+    "awayTeam": {
+      "name": "Sevilla FC",
+      "crest": "https://crests.football-data.org/559.png",
+      "rank": 14
+    },
+    "competition": "PD",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.7595,
+      "probability_away_win": 0.2405,
+      "confidence": "High",
+      "confidencePercent": 76
+    },
+    "actualResult": "away",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778614601924,
+    "timestamp": "2026-05-12T19:36:41.919Z",
+    "homeTeam": {
+      "name": "RCD Espanyol de Barcelona",
+      "crest": "https://crests.football-data.org/80.png",
+      "rank": 18
+    },
+    "awayTeam": {
+      "name": "Athletic Club",
+      "crest": "https://crests.football-data.org/77.png",
+      "rank": 9
+    },
+    "competition": "PD",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.4241,
+      "probability_away_win": 0.5759,
+      "confidence": "Medium",
+      "confidencePercent": 58
+    },
+    "actualResult": "home",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778614525998,
+    "timestamp": "2026-05-12T19:35:25.993Z",
+    "homeTeam": {
+      "name": "Arsenal FC",
+      "crest": "https://crests.football-data.org/57.png",
+      "rank": 1
+    },
+    "awayTeam": {
+      "name": "Burnley FC",
+      "crest": "https://crests.football-data.org/328.png",
+      "rank": 19
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.7156,
+      "probability_away_win": 0.2844,
+      "confidence": "High",
+      "confidencePercent": 72
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778614395363,
+    "timestamp": "2026-05-12T19:33:15.358Z",
+    "homeTeam": {
+      "name": "Newcastle United FC",
+      "crest": "https://crests.football-data.org/67.png",
+      "rank": 13
+    },
+    "awayTeam": {
+      "name": "West Ham United FC",
+      "crest": "https://crests.football-data.org/563.png",
+      "rank": 18
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5636,
+      "probability_away_win": 0.4364,
+      "confidence": "Medium",
+      "confidencePercent": 56
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778614393250,
+    "timestamp": "2026-05-12T19:33:13.243Z",
+    "homeTeam": {
+      "name": "Wolverhampton Wanderers FC",
+      "crest": "https://crests.football-data.org/76.png",
+      "rank": 20
+    },
+    "awayTeam": {
+      "name": "Fulham FC",
+      "crest": "https://crests.football-data.org/63.png",
+      "rank": 11
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5012,
+      "probability_away_win": 0.4988,
+      "confidence": "Low",
+      "confidencePercent": 50
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778614391222,
+    "timestamp": "2026-05-12T19:33:11.217Z",
+    "homeTeam": {
+      "name": "Leeds United FC",
+      "crest": "https://crests.football-data.org/341.png",
+      "rank": 14
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion FC",
+      "crest": "https://crests.football-data.org/397.png",
+      "rank": 7
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5812,
+      "probability_away_win": 0.4188,
+      "confidence": "Medium",
+      "confidencePercent": 58
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778614389142,
+    "timestamp": "2026-05-12T19:33:09.136Z",
+    "homeTeam": {
+      "name": "Everton FC",
+      "crest": "https://crests.football-data.org/62.png",
+      "rank": 10
+    },
+    "awayTeam": {
+      "name": "Sunderland AFC",
+      "crest": "https://crests.football-data.org/71.png",
+      "rank": 12
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.6384,
+      "probability_away_win": 0.3616,
+      "confidence": "Medium",
+      "confidencePercent": 64
+    },
+    "actualResult": "away",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778614386239,
+    "timestamp": "2026-05-12T19:33:06.233Z",
+    "homeTeam": {
+      "name": "Brentford FC",
+      "crest": "https://crests.football-data.org/402.png",
+      "rank": 8
+    },
+    "awayTeam": {
+      "name": "Crystal Palace FC",
+      "crest": "https://crests.football-data.org/354.png",
+      "rank": 15
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5738,
+      "probability_away_win": 0.4262,
+      "confidence": "Medium",
+      "confidencePercent": 57
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1778614384439,
+    "timestamp": "2026-05-12T19:33:04.434Z",
+    "homeTeam": {
+      "name": "Manchester United FC",
+      "crest": "https://crests.football-data.org/66.png",
+      "rank": 3
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest FC",
+      "crest": "https://crests.football-data.org/351.png",
+      "rank": 16
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5391,
+      "probability_away_win": 0.4609,
+      "confidence": "Low",
+      "confidencePercent": 54
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778614375664,
+    "timestamp": "2026-05-12T19:32:55.659Z",
+    "homeTeam": {
+      "name": "Aston Villa FC",
+      "crest": "https://crests.football-data.org/58.png",
+      "rank": 5
+    },
+    "awayTeam": {
+      "name": "Liverpool FC",
+      "crest": "https://crests.football-data.org/64.png",
+      "rank": 4
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5388,
+      "probability_away_win": 0.4612,
+      "confidence": "Low",
+      "confidencePercent": 54
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1778614368806,
+    "timestamp": "2026-05-12T19:32:48.801Z",
+    "homeTeam": {
+      "name": "Manchester City FC",
+      "crest": "https://crests.football-data.org/65.png",
+      "rank": 2
+    },
+    "awayTeam": {
+      "name": "Crystal Palace FC",
+      "crest": "https://crests.football-data.org/354.png",
+      "rank": 15
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.7684,
+      "probability_away_win": 0.2316,
+      "confidence": "High",
+      "confidencePercent": 77
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1777538734705,
+    "timestamp": "2026-04-30T08:45:34.700Z",
+    "homeTeam": {
+      "name": "CA Osasuna",
+      "crest": "https://crests.football-data.org/79.png",
+      "rank": 9
+    },
+    "awayTeam": {
+      "name": "FC Barcelona",
+      "crest": "https://crests.football-data.org/81.png",
+      "rank": 1
+    },
+    "competition": "PD",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.445,
+      "probability_away_win": 0.555,
+      "confidence": "Medium",
+      "confidencePercent": 56
+    },
+    "actualResult": "away",
+    "wasCorrect": true
+  },
+  {
+    "id": 1777538728327,
+    "timestamp": "2026-04-30T08:45:28.322Z",
+    "homeTeam": {
+      "name": "Newcastle United FC",
+      "crest": "https://crests.football-data.org/67.png",
+      "rank": 14
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion FC",
+      "crest": "https://crests.football-data.org/397.png",
+      "rank": 6
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.3965,
+      "probability_away_win": 0.6035,
+      "confidence": "Medium",
+      "confidencePercent": 60
+    },
+    "actualResult": "home",
+    "wasCorrect": false
+  },
+  {
+    "id": 1777538669378,
+    "timestamp": "2026-04-30T08:44:29.374Z",
+    "homeTeam": {
+      "name": "West Ham United FC",
+      "crest": "https://crests.football-data.org/563.png",
+      "rank": 17
+    },
+    "awayTeam": {
+      "name": "Arsenal FC",
+      "crest": "https://crests.football-data.org/57.png",
+      "rank": 1
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.6288,
+      "probability_away_win": 0.3712,
+      "confidence": "Medium",
+      "confidencePercent": 63
+    },
+    "actualResult": "away",
+    "wasCorrect": false
+  },
+  {
+    "id": 1777538664583,
+    "timestamp": "2026-04-30T08:44:24.577Z",
+    "homeTeam": {
+      "name": "Burnley FC",
+      "crest": "https://crests.football-data.org/328.png",
+      "rank": 19
+    },
+    "awayTeam": {
+      "name": "Aston Villa FC",
+      "crest": "https://crests.football-data.org/58.png",
+      "rank": 5
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.424,
+      "probability_away_win": 0.576,
+      "confidence": "Medium",
+      "confidencePercent": 58
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1777538659117,
+    "timestamp": "2026-04-30T08:44:19.113Z",
+    "homeTeam": {
+      "name": "Crystal Palace FC",
+      "crest": "https://crests.football-data.org/354.png",
+      "rank": 13
+    },
+    "awayTeam": {
+      "name": "Everton FC",
+      "crest": "https://crests.football-data.org/62.png",
+      "rank": 11
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5079,
+      "probability_away_win": 0.4921,
+      "confidence": "Low",
+      "confidencePercent": 51
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1777538641782,
+    "timestamp": "2026-04-30T08:44:01.780Z",
+    "homeTeam": {
+      "name": "Leeds United FC",
+      "crest": "https://crests.football-data.org/341.png",
+      "rank": 15
+    },
+    "awayTeam": {
+      "name": "Burnley FC",
+      "crest": "https://crests.football-data.org/328.png",
+      "rank": 19
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.6798,
+      "probability_away_win": 0.3202,
+      "confidence": "Medium",
+      "confidencePercent": 68
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1777538311218,
+    "timestamp": "2026-04-30T08:38:31.214Z",
+    "homeTeam": {
+      "name": "Liverpool FC",
+      "crest": "https://crests.football-data.org/64.png",
+      "rank": 4
+    },
+    "awayTeam": {
+      "name": "Chelsea FC",
+      "crest": "https://crests.football-data.org/61.png",
+      "rank": 8
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.673,
+      "probability_away_win": 0.327,
+      "confidence": "Medium",
+      "confidencePercent": 67
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1777538300857,
+    "timestamp": "2026-04-30T08:38:20.851Z",
+    "homeTeam": {
+      "name": "Everton FC",
+      "crest": "https://crests.football-data.org/62.png",
+      "rank": 11
+    },
+    "awayTeam": {
+      "name": "Manchester City FC",
+      "crest": "https://crests.football-data.org/65.png",
+      "rank": 2
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.4409,
+      "probability_away_win": 0.5591,
+      "confidence": "Medium",
+      "confidencePercent": 56
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1777538276869,
+    "timestamp": "2026-04-30T08:37:56.865Z",
+    "homeTeam": {
+      "name": "Chelsea FC",
+      "crest": "https://crests.football-data.org/61.png",
+      "rank": 8
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest FC",
+      "crest": "https://crests.football-data.org/351.png",
+      "rank": 16
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5076,
+      "probability_away_win": 0.4924,
+      "confidence": "Low",
+      "confidencePercent": 51
+    },
+    "actualResult": "away",
+    "wasCorrect": false
+  },
+  {
+    "id": 1777538273109,
+    "timestamp": "2026-04-30T08:37:53.103Z",
+    "homeTeam": {
+      "name": "Leeds United FC",
+      "crest": "https://crests.football-data.org/341.png",
+      "rank": 15
+    },
+    "awayTeam": {
+      "name": "Burnley FC",
+      "crest": "https://crests.football-data.org/328.png",
+      "rank": 19
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.6798,
+      "probability_away_win": 0.3202,
+      "confidence": "Medium",
+      "confidencePercent": 68
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1777538271176,
+    "timestamp": "2026-04-30T08:37:51.170Z",
+    "homeTeam": {
+      "name": "Wolverhampton Wanderers FC",
+      "crest": "https://crests.football-data.org/76.png",
+      "rank": 20
+    },
+    "awayTeam": {
+      "name": "Sunderland AFC",
+      "crest": "https://crests.football-data.org/71.png",
+      "rank": 12
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.4936,
+      "probability_away_win": 0.5064,
+      "confidence": "Low",
+      "confidencePercent": 51
+    },
+    "actualResult": "draw",
+    "wasCorrect": false
+  },
+  {
+    "id": 1777538265082,
+    "timestamp": "2026-04-30T08:37:45.076Z",
+    "homeTeam": {
+      "name": "Newcastle United FC",
+      "crest": "https://crests.football-data.org/67.png",
+      "rank": 14
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion FC",
+      "crest": "https://crests.football-data.org/397.png",
+      "rank": 6
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Away Win",
+      "probability_home_win": 0.3965,
+      "probability_away_win": 0.6035,
+      "confidence": "Medium",
+      "confidencePercent": 60
+    },
+    "actualResult": "home",
+    "wasCorrect": false
+  },
+  {
+    "id": 1777538262495,
+    "timestamp": "2026-04-30T08:37:42.488Z",
+    "homeTeam": {
+      "name": "Brentford FC",
+      "crest": "https://crests.football-data.org/402.png",
+      "rank": 9
+    },
+    "awayTeam": {
+      "name": "West Ham United FC",
+      "crest": "https://crests.football-data.org/563.png",
+      "rank": 17
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.5621,
+      "probability_away_win": 0.4379,
+      "confidence": "Medium",
+      "confidencePercent": 56
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  },
+  {
+    "id": 1777538250936,
+    "timestamp": "2026-04-30T08:37:30.935Z",
+    "homeTeam": {
+      "name": "Leeds United FC",
+      "crest": "https://crests.football-data.org/341.png",
+      "rank": 15
+    },
+    "awayTeam": {
+      "name": "Burnley FC",
+      "crest": "https://crests.football-data.org/328.png",
+      "rank": 19
+    },
+    "competition": "PL",
+    "prediction": {
+      "label": "Home Win",
+      "probability_home_win": 0.6798,
+      "probability_away_win": 0.3202,
+      "confidence": "Medium",
+      "confidencePercent": 68
+    },
+    "actualResult": "home",
+    "wasCorrect": true
+  }
+]

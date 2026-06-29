@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.4842,
+  "brier_score_multiclass": 0.6073,
+  "brier_per_class": {
+    "Away Win": 0.1897,
+    "Home Win": 0.2229,
+    "Draw": 0.1947
+  },
+  "log_loss": 1.0145,
+  "expected_calibration_error": 0.0522,
+  "interpretation": {
+    "brier_threshold_excellent": 0.18,
+    "brier_threshold_good": 0.2,
+    "ece_threshold_excellent": 0.05,
+    "ece_threshold_good": 0.1
+  },
+  "n_test_samples": 5095
+}

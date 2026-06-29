@@ -1,0 +1,57 @@
+{
+  "model": "Stacked Ensemble v3+Poisson (XGB+LGB+CB+Poisson+LR meta)",
+  "version": "v3_poisson",
+  "n_classes": 3,
+  "base_learners": [
+    "xgb",
+    "lgb",
+    "cat",
+    "poisson"
+  ],
+  "best_params_xgb_lgb_cat": {
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "n_estimators": 500
+  },
+  "poisson_params": {
+    "n_estimators": 300,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "objective": "count:poisson"
+  },
+  "test_metrics": {
+    "accuracy": 0.4844,
+    "precision_macro": 0.4811,
+    "recall_macro": 0.4753,
+    "f1_macro": 0.4743,
+    "f1_per_class": {
+      "Away Win": 0.5175,
+      "Home Win": 0.5648,
+      "Draw": 0.3405
+    },
+    "log_loss": 1.0142,
+    "confusion_matrix": [
+      [
+        843,
+        261,
+        488
+      ],
+      [
+        410,
+        1120,
+        666
+      ],
+      [
+        413,
+        389,
+        505
+      ]
+    ],
+    "test_samples": 5095
+  },
+  "comparison_to_v3": {
+    "accuracy_delta_pp": 0.02,
+    "f1_macro_delta": -0.0001,
+    "f1_draw_delta": -0.0007
+  }
+}

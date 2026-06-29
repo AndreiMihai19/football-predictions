@@ -1,0 +1,18 @@
+[
+  "home_wins_last5",
+  "home_losses_last5",
+  "home_goals_scored_avg",
+  "home_goals_conceded_avg",
+  "home_matches_played",
+  "away_wins_last5",
+  "away_losses_last5",
+  "away_goals_scored_avg",
+  "away_goals_conceded_avg",
+  "away_matches_played",
+  "h2h_home_wins",
+  "h2h_away_wins",
+  "h2h_total",
+  "wins_diff",
+  "goals_scored_diff",
+  "goals_conceded_diff"
+]

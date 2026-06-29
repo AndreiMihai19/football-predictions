@@ -1,0 +1,156 @@
+{
+  "model": "Ensemble",
+  "version": "v2",
+  "n_classes": 3,
+  "improvements": [
+    "3-class prediction (Away Win / Home Win / Draw)",
+    "Balanced class weights for draw imbalance",
+    "Time-based cross-validation (f1_macro)",
+    "Ensemble models (XGBoost + LightGBM + CatBoost)",
+    "Probability calibration (isotonic)",
+    "SHAP explainability (Home Win + Draw classes)",
+    "Draw-signal features (goals_similarity, form_closeness, avg_conceded)",
+    "Correct form points (win=3, draw=1, loss=0)",
+    "Correct H2H (draws tracked separately)"
+  ],
+  "tuning": "GridSearchCV with TimeSeriesSplit (f1_macro)",
+  "best_params": {
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "n_estimators": 300
+  },
+  "cv_best_f1_macro": 0.4557,
+  "test_metrics": {
+    "accuracy": 0.4367,
+    "precision_macro": 0.4558,
+    "recall_macro": 0.4404,
+    "f1_macro": 0.4352,
+    "f1_per_class": {
+      "Away Win": 0.4743,
+      "Home Win": 0.4862,
+      "Draw": 0.3451
+    },
+    "confusion_matrix": [
+      [
+        166,
+        48,
+        116
+      ],
+      [
+        100,
+        176,
+        167
+      ],
+      [
+        104,
+        57,
+        117
+      ]
+    ],
+    "test_samples": 1051
+  },
+  "feature_importance": [
+    {
+      "feature": "away_goals_scored_home",
+      "importance": 277.866818
+    },
+    {
+      "feature": "rank_diff",
+      "importance": 237.022768
+    },
+    {
+      "feature": "home_goals_scored_away",
+      "importance": 230.109429
+    },
+    {
+      "feature": "home_goals_scored_home",
+      "importance": 143.43043
+    },
+    {
+      "feature": "away_goals_scored_away",
+      "importance": 118.123146
+    },
+    {
+      "feature": "form_gf_diff",
+      "importance": 115.524153
+    },
+    {
+      "feature": "home_form_ga",
+      "importance": 110.90298
+    },
+    {
+      "feature": "form_ga_diff",
+      "importance": 107.210353
+    },
+    {
+      "feature": "form_pts_diff",
+      "importance": 94.134982
+    },
+    {
+      "feature": "away_rank",
+      "importance": 67.861494
+    },
+    {
+      "feature": "away_form_ga",
+      "importance": 67.800813
+    },
+    {
+      "feature": "avg_goals_conceded",
+      "importance": 66.474065
+    },
+    {
+      "feature": "home_form_gf",
+      "importance": 55.894816
+    },
+    {
+      "feature": "form_pts_closeness",
+      "importance": 51.338474
+    },
+    {
+      "feature": "home_rank",
+      "importance": 48.129861
+    },
+    {
+      "feature": "away_form_gf",
+      "importance": 43.547193
+    },
+    {
+      "feature": "away_form_pts",
+      "importance": 39.121961
+    },
+    {
+      "feature": "goals_scored_similarity",
+      "importance": 36.288432
+    },
+    {
+      "feature": "home_form_pts",
+      "importance": 34.502923
+    },
+    {
+      "feature": "h2h_away_wins",
+      "importance": 33.079139
+    },
+    {
+      "feature": "h2h_home_wins",
+      "importance": 18.38699
+    },
+    {
+      "feature": "h2h_draws",
+      "importance": 9.738808
+    },
+    {
+      "feature": "comp_PL",
+      "importance": 2.509973
+    }
+  ],
+  "shap_importance": null,
+  "config": {
+    "cv_folds": 5,
+    "cv_type": "TimeSeriesSplit",
+    "test_split": "80/20 temporal",
+    "calibration": "isotonic",
+    "class_weights": "balanced",
+    "random_state": 42,
+    "target": "0=away_win, 1=home_win, 2=draw"
+  }
+}

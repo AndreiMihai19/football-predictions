@@ -1,0 +1,95 @@
+{
+  "results": [
+    {
+      "name": "1. Random Uniform",
+      "accuracy": 0.3229,
+      "f1_macro": 0.3184,
+      "precision_macro": 0.3228,
+      "recall_macro": 0.3215,
+      "f1_away": 0.3203,
+      "f1_home": 0.3678,
+      "f1_draw": 0.267,
+      "log_loss": 1.0986,
+      "brier": 0.6667
+    },
+    {
+      "name": "2. Always Home Win",
+      "accuracy": 0.431,
+      "f1_macro": 0.2008,
+      "precision_macro": 0.1437,
+      "recall_macro": 0.3333,
+      "f1_away": 0.0,
+      "f1_home": 0.6024,
+      "f1_draw": 0.0,
+      "log_loss": 20.5084,
+      "brier": 1.138
+    },
+    {
+      "name": "3. Frequency Prior",
+      "accuracy": 0.431,
+      "f1_macro": 0.2008,
+      "precision_macro": 0.1437,
+      "recall_macro": 0.3333,
+      "f1_away": 0.0,
+      "f1_home": 0.6024,
+      "f1_draw": 0.0,
+      "log_loss": 1.0758,
+      "brier": 0.6512
+    },
+    {
+      "name": "4. Naive Bayes (Gaussian)",
+      "accuracy": 0.4868,
+      "f1_macro": 0.4634,
+      "precision_macro": 0.4631,
+      "recall_macro": 0.4663,
+      "f1_away": 0.5165,
+      "f1_home": 0.5789,
+      "f1_draw": 0.2948,
+      "log_loss": 2.2965,
+      "brier": 0.7944
+    },
+    {
+      "name": "5. Logistic Regression",
+      "accuracy": 0.4919,
+      "f1_macro": 0.4686,
+      "precision_macro": 0.4682,
+      "recall_macro": 0.4708,
+      "f1_away": 0.5211,
+      "f1_home": 0.5868,
+      "f1_draw": 0.2978,
+      "log_loss": 1.0151,
+      "brier": 0.6081
+    },
+    {
+      "name": "6. Single XGBoost",
+      "accuracy": 0.4897,
+      "f1_macro": 0.4769,
+      "precision_macro": 0.481,
+      "recall_macro": 0.4772,
+      "f1_away": 0.5173,
+      "f1_home": 0.5754,
+      "f1_draw": 0.338,
+      "log_loss": 1.0206,
+      "brier": 0.6119
+    },
+    {
+      "name": "7. v3 Stacked Ensemble (NOSTRU)",
+      "accuracy": 0.4842,
+      "f1_macro": 0.4744,
+      "precision_macro": 0.4815,
+      "recall_macro": 0.4753,
+      "f1_away": 0.5179,
+      "f1_home": 0.5642,
+      "f1_draw": 0.3412,
+      "log_loss": 1.0145,
+      "brier": 0.6073
+    }
+  ],
+  "v3_improvements": {
+    "vs_random": 16.13,
+    "vs_always_home": 5.32,
+    "vs_best_baseline": -0.55,
+    "best_baseline_name": "6. Single XGBoost"
+  },
+  "n_test_samples": 5095
+}

@@ -1,0 +1,88 @@
+{
+  "n_trials": 80,
+  "best_cv_f1_macro": 0.4690674691169427,
+  "optuna_best_params": {
+    "n_estimators": 600,
+    "max_depth": 8,
+    "learning_rate": 0.011007746571212725,
+    "min_child_weight": 2,
+    "gamma": 2.8646508592872295,
+    "reg_alpha": 9.812422428922131,
+    "reg_lambda": 0.36581952446022886,
+    "subsample": 0.6414680280643358,
+    "colsample_bytree": 0.98228451458531
+  },
+  "baseline": {
+    "label": "Baseline (GridSearchCV)",
+    "params": {
+      "n_estimators": 500,
+      "max_depth": 4,
+      "learning_rate": 0.01,
+      "subsample": 0.8,
+      "colsample_bytree": 0.8
+    },
+    "accuracy": 0.4836113837095191,
+    "f1_macro": 0.474143704641574,
+    "f1_away": 0.5160087037612683,
+    "f1_home": 0.564877802973041,
+    "f1_draw": 0.3415446071904128,
+    "cm": [
+      [
+        830,
+        262,
+        501
+      ],
+      [
+        391,
+        1121,
+        683
+      ],
+      [
+        403,
+        391,
+        513
+      ]
+    ]
+  },
+  "optuna": {
+    "label": "Optuna best",
+    "params": {
+      "n_estimators": 600,
+      "max_depth": 8,
+      "learning_rate": 0.011007746571212725,
+      "min_child_weight": 2,
+      "gamma": 2.8646508592872295,
+      "reg_alpha": 9.812422428922131,
+      "reg_lambda": 0.36581952446022886,
+      "subsample": 0.6414680280643358,
+      "colsample_bytree": 0.98228451458531
+    },
+    "accuracy": 0.4857703631010795,
+    "f1_macro": 0.4743086220672434,
+    "f1_away": 0.5181986428130784,
+    "f1_home": 0.5671715917556494,
+    "f1_draw": 0.3375556316330024,
+    "cm": [
+      [
+        840,
+        281,
+        472
+      ],
+      [
+        404,
+        1142,
+        649
+      ],
+      [
+        405,
+        409,
+        493
+      ]
+    ]
+  },
+  "delta": {
+    "accuracy_pp": 0.22,
+    "f1_macro": 0.0002,
+    "f1_draw": -0.004
+  }
+}

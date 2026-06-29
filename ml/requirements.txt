@@ -1,0 +1,26 @@
+# ML Service Requirements
+# ======================
+
+# Core ML
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+joblib>=1.3.0
+
+# Ensemble models (optional but recommended)
+lightgbm>=4.0.0
+catboost>=1.2.0
+
+# Explainability
+shap>=0.42.0
+matplotlib>=3.7.0
+
+# API
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.0.0
+
+# Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0

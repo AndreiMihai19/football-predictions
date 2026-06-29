@@ -1,0 +1,49 @@
+{
+  "schemes": [
+    {
+      "label": "Baseline (40 features)",
+      "n_features": 40,
+      "accuracy": 0.4873,
+      "f1_macro": 0.4778,
+      "f1_away": 0.5202,
+      "f1_home": 0.5675,
+      "f1_draw": 0.3457
+    },
+    {
+      "label": "Drop 3 useless",
+      "n_features": 37,
+      "accuracy": 0.4854,
+      "f1_macro": 0.4755,
+      "f1_away": 0.5205,
+      "f1_home": 0.5647,
+      "f1_draw": 0.3413
+    },
+    {
+      "label": "Drop all comp_*",
+      "n_features": 35,
+      "accuracy": 0.4844,
+      "f1_macro": 0.4742,
+      "f1_away": 0.5194,
+      "f1_home": 0.5647,
+      "f1_draw": 0.3384
+    },
+    {
+      "label": "Drop comp_* + 2 form",
+      "n_features": 33,
+      "accuracy": 0.4838,
+      "f1_macro": 0.4751,
+      "f1_away": 0.5208,
+      "f1_home": 0.5603,
+      "f1_draw": 0.3442
+    },
+    {
+      "label": "Drop bottom 10",
+      "n_features": 30,
+      "accuracy": 0.4834,
+      "f1_macro": 0.4738,
+      "f1_away": 0.5204,
+      "f1_home": 0.5619,
+      "f1_draw": 0.3392
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "confusion_matrix": [
+    [
+      838,
+      262,
+      492
+    ],
+    [
+      400,
+      1120,
+      676
+    ],
+    [
+      406,
+      392,
+      509
+    ]
+  ],
+  "class_names": [
+    "Away Win (0)",
+    "Home Win (1)",
+    "Draw (2)"
+  ],
+  "analysis": {
+    "recall_per_class": {
+      "Away": 0.5264,
+      "Home": 0.51,
+      "Draw": 0.3894
+    },
+    "n_per_class": {
+      "Away": 1592,
+      "Home": 2196,
+      "Draw": 1307
+    },
+    "top_errors": [
+      {
+        "actual": "Home",
+        "predicted": "Draw",
+        "count": 676,
+        "pct_of_actual": 30.78
+      },
+      {
+        "actual": "Away",
+        "predicted": "Draw",
+        "count": 492,
+        "pct_of_actual": 30.9
+      },
+      {
+        "actual": "Draw",
+        "predicted": "Away",
+        "count": 406,
+        "pct_of_actual": 31.06
+      },
+      {
+        "actual": "Home",
+        "predicted": "Away",
+        "count": 400,
+        "pct_of_actual": 18.21
+      },
+      {
+        "actual": "Draw",
+        "predicted": "Home",
+        "count": 392,
+        "pct_of_actual": 29.99
+      },
+      {
+        "actual": "Away",
+        "predicted": "Home",
+        "count": 262,
+        "pct_of_actual": 16.46
+      }
+    ]
+  }
+}

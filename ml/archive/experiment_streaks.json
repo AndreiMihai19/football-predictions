@@ -1,0 +1,70 @@
+{
+  "schemes": [
+    {
+      "label": "Baseline (40 feat)",
+      "n_features": 40,
+      "accuracy": 0.4842,
+      "f1_macro": 0.475,
+      "f1_away": 0.5183,
+      "f1_home": 0.5628,
+      "f1_draw": 0.3438,
+      "cm": [
+        [
+          835,
+          264,
+          494
+        ],
+        [
+          394,
+          1116,
+          685
+        ],
+        [
+          400,
+          391,
+          516
+        ]
+      ]
+    },
+    {
+      "label": "+ Streaks (52 feat)",
+      "n_features": 52,
+      "accuracy": 0.4852,
+      "f1_macro": 0.4747,
+      "f1_away": 0.5156,
+      "f1_home": 0.5671,
+      "f1_draw": 0.3413,
+      "cm": [
+        [
+          834,
+          266,
+          493
+        ],
+        [
+          408,
+          1133,
+          654
+        ],
+        [
+          400,
+          402,
+          505
+        ]
+      ]
+    }
+  ],
+  "streak_features": [
+    "home_win_streak",
+    "home_loss_streak",
+    "home_unbeaten_streak",
+    "home_winless_streak",
+    "home_clean_sheets",
+    "home_scoring_streak",
+    "away_win_streak",
+    "away_loss_streak",
+    "away_unbeaten_streak",
+    "away_winless_streak",
+    "away_clean_sheets",
+    "away_scoring_streak"
+  ]
+}

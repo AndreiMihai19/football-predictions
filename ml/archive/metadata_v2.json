@@ -1,0 +1,33 @@
+{
+  "feature_names": [
+    "home_form_pts",
+    "home_form_gf",
+    "home_form_ga",
+    "away_form_pts",
+    "away_form_gf",
+    "away_form_ga",
+    "form_pts_diff",
+    "form_gf_diff",
+    "form_ga_diff",
+    "home_rank",
+    "away_rank",
+    "rank_diff",
+    "home_goals_scored_home",
+    "home_goals_scored_away",
+    "away_goals_scored_home",
+    "away_goals_scored_away",
+    "h2h_home_wins",
+    "h2h_away_wins",
+    "h2h_draws",
+    "goals_scored_similarity",
+    "form_pts_closeness",
+    "avg_goals_conceded",
+    "comp_PL"
+  ],
+  "n_features": 23,
+  "model_type": "ensemble",
+  "calibrated": true,
+  "version": "v2",
+  "n_classes": 3,
+  "target": "0=away_win, 1=home_win, 2=draw"
+}

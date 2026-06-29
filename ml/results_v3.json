@@ -1,0 +1,349 @@
+{
+  "model": "Stacked Ensemble (XGB+LGB+CB+LR meta)",
+  "version": "v3",
+  "n_classes": 3,
+  "improvements": [
+    "ELO ratings (rolling, global)",
+    "Venue-split form (home/away matches separately)",
+    "Rest days between matches",
+    "Goal trend direction (momentum)",
+    "Exponential decay form",
+    "All 5 league dummies (vs only PL in v2)",
+    "Stacked ensemble with auto-selected meta-learner (LR vs MLP)",
+    "Expanded GridSearchCV (deeper trees, more estimators)",
+    "Isotonic calibration + Draw threshold (selectable inference modes)"
+  ],
+  "tuning": "GridSearchCV with TimeSeriesSplit (f1_macro)",
+  "best_params": {
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "n_estimators": 300
+  },
+  "cv_best_f1_macro": 0.4661,
+  "test_metrics": {
+    "mode": "f1 (raw argmax)",
+    "accuracy": 0.4864,
+    "precision_macro": 0.4831,
+    "recall_macro": 0.4772,
+    "f1_macro": 0.4764,
+    "f1_per_class": {
+      "Away Win": 0.5209,
+      "Home Win": 0.5654,
+      "Draw": 0.343
+    },
+    "confusion_matrix": [
+      [
+        842,
+        271,
+        481
+      ],
+      [
+        392,
+        1126,
+        677
+      ],
+      [
+        405,
+        391,
+        510
+      ]
+    ],
+    "test_samples": 5095,
+    "mode_metrics": {
+      "f1": {
+        "mode": "f1 (raw argmax)",
+        "accuracy": 0.4864,
+        "precision_macro": 0.4831,
+        "recall_macro": 0.4772,
+        "f1_macro": 0.4764,
+        "f1_per_class": {
+          "Away Win": 0.5209,
+          "Home Win": 0.5654,
+          "Draw": 0.343
+        },
+        "confusion_matrix": [
+          [
+            842,
+            271,
+            481
+          ],
+          [
+            392,
+            1126,
+            677
+          ],
+          [
+            405,
+            391,
+            510
+          ]
+        ],
+        "test_samples": 5095
+      },
+      "accuracy": {
+        "mode": "accuracy (cal + T=0.29)",
+        "accuracy": 0.5129,
+        "precision_macro": 0.469,
+        "recall_macro": 0.4671,
+        "f1_macro": 0.4579,
+        "f1_per_class": {
+          "Away Win": 0.5128,
+          "Home Win": 0.6255,
+          "Draw": 0.2354
+        },
+        "confusion_matrix": [
+          [
+            793,
+            579,
+            222
+          ],
+          [
+            337,
+            1579,
+            279
+          ],
+          [
+            369,
+            696,
+            241
+          ]
+        ],
+        "test_samples": 5095
+      }
+    }
+  },
+  "feature_importance": [
+    {
+      "feature": "elo_diff",
+      "importance": 520.467017
+    },
+    {
+      "feature": "away_goals_scored_home",
+      "importance": 335.140694
+    },
+    {
+      "feature": "away_goals_scored_away",
+      "importance": 309.261321
+    },
+    {
+      "feature": "home_goals_scored_home",
+      "importance": 276.172133
+    },
+    {
+      "feature": "home_goals_scored_away",
+      "importance": 216.906975
+    },
+    {
+      "feature": "away_form_pts_exp",
+      "importance": 167.534615
+    },
+    {
+      "feature": "rank_diff",
+      "importance": 129.324836
+    },
+    {
+      "feature": "away_form_gf",
+      "importance": 124.184206
+    },
+    {
+      "feature": "home_form_pts_exp",
+      "importance": 122.780196
+    },
+    {
+      "feature": "away_defense_variance",
+      "importance": 119.401446
+    },
+    {
+      "feature": "form_ga_diff",
+      "importance": 104.207444
+    },
+    {
+      "feature": "rank_traj_diff",
+      "importance": 102.370155
+    },
+    {
+      "feature": "home_form_gf",
+      "importance": 101.102271
+    },
+    {
+      "feature": "home_defense_variance",
+      "importance": 100.387165
+    },
+    {
+      "feature": "home_rank",
+      "importance": 85.781191
+    },
+    {
+      "feature": "form_gf_diff",
+      "importance": 83.617915
+    },
+    {
+      "feature": "home_elo_vs_league",
+      "importance": 82.886287
+    },
+    {
+      "feature": "away_elo",
+      "importance": 80.930157
+    },
+    {
+      "feature": "home_form_ga",
+      "importance": 80.384442
+    },
+    {
+      "feature": "home_elo",
+      "importance": 78.679865
+    },
+    {
+      "feature": "away_goals_trend",
+      "importance": 74.730048
+    },
+    {
+      "feature": "days_since_last_match_away",
+      "importance": 70.679801
+    },
+    {
+      "feature": "form_pts_closeness",
+      "importance": 62.806443
+    },
+    {
+      "feature": "home_goals_trend",
+      "importance": 55.377373
+    },
+    {
+      "feature": "avg_goals_conceded",
+      "importance": 55.03038
+    },
+    {
+      "feature": "days_since_last_match_home",
+      "importance": 51.704638
+    },
+    {
+      "feature": "form_pts_diff",
+      "importance": 51.458019
+    },
+    {
+      "feature": "home_rank_trajectory",
+      "importance": 50.708735
+    },
+    {
+      "feature": "away_rank_trajectory",
+      "importance": 46.029757
+    },
+    {
+      "feature": "away_elo_vs_league",
+      "importance": 44.491659
+    },
+    {
+      "feature": "away_form_ga",
+      "importance": 44.043728
+    },
+    {
+      "feature": "goals_scored_similarity",
+      "importance": 40.209335
+    },
+    {
+      "feature": "away_form_pts_home",
+      "importance": 38.109882
+    },
+    {
+      "feature": "home_form_pts",
+      "importance": 38.065822
+    },
+    {
+      "feature": "h2h_draws",
+      "importance": 36.709409
+    },
+    {
+      "feature": "away_rank",
+      "importance": 33.802844
+    },
+    {
+      "feature": "home_form_pts_away",
+      "importance": 33.076963
+    },
+    {
+      "feature": "away_form_pts",
+      "importance": 31.140551
+    },
+    {
+      "feature": "away_draw_rate",
+      "importance": 27.032914
+    },
+    {
+      "feature": "win_rate_diff",
+      "importance": 25.07213
+    },
+    {
+      "feature": "h2h_home_wins",
+      "importance": 12.40984
+    },
+    {
+      "feature": "home_draw_rate",
+      "importance": 11.34687
+    },
+    {
+      "feature": "home_win_rate",
+      "importance": 10.471425
+    },
+    {
+      "feature": "h2h_away_wins",
+      "importance": 8.717697
+    },
+    {
+      "feature": "elo_vs_league_diff",
+      "importance": 8.584062
+    },
+    {
+      "feature": "away_win_rate",
+      "importance": 5.406937
+    },
+    {
+      "feature": "comp_SA",
+      "importance": 4.670322
+    },
+    {
+      "feature": "comp_BL1",
+      "importance": 2.682781
+    },
+    {
+      "feature": "comp_PD",
+      "importance": 1.708683
+    },
+    {
+      "feature": "comp_FL1",
+      "importance": 1.675085
+    },
+    {
+      "feature": "away_form_pts_away",
+      "importance": 0.105176
+    },
+    {
+      "feature": "home_form_pts_home",
+      "importance": 0.077505
+    },
+    {
+      "feature": "comp_PL",
+      "importance": 0.009523
+    }
+  ],
+  "shap_importance": null,
+  "config": {
+    "cv_folds": 5,
+    "cv_type": "TimeSeriesSplit",
+    "test_split": "80/20 temporal",
+    "calibration": "isotonic per-class on last 10% of train (val split)",
+    "class_weights": "balanced",
+    "random_state": 42,
+    "target": "0=away_win, 1=home_win, 2=draw",
+    "supports_modes": true,
+    "default_mode": "f1",
+    "draw_threshold": 0.29
+  },
+  "meta_learner": {
+    "selected": "LR",
+    "cv_scores": {
+      "LR": 0.462834426198704,
+      "MLP": 0.3810637238954203
+    }
+  }
+}

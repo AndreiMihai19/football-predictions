@@ -1,0 +1,14 @@
+[
+  "home_form_pts",
+  "home_form_gf",
+  "home_form_ga",
+  "away_form_pts",
+  "away_form_gf",
+  "away_form_ga",
+  "form_pts_diff",
+  "form_gf_diff",
+  "form_ga_diff",
+  "home_team_enc",
+  "away_team_enc",
+  "competition_enc"
+]

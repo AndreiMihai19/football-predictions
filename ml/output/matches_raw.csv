@@ -1,0 +1,2765 @@
+match_id,competition,season,date,home_team,away_team,home_team_id,away_team_id,home_goals,away_goals,result
+435943,PL,2023,2023-08-11,Burnley FC,Manchester City FC,328,65,0,3,0
+435944,PL,2023,2023-08-12,Arsenal FC,Nottingham Forest FC,57,351,2,1,1
+435946,PL,2023,2023-08-12,Brighton & Hove Albion FC,Luton Town FC,397,389,4,1,1
+435947,PL,2023,2023-08-12,Everton FC,Fulham FC,62,63,0,1,0
+435948,PL,2023,2023-08-12,Sheffield United FC,Crystal Palace FC,356,354,0,1,0
+435949,PL,2023,2023-08-12,Newcastle United FC,Aston Villa FC,67,58,5,1,1
+435952,PL,2023,2023-08-14,Manchester United FC,Wolverhampton Wanderers FC,66,76,1,0,1
+435959,PL,2023,2023-08-18,Nottingham Forest FC,Sheffield United FC,351,356,2,1,1
+435955,PL,2023,2023-08-19,Fulham FC,Brentford FC,63,402,0,3,0
+435956,PL,2023,2023-08-19,Liverpool FC,AFC Bournemouth,64,1044,3,1,1
+435962,PL,2023,2023-08-19,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,76,397,1,4,0
+435960,PL,2023,2023-08-19,Tottenham Hotspur FC,Manchester United FC,73,66,2,0,1
+435958,PL,2023,2023-08-19,Manchester City FC,Newcastle United FC,65,67,1,0,1
+435953,PL,2023,2023-08-20,Aston Villa FC,Everton FC,58,62,4,0,1
+435961,PL,2023,2023-08-20,West Ham United FC,Chelsea FC,563,61,3,1,1
+435954,PL,2023,2023-08-21,Crystal Palace FC,Arsenal FC,354,57,0,1,0
+435968,PL,2023,2023-08-25,Chelsea FC,Luton Town FC,61,389,3,0,1
+435963,PL,2023,2023-08-26,AFC Bournemouth,Tottenham Hotspur FC,1044,73,0,2,0
+435969,PL,2023,2023-08-26,Everton FC,Wolverhampton Wanderers FC,62,76,0,1,0
+435970,PL,2023,2023-08-26,Manchester United FC,Nottingham Forest FC,66,351,3,2,1
+435966,PL,2023,2023-08-26,Brighton & Hove Albion FC,West Ham United FC,397,563,1,3,0
+435972,PL,2023,2023-08-27,Sheffield United FC,Manchester City FC,356,65,1,2,0
+435967,PL,2023,2023-08-27,Burnley FC,Aston Villa FC,328,58,1,3,0
+435971,PL,2023,2023-08-27,Newcastle United FC,Liverpool FC,67,64,1,2,0
+435980,PL,2023,2023-09-01,Luton Town FC,West Ham United FC,389,563,1,2,0
+435976,PL,2023,2023-09-02,Burnley FC,Tottenham Hotspur FC,328,73,2,5,0
+435977,PL,2023,2023-09-02,Chelsea FC,Nottingham Forest FC,61,351,0,1,0
+435981,PL,2023,2023-09-02,Manchester City FC,Fulham FC,65,63,5,1,1
+435975,PL,2023,2023-09-02,Brighton & Hove Albion FC,Newcastle United FC,397,67,3,1,1
+435978,PL,2023,2023-09-03,Crystal Palace FC,Wolverhampton Wanderers FC,354,76,3,2,1
+435979,PL,2023,2023-09-03,Liverpool FC,Aston Villa FC,64,58,3,0,1
+435973,PL,2023,2023-09-03,Arsenal FC,Manchester United FC,57,66,3,1,1
+435992,PL,2023,2023-09-16,Wolverhampton Wanderers FC,Liverpool FC,76,64,1,3,0
+435984,PL,2023,2023-09-16,Aston Villa FC,Crystal Palace FC,58,354,3,1,1
+435986,PL,2023,2023-09-16,Fulham FC,Luton Town FC,63,389,1,0,1
+435987,PL,2023,2023-09-16,Manchester United FC,Brighton & Hove Albion FC,66,397,1,3,0
+435990,PL,2023,2023-09-16,Tottenham Hotspur FC,Sheffield United FC,73,356,2,1,1
+435991,PL,2023,2023-09-16,West Ham United FC,Manchester City FC,563,65,1,3,0
+435988,PL,2023,2023-09-16,Newcastle United FC,Brentford FC,67,402,1,0,1
+435985,PL,2023,2023-09-17,Everton FC,Arsenal FC,62,57,0,1,0
+436001,PL,2023,2023-09-23,Manchester City FC,Nottingham Forest FC,65,351,2,0,1
+435994,PL,2023,2023-09-23,Brentford FC,Everton FC,402,62,1,3,0
+435996,PL,2023,2023-09-23,Burnley FC,Manchester United FC,328,66,0,1,0
+435995,PL,2023,2023-09-24,Brighton & Hove Albion FC,AFC Bournemouth,397,1044,3,1,1
+435997,PL,2023,2023-09-24,Chelsea FC,Aston Villa FC,61,58,0,1,0
+435999,PL,2023,2023-09-24,Liverpool FC,West Ham United FC,64,563,3,1,1
+436002,PL,2023,2023-09-24,Sheffield United FC,Newcastle United FC,356,67,0,8,0
+436004,PL,2023,2023-09-30,Aston Villa FC,Brighton & Hove Albion FC,58,397,6,1,1
+436003,PL,2023,2023-09-30,AFC Bournemouth,Arsenal FC,1044,57,0,4,0
+436005,PL,2023,2023-09-30,Everton FC,Luton Town FC,62,389,1,2,0
+436007,PL,2023,2023-09-30,Manchester United FC,Crystal Palace FC,66,354,0,1,0
+436008,PL,2023,2023-09-30,Newcastle United FC,Burnley FC,67,328,2,0,1
+436011,PL,2023,2023-09-30,West Ham United FC,Sheffield United FC,563,356,2,0,1
+436012,PL,2023,2023-09-30,Wolverhampton Wanderers FC,Manchester City FC,76,65,2,1,1
+436010,PL,2023,2023-09-30,Tottenham Hotspur FC,Liverpool FC,73,64,2,1,1
+436006,PL,2023,2023-10-02,Fulham FC,Chelsea FC,63,61,0,2,0
+435957,PL,2023,2023-10-03,Luton Town FC,Burnley FC,389,328,1,2,0
+436019,PL,2023,2023-10-07,Luton Town FC,Tottenham Hotspur FC,389,73,0,1,0
+436015,PL,2023,2023-10-07,Burnley FC,Chelsea FC,328,61,1,4,0
+436017,PL,2023,2023-10-07,Everton FC,AFC Bournemouth,62,1044,3,0,1
+436018,PL,2023,2023-10-07,Fulham FC,Sheffield United FC,63,356,3,1,1
+436020,PL,2023,2023-10-07,Manchester United FC,Brentford FC,66,402,2,1,1
+436013,PL,2023,2023-10-08,Arsenal FC,Manchester City FC,57,65,1,0,1
+436027,PL,2023,2023-10-21,Liverpool FC,Everton FC,64,62,2,0,1
+436023,PL,2023,2023-10-21,AFC Bournemouth,Wolverhampton Wanderers FC,1044,76,1,2,0
+436025,PL,2023,2023-10-21,Brentford FC,Burnley FC,402,328,3,0,1
+436028,PL,2023,2023-10-21,Manchester City FC,Brighton & Hove Albion FC,65,397,2,1,1
+436029,PL,2023,2023-10-21,Newcastle United FC,Crystal Palace FC,67,354,4,0,1
+436031,PL,2023,2023-10-21,Sheffield United FC,Manchester United FC,356,66,1,2,0
+436024,PL,2023,2023-10-22,Aston Villa FC,West Ham United FC,58,563,4,1,1
+436032,PL,2023,2023-10-23,Tottenham Hotspur FC,Fulham FC,73,63,2,0,1
+436038,PL,2023,2023-10-27,Crystal Palace FC,Tottenham Hotspur FC,354,73,1,2,0
+436037,PL,2023,2023-10-28,Chelsea FC,Brentford FC,61,402,0,2,0
+436033,PL,2023,2023-10-28,AFC Bournemouth,Burnley FC,1044,328,2,1,1
+436034,PL,2023,2023-10-28,Arsenal FC,Sheffield United FC,57,356,5,0,1
+436041,PL,2023,2023-10-29,West Ham United FC,Everton FC,563,62,0,1,0
+436035,PL,2023,2023-10-29,Aston Villa FC,Luton Town FC,58,389,3,1,1
+436039,PL,2023,2023-10-29,Liverpool FC,Nottingham Forest FC,64,351,3,0,1
+436040,PL,2023,2023-10-29,Manchester United FC,Manchester City FC,66,65,0,3,0
+436046,PL,2023,2023-11-04,Fulham FC,Manchester United FC,63,66,0,1,0
+436043,PL,2023,2023-11-04,Brentford FC,West Ham United FC,402,563,3,2,1
+436044,PL,2023,2023-11-04,Burnley FC,Crystal Palace FC,328,354,0,2,0
+436048,PL,2023,2023-11-04,Manchester City FC,AFC Bournemouth,65,1044,6,1,1
+436051,PL,2023,2023-11-04,Sheffield United FC,Wolverhampton Wanderers FC,356,76,2,1,1
+436049,PL,2023,2023-11-04,Newcastle United FC,Arsenal FC,67,57,1,0,1
+436050,PL,2023,2023-11-05,Nottingham Forest FC,Aston Villa FC,351,58,2,0,1
+436052,PL,2023,2023-11-06,Tottenham Hotspur FC,Chelsea FC,73,61,1,4,0
+436062,PL,2023,2023-11-11,Wolverhampton Wanderers FC,Tottenham Hotspur FC,76,73,2,1,1
+436054,PL,2023,2023-11-11,Arsenal FC,Burnley FC,57,328,3,1,1
+436058,PL,2023,2023-11-11,Crystal Palace FC,Everton FC,354,62,2,3,0
+436060,PL,2023,2023-11-11,Manchester United FC,Luton Town FC,66,389,1,0,1
+436053,PL,2023,2023-11-11,AFC Bournemouth,Newcastle United FC,1044,67,2,0,1
+436055,PL,2023,2023-11-12,Aston Villa FC,Fulham FC,58,63,3,1,1
+436059,PL,2023,2023-11-12,Liverpool FC,Brentford FC,64,402,3,0,1
+436061,PL,2023,2023-11-12,West Ham United FC,Nottingham Forest FC,563,351,3,2,1
+436064,PL,2023,2023-11-25,Burnley FC,West Ham United FC,328,563,1,2,0
+436067,PL,2023,2023-11-25,Luton Town FC,Crystal Palace FC,389,354,2,1,1
+436069,PL,2023,2023-11-25,Newcastle United FC,Chelsea FC,67,61,4,1,1
+436070,PL,2023,2023-11-25,Nottingham Forest FC,Brighton & Hove Albion FC,351,397,2,3,0
+436071,PL,2023,2023-11-25,Sheffield United FC,AFC Bournemouth,356,1044,1,3,0
+436063,PL,2023,2023-11-25,Brentford FC,Arsenal FC,402,57,0,1,0
+436072,PL,2023,2023-11-26,Tottenham Hotspur FC,Aston Villa FC,73,58,1,2,0
+436065,PL,2023,2023-11-26,Everton FC,Manchester United FC,62,66,0,3,0
+436066,PL,2023,2023-11-27,Fulham FC,Wolverhampton Wanderers FC,63,76,3,2,1
+436074,PL,2023,2023-12-02,Arsenal FC,Wolverhampton Wanderers FC,57,76,2,1,1
+436075,PL,2023,2023-12-02,Brentford FC,Luton Town FC,402,389,3,1,1
+436076,PL,2023,2023-12-02,Burnley FC,Sheffield United FC,328,356,5,0,1
+436081,PL,2023,2023-12-02,Nottingham Forest FC,Everton FC,351,62,0,1,0
+436080,PL,2023,2023-12-02,Newcastle United FC,Manchester United FC,67,66,1,0,1
+436077,PL,2023,2023-12-03,Chelsea FC,Brighton & Hove Albion FC,61,397,3,2,1
+436078,PL,2023,2023-12-03,Liverpool FC,Fulham FC,64,63,4,3,1
+436090,PL,2023,2023-12-05,Wolverhampton Wanderers FC,Burnley FC,76,328,1,0,1
+436087,PL,2023,2023-12-05,Luton Town FC,Arsenal FC,389,57,3,4,0
+436084,PL,2023,2023-12-06,Brighton & Hove Albion FC,Brentford FC,397,402,2,1,1
+436086,PL,2023,2023-12-06,Fulham FC,Nottingham Forest FC,63,351,5,0,1
+436088,PL,2023,2023-12-06,Sheffield United FC,Liverpool FC,356,64,0,2,0
+436091,PL,2023,2023-12-06,Crystal Palace FC,AFC Bournemouth,354,1044,0,2,0
+436083,PL,2023,2023-12-06,Aston Villa FC,Manchester City FC,58,65,1,0,1
+436092,PL,2023,2023-12-06,Manchester United FC,Chelsea FC,66,61,2,1,1
+436085,PL,2023,2023-12-07,Everton FC,Newcastle United FC,62,67,3,0,1
+436089,PL,2023,2023-12-07,Tottenham Hotspur FC,West Ham United FC,73,563,1,2,0
+436095,PL,2023,2023-12-09,Crystal Palace FC,Liverpool FC,354,64,1,2,0
+436099,PL,2023,2023-12-09,Manchester United FC,AFC Bournemouth,66,1044,0,3,0
+436100,PL,2023,2023-12-09,Sheffield United FC,Brentford FC,356,402,1,0,1
+436093,PL,2023,2023-12-09,Aston Villa FC,Arsenal FC,58,57,1,0,1
+436096,PL,2023,2023-12-10,Everton FC,Chelsea FC,62,61,2,0,1
+436097,PL,2023,2023-12-10,Fulham FC,West Ham United FC,63,563,5,0,1
+436098,PL,2023,2023-12-10,Luton Town FC,Manchester City FC,389,65,1,2,0
+436101,PL,2023,2023-12-10,Tottenham Hotspur FC,Newcastle United FC,73,67,4,1,1
+436111,PL,2023,2023-12-15,Nottingham Forest FC,Tottenham Hotspur FC,351,73,0,2,0
+436107,PL,2023,2023-12-16,Chelsea FC,Sheffield United FC,61,356,2,0,1
+436110,PL,2023,2023-12-16,Newcastle United FC,Fulham FC,67,63,3,0,1
+436106,PL,2023,2023-12-16,Burnley FC,Everton FC,328,62,0,2,0
+436104,PL,2023,2023-12-17,Arsenal FC,Brighton & Hove Albion FC,57,397,2,0,1
+436105,PL,2023,2023-12-17,Brentford FC,Aston Villa FC,402,58,1,2,0
+436112,PL,2023,2023-12-17,West Ham United FC,Wolverhampton Wanderers FC,563,76,3,0,1
+436121,PL,2023,2023-12-23,West Ham United FC,Manchester United FC,563,66,2,0,1
+436115,PL,2023,2023-12-23,Fulham FC,Burnley FC,63,328,0,2,0
+436117,PL,2023,2023-12-23,Luton Town FC,Newcastle United FC,389,67,1,0,1
+436119,PL,2023,2023-12-23,Nottingham Forest FC,AFC Bournemouth,351,1044,2,3,0
+436120,PL,2023,2023-12-23,Tottenham Hotspur FC,Everton FC,73,62,2,1,1
+436122,PL,2023,2023-12-24,Wolverhampton Wanderers FC,Chelsea FC,76,61,2,1,1
+436131,PL,2023,2023-12-26,Newcastle United FC,Nottingham Forest FC,67,351,1,3,0
+436123,PL,2023,2023-12-26,AFC Bournemouth,Fulham FC,1044,63,3,0,1
+436132,PL,2023,2023-12-26,Sheffield United FC,Luton Town FC,356,389,2,3,0
+436127,PL,2023,2023-12-26,Burnley FC,Liverpool FC,328,64,0,2,0
+436130,PL,2023,2023-12-26,Manchester United FC,Aston Villa FC,66,58,3,2,1
+436125,PL,2023,2023-12-27,Brentford FC,Wolverhampton Wanderers FC,402,76,1,4,0
+436128,PL,2023,2023-12-27,Chelsea FC,Crystal Palace FC,61,354,2,1,1
+436129,PL,2023,2023-12-27,Everton FC,Manchester City FC,62,65,1,3,0
+436126,PL,2023,2023-12-28,Brighton & Hove Albion FC,Tottenham Hotspur FC,397,73,4,2,1
+436124,PL,2023,2023-12-28,Arsenal FC,West Ham United FC,57,563,0,2,0
+436137,PL,2023,2023-12-30,Luton Town FC,Chelsea FC,389,61,2,3,0
+436133,PL,2023,2023-12-30,Aston Villa FC,Burnley FC,58,328,3,2,1
+436134,PL,2023,2023-12-30,Crystal Palace FC,Brentford FC,354,402,3,1,1
+436138,PL,2023,2023-12-30,Manchester City FC,Sheffield United FC,65,356,2,0,1
+436142,PL,2023,2023-12-30,Wolverhampton Wanderers FC,Everton FC,76,62,3,0,1
+436139,PL,2023,2023-12-30,Nottingham Forest FC,Manchester United FC,351,66,2,1,1
+436135,PL,2023,2023-12-31,Fulham FC,Arsenal FC,63,57,2,1,1
+436140,PL,2023,2023-12-31,Tottenham Hotspur FC,AFC Bournemouth,73,1044,3,1,1
+436136,PL,2023,2024-01-01,Liverpool FC,Newcastle United FC,64,67,4,2,1
+436148,PL,2023,2024-01-13,Chelsea FC,Fulham FC,61,63,1,0,1
+436151,PL,2023,2024-01-13,Newcastle United FC,Manchester City FC,67,65,2,3,0
+436144,PL,2023,2024-01-20,Arsenal FC,Crystal Palace FC,57,354,5,0,1
+436145,PL,2023,2024-01-20,Brentford FC,Nottingham Forest FC,402,351,3,2,1
+436143,PL,2023,2024-01-21,AFC Bournemouth,Liverpool FC,1044,64,0,4,0
+436153,PL,2023,2024-01-30,Nottingham Forest FC,Arsenal FC,351,57,1,2,0
+436155,PL,2023,2024-01-30,Luton Town FC,Brighton & Hove Albion FC,389,397,4,0,1
+436157,PL,2023,2024-01-30,Crystal Palace FC,Sheffield United FC,354,356,3,2,1
+436158,PL,2023,2024-01-30,Aston Villa FC,Newcastle United FC,58,67,1,3,0
+436159,PL,2023,2024-01-31,Tottenham Hotspur FC,Brentford FC,73,402,3,2,1
+436161,PL,2023,2024-01-31,Manchester City FC,Burnley FC,65,328,3,1,1
+436162,PL,2023,2024-01-31,Liverpool FC,Chelsea FC,64,61,4,1,1
+436160,PL,2023,2024-02-01,Wolverhampton Wanderers FC,Manchester United FC,76,66,3,4,0
+436166,PL,2023,2024-02-03,Brighton & Hove Albion FC,Crystal Palace FC,397,354,4,1,1
+436172,PL,2023,2024-02-03,Sheffield United FC,Aston Villa FC,356,58,0,5,0
+436168,PL,2023,2024-02-04,Chelsea FC,Wolverhampton Wanderers FC,61,76,2,4,0
+436170,PL,2023,2024-02-04,Manchester United FC,West Ham United FC,66,563,3,0,1
+436164,PL,2023,2024-02-04,Arsenal FC,Liverpool FC,57,64,3,1,1
+436165,PL,2023,2024-02-05,Brentford FC,Manchester City FC,402,65,1,3,0
+436178,PL,2023,2024-02-10,Manchester City FC,Everton FC,65,62,2,0,1
+436175,PL,2023,2024-02-10,Fulham FC,AFC Bournemouth,63,1044,3,1,1
+436176,PL,2023,2024-02-10,Liverpool FC,Burnley FC,64,328,3,1,1
+436177,PL,2023,2024-02-10,Luton Town FC,Sheffield United FC,389,356,1,3,0
+436180,PL,2023,2024-02-10,Tottenham Hotspur FC,Brighton & Hove Albion FC,73,397,2,1,1
+436182,PL,2023,2024-02-10,Wolverhampton Wanderers FC,Brentford FC,76,402,0,2,0
+436179,PL,2023,2024-02-10,Nottingham Forest FC,Newcastle United FC,351,67,2,3,0
+436181,PL,2023,2024-02-11,West Ham United FC,Arsenal FC,563,57,0,6,0
+436173,PL,2023,2024-02-11,Aston Villa FC,Manchester United FC,58,66,1,2,0
+436174,PL,2023,2024-02-12,Crystal Palace FC,Chelsea FC,354,61,1,3,0
+436183,PL,2023,2024-02-17,Brentford FC,Liverpool FC,402,64,1,4,0
+436184,PL,2023,2024-02-17,Burnley FC,Arsenal FC,328,57,0,5,0
+436186,PL,2023,2024-02-17,Fulham FC,Aston Villa FC,63,58,1,2,0
+436190,PL,2023,2024-02-17,Nottingham Forest FC,West Ham United FC,351,563,2,0,1
+436192,PL,2023,2024-02-17,Tottenham Hotspur FC,Wolverhampton Wanderers FC,73,76,1,2,0
+436191,PL,2023,2024-02-18,Sheffield United FC,Brighton & Hove Albion FC,356,397,0,5,0
+436187,PL,2023,2024-02-18,Luton Town FC,Manchester United FC,389,66,1,2,0
+436118,PL,2023,2024-02-20,Manchester City FC,Brentford FC,65,402,1,0,1
+436199,PL,2023,2024-02-21,Liverpool FC,Luton Town FC,64,389,4,1,1
+436195,PL,2023,2024-02-24,Aston Villa FC,Nottingham Forest FC,58,351,4,2,1
+436198,PL,2023,2024-02-24,Crystal Palace FC,Burnley FC,354,328,3,0,1
+436200,PL,2023,2024-02-24,Manchester United FC,Fulham FC,66,63,1,2,0
+436193,PL,2023,2024-02-24,AFC Bournemouth,Manchester City FC,1044,65,0,1,0
+436194,PL,2023,2024-02-24,Arsenal FC,Newcastle United FC,57,67,4,1,1
+436202,PL,2023,2024-02-25,Wolverhampton Wanderers FC,Sheffield United FC,76,356,1,0,1
+436201,PL,2023,2024-02-26,West Ham United FC,Brentford FC,563,402,4,2,1
+436205,PL,2023,2024-03-02,Everton FC,West Ham United FC,62,563,1,3,0
+436206,PL,2023,2024-03-02,Fulham FC,Brighton & Hove Albion FC,63,397,3,0,1
+436209,PL,2023,2024-03-02,Newcastle United FC,Wolverhampton Wanderers FC,67,76,3,0,1
+436210,PL,2023,2024-03-02,Nottingham Forest FC,Liverpool FC,351,64,0,1,0
+436212,PL,2023,2024-03-02,Tottenham Hotspur FC,Crystal Palace FC,73,354,3,1,1
+436207,PL,2023,2024-03-02,Luton Town FC,Aston Villa FC,389,58,2,3,0
+436204,PL,2023,2024-03-03,Burnley FC,AFC Bournemouth,328,1044,0,2,0
+436208,PL,2023,2024-03-03,Manchester City FC,Manchester United FC,65,66,3,1,1
+436211,PL,2023,2024-03-04,Sheffield United FC,Arsenal FC,356,57,0,6,0
+436220,PL,2023,2024-03-09,Manchester United FC,Everton FC,66,62,2,0,1
+436222,PL,2023,2024-03-09,Wolverhampton Wanderers FC,Fulham FC,76,63,2,1,1
+436214,PL,2023,2024-03-09,Arsenal FC,Brentford FC,57,402,2,1,1
+436215,PL,2023,2024-03-10,Aston Villa FC,Tottenham Hotspur FC,58,73,0,4,0
+436216,PL,2023,2024-03-10,Brighton & Hove Albion FC,Nottingham Forest FC,397,351,1,0,1
+436217,PL,2023,2024-03-11,Chelsea FC,Newcastle United FC,61,67,3,2,1
+436103,PL,2023,2024-03-13,AFC Bournemouth,Luton Town FC,1044,389,4,3,1
+436225,PL,2023,2024-03-16,Burnley FC,Brentford FC,328,402,2,1,1
+436228,PL,2023,2024-03-16,Fulham FC,Tottenham Hotspur FC,63,73,3,0,1
+436239,PL,2023,2024-03-30,Newcastle United FC,West Ham United FC,67,563,4,3,1
+436233,PL,2023,2024-03-30,AFC Bournemouth,Everton FC,1044,62,2,1,1
+436242,PL,2023,2024-03-30,Tottenham Hotspur FC,Luton Town FC,73,389,2,1,1
+436234,PL,2023,2024-03-30,Aston Villa FC,Wolverhampton Wanderers FC,58,76,2,0,1
+436237,PL,2023,2024-03-31,Liverpool FC,Brighton & Hove Albion FC,64,397,2,1,1
+436247,PL,2023,2024-04-02,Nottingham Forest FC,Fulham FC,351,63,3,1,1
+436243,PL,2023,2024-04-02,AFC Bournemouth,Crystal Palace FC,1044,354,1,0,1
+436244,PL,2023,2024-04-03,Arsenal FC,Luton Town FC,57,389,2,0,1
+436252,PL,2023,2024-04-03,Manchester City FC,Aston Villa FC,65,58,4,1,1
+436251,PL,2023,2024-04-04,Liverpool FC,Sheffield United FC,64,356,3,1,1
+436249,PL,2023,2024-04-04,Chelsea FC,Manchester United FC,61,66,4,3,1
+436255,PL,2023,2024-04-06,Crystal Palace FC,Manchester City FC,354,65,2,4,0
+436256,PL,2023,2024-04-06,Everton FC,Burnley FC,62,328,1,0,1
+436257,PL,2023,2024-04-06,Fulham FC,Newcastle United FC,63,67,0,1,0
+436258,PL,2023,2024-04-06,Luton Town FC,AFC Bournemouth,389,1044,2,1,1
+436262,PL,2023,2024-04-06,Wolverhampton Wanderers FC,West Ham United FC,76,563,1,2,0
+436254,PL,2023,2024-04-06,Brighton & Hove Albion FC,Arsenal FC,397,57,0,3,0
+436261,PL,2023,2024-04-07,Tottenham Hotspur FC,Nottingham Forest FC,73,351,3,1,1
+436270,PL,2023,2024-04-13,Newcastle United FC,Tottenham Hotspur FC,67,73,4,0,1
+436265,PL,2023,2024-04-13,Brentford FC,Sheffield United FC,402,356,2,0,1
+436269,PL,2023,2024-04-13,Manchester City FC,Luton Town FC,65,389,5,1,1
+436268,PL,2023,2024-04-14,Liverpool FC,Crystal Palace FC,64,354,0,1,0
+436272,PL,2023,2024-04-14,West Ham United FC,Fulham FC,563,63,0,2,0
+436264,PL,2023,2024-04-14,Arsenal FC,Aston Villa FC,57,58,0,2,0
+436267,PL,2023,2024-04-15,Chelsea FC,Everton FC,61,62,6,0,1
+436278,PL,2023,2024-04-20,Luton Town FC,Brentford FC,389,402,1,5,0
+436280,PL,2023,2024-04-20,Sheffield United FC,Burnley FC,356,328,1,4,0
+436282,PL,2023,2024-04-20,Wolverhampton Wanderers FC,Arsenal FC,76,57,0,2,0
+436276,PL,2023,2024-04-21,Everton FC,Nottingham Forest FC,62,351,2,0,1
+436273,PL,2023,2024-04-21,Aston Villa FC,AFC Bournemouth,58,1044,3,1,1
+436275,PL,2023,2024-04-21,Crystal Palace FC,West Ham United FC,354,563,5,2,1
+436277,PL,2023,2024-04-21,Fulham FC,Liverpool FC,63,64,1,3,0
+436223,PL,2023,2024-04-23,Arsenal FC,Chelsea FC,57,61,5,0,1
+436232,PL,2023,2024-04-24,Wolverhampton Wanderers FC,AFC Bournemouth,76,1044,0,1,0
+436226,PL,2023,2024-04-24,Crystal Palace FC,Newcastle United FC,354,67,2,0,1
+436227,PL,2023,2024-04-24,Everton FC,Liverpool FC,62,64,2,0,1
+436230,PL,2023,2024-04-24,Manchester United FC,Sheffield United FC,66,356,4,2,1
+436224,PL,2023,2024-04-25,Brighton & Hove Albion FC,Manchester City FC,397,65,0,4,0
+436288,PL,2023,2024-04-27,Newcastle United FC,Sheffield United FC,67,356,5,1,1
+436292,PL,2023,2024-04-27,Wolverhampton Wanderers FC,Luton Town FC,76,389,2,1,1
+436285,PL,2023,2024-04-27,Everton FC,Brentford FC,62,402,1,0,1
+436283,PL,2023,2024-04-28,AFC Bournemouth,Brighton & Hove Albion FC,1044,397,3,0,1
+436290,PL,2023,2024-04-28,Tottenham Hotspur FC,Arsenal FC,73,57,2,3,0
+436289,PL,2023,2024-04-28,Nottingham Forest FC,Manchester City FC,351,65,0,2,0
+436197,PL,2023,2024-05-02,Chelsea FC,Tottenham Hotspur FC,61,73,2,0,1
+436293,PL,2023,2024-05-04,Arsenal FC,AFC Bournemouth,57,1044,3,0,1
+436296,PL,2023,2024-05-04,Burnley FC,Newcastle United FC,328,67,1,4,0
+436302,PL,2023,2024-05-04,Sheffield United FC,Nottingham Forest FC,356,351,1,3,0
+436301,PL,2023,2024-05-04,Manchester City FC,Wolverhampton Wanderers FC,65,76,5,1,1
+436295,PL,2023,2024-05-05,Brighton & Hove Albion FC,Aston Villa FC,397,58,1,0,1
+436297,PL,2023,2024-05-05,Chelsea FC,West Ham United FC,61,563,5,0,1
+436299,PL,2023,2024-05-05,Liverpool FC,Tottenham Hotspur FC,64,73,4,2,1
+436298,PL,2023,2024-05-06,Crystal Palace FC,Manchester United FC,354,66,4,0,1
+436306,PL,2023,2024-05-11,Fulham FC,Manchester City FC,63,65,0,4,0
+436303,PL,2023,2024-05-11,AFC Bournemouth,Brentford FC,1044,402,1,2,0
+436305,PL,2023,2024-05-11,Everton FC,Sheffield United FC,62,356,1,0,1
+436310,PL,2023,2024-05-11,Tottenham Hotspur FC,Burnley FC,73,328,2,1,1
+436311,PL,2023,2024-05-11,West Ham United FC,Luton Town FC,563,389,3,1,1
+436312,PL,2023,2024-05-11,Wolverhampton Wanderers FC,Crystal Palace FC,76,354,1,3,0
+436309,PL,2023,2024-05-11,Nottingham Forest FC,Chelsea FC,351,61,2,3,0
+436307,PL,2023,2024-05-12,Manchester United FC,Arsenal FC,66,57,0,1,0
+436281,PL,2023,2024-05-14,Tottenham Hotspur FC,Manchester City FC,73,65,0,2,0
+436274,PL,2023,2024-05-15,Brighton & Hove Albion FC,Chelsea FC,397,61,1,2,0
+436279,PL,2023,2024-05-15,Manchester United FC,Newcastle United FC,66,67,3,2,1
+436313,PL,2023,2024-05-19,Arsenal FC,Everton FC,57,62,2,1,1
+436314,PL,2023,2024-05-19,Brentford FC,Newcastle United FC,402,67,2,4,0
+436315,PL,2023,2024-05-19,Brighton & Hove Albion FC,Manchester United FC,397,66,0,2,0
+436316,PL,2023,2024-05-19,Burnley FC,Nottingham Forest FC,328,351,1,2,0
+436317,PL,2023,2024-05-19,Chelsea FC,AFC Bournemouth,61,1044,2,1,1
+436318,PL,2023,2024-05-19,Crystal Palace FC,Aston Villa FC,354,58,5,0,1
+436319,PL,2023,2024-05-19,Liverpool FC,Wolverhampton Wanderers FC,64,76,2,0,1
+436320,PL,2023,2024-05-19,Luton Town FC,Fulham FC,389,63,2,4,0
+436321,PL,2023,2024-05-19,Manchester City FC,West Ham United FC,65,563,3,1,1
+436322,PL,2023,2024-05-19,Sheffield United FC,Tottenham Hotspur FC,356,73,0,3,0
+497410,PL,2024,2024-08-16,Manchester United FC,Fulham FC,66,63,1,0,1
+497411,PL,2024,2024-08-17,Ipswich Town FC,Liverpool FC,349,64,0,2,0
+497412,PL,2024,2024-08-17,Arsenal FC,Wolverhampton Wanderers FC,57,76,2,0,1
+497413,PL,2024,2024-08-17,Everton FC,Brighton & Hove Albion FC,62,397,0,3,0
+497414,PL,2024,2024-08-17,Newcastle United FC,Southampton FC,67,340,1,0,1
+497416,PL,2024,2024-08-17,West Ham United FC,Aston Villa FC,563,58,1,2,0
+497417,PL,2024,2024-08-18,Brentford FC,Crystal Palace FC,402,354,2,1,1
+497418,PL,2024,2024-08-18,Chelsea FC,Manchester City FC,61,65,0,2,0
+497422,PL,2024,2024-08-24,Brighton & Hove Albion FC,Manchester United FC,397,66,2,1,1
+497423,PL,2024,2024-08-24,Crystal Palace FC,West Ham United FC,354,563,0,2,0
+497424,PL,2024,2024-08-24,Fulham FC,Leicester City FC,63,338,2,1,1
+497426,PL,2024,2024-08-24,Manchester City FC,Ipswich Town FC,65,349,4,1,1
+497427,PL,2024,2024-08-24,Southampton FC,Nottingham Forest FC,340,351,0,1,0
+497428,PL,2024,2024-08-24,Tottenham Hotspur FC,Everton FC,73,62,4,0,1
+497421,PL,2024,2024-08-24,Aston Villa FC,Arsenal FC,58,57,0,2,0
+497429,PL,2024,2024-08-25,Wolverhampton Wanderers FC,Chelsea FC,76,61,2,6,0
+497425,PL,2024,2024-08-25,Liverpool FC,Brentford FC,64,402,2,0,1
+497431,PL,2024,2024-08-31,Brentford FC,Southampton FC,402,340,3,1,1
+497433,PL,2024,2024-08-31,Everton FC,AFC Bournemouth,62,1044,2,3,0
+497435,PL,2024,2024-08-31,Leicester City FC,Aston Villa FC,338,58,1,2,0
+497439,PL,2024,2024-08-31,West Ham United FC,Manchester City FC,563,65,1,3,0
+497437,PL,2024,2024-09-01,Newcastle United FC,Tottenham Hotspur FC,67,73,2,1,1
+497436,PL,2024,2024-09-01,Manchester United FC,Liverpool FC,66,64,0,3,0
+497447,PL,2024,2024-09-14,Southampton FC,Manchester United FC,340,66,0,3,0
+497445,PL,2024,2024-09-14,Liverpool FC,Nottingham Forest FC,64,351,0,1,0
+497446,PL,2024,2024-09-14,Manchester City FC,Brentford FC,65,402,2,1,1
+497441,PL,2024,2024-09-14,Aston Villa FC,Everton FC,58,62,3,2,1
+497440,PL,2024,2024-09-14,AFC Bournemouth,Chelsea FC,1044,61,0,1,0
+497448,PL,2024,2024-09-15,Tottenham Hotspur FC,Arsenal FC,73,57,0,1,0
+497449,PL,2024,2024-09-15,Wolverhampton Wanderers FC,Newcastle United FC,76,67,1,2,0
+497459,PL,2024,2024-09-21,West Ham United FC,Chelsea FC,563,61,0,3,0
+497450,PL,2024,2024-09-21,Aston Villa FC,Wolverhampton Wanderers FC,58,76,3,1,1
+497453,PL,2024,2024-09-21,Fulham FC,Newcastle United FC,63,67,3,1,1
+497455,PL,2024,2024-09-21,Liverpool FC,AFC Bournemouth,64,1044,3,0,1
+497458,PL,2024,2024-09-21,Tottenham Hotspur FC,Brentford FC,73,402,3,1,1
+497461,PL,2024,2024-09-28,Arsenal FC,Leicester City FC,57,338,4,2,1
+497463,PL,2024,2024-09-28,Chelsea FC,Brighton & Hove Albion FC,61,397,4,2,1
+497464,PL,2024,2024-09-28,Everton FC,Crystal Palace FC,62,354,2,1,1
+497468,PL,2024,2024-09-28,Nottingham Forest FC,Fulham FC,351,63,0,1,0
+497469,PL,2024,2024-09-28,Wolverhampton Wanderers FC,Liverpool FC,76,64,1,2,0
+497466,PL,2024,2024-09-29,Manchester United FC,Tottenham Hotspur FC,66,73,0,3,0
+497460,PL,2024,2024-09-30,AFC Bournemouth,Southampton FC,1044,340,3,1,1
+497475,PL,2024,2024-10-05,Crystal Palace FC,Liverpool FC,354,64,0,1,0
+497470,PL,2024,2024-10-05,Arsenal FC,Southampton FC,57,340,3,1,1
+497472,PL,2024,2024-10-05,Brentford FC,Wolverhampton Wanderers FC,402,76,5,3,1
+497477,PL,2024,2024-10-05,Leicester City FC,AFC Bournemouth,338,1044,1,0,1
+497478,PL,2024,2024-10-05,Manchester City FC,Fulham FC,65,63,3,2,1
+497479,PL,2024,2024-10-05,West Ham United FC,Ipswich Town FC,563,349,4,1,1
+497473,PL,2024,2024-10-06,Brighton & Hove Albion FC,Tottenham Hotspur FC,397,73,3,2,1
+497488,PL,2024,2024-10-19,Tottenham Hotspur FC,West Ham United FC,73,563,4,1,1
+497481,PL,2024,2024-10-19,Fulham FC,Aston Villa FC,63,58,1,3,0
+497482,PL,2024,2024-10-19,Ipswich Town FC,Everton FC,349,62,0,2,0
+497484,PL,2024,2024-10-19,Manchester United FC,Brentford FC,66,402,2,1,1
+497485,PL,2024,2024-10-19,Newcastle United FC,Brighton & Hove Albion FC,67,397,0,1,0
+497487,PL,2024,2024-10-19,Southampton FC,Leicester City FC,340,338,2,3,0
+497480,PL,2024,2024-10-19,AFC Bournemouth,Arsenal FC,1044,57,2,0,1
+497489,PL,2024,2024-10-20,Wolverhampton Wanderers FC,Manchester City FC,76,65,1,2,0
+497483,PL,2024,2024-10-20,Liverpool FC,Chelsea FC,64,61,2,1,1
+497486,PL,2024,2024-10-21,Nottingham Forest FC,Crystal Palace FC,351,354,1,0,1
+497497,PL,2024,2024-10-25,Leicester City FC,Nottingham Forest FC,338,351,1,3,0
+497492,PL,2024,2024-10-26,Brentford FC,Ipswich Town FC,402,349,4,3,1
+497498,PL,2024,2024-10-26,Manchester City FC,Southampton FC,65,340,1,0,1
+497494,PL,2024,2024-10-27,Chelsea FC,Newcastle United FC,61,67,2,1,1
+497495,PL,2024,2024-10-27,Crystal Palace FC,Tottenham Hotspur FC,354,73,1,0,1
+497499,PL,2024,2024-10-27,West Ham United FC,Manchester United FC,563,66,2,1,1
+497505,PL,2024,2024-11-02,Newcastle United FC,Arsenal FC,67,57,1,0,1
+497500,PL,2024,2024-11-02,AFC Bournemouth,Manchester City FC,1044,65,2,1,1
+497503,PL,2024,2024-11-02,Liverpool FC,Brighton & Hove Albion FC,64,397,2,1,1
+497506,PL,2024,2024-11-02,Nottingham Forest FC,West Ham United FC,351,563,3,0,1
+497507,PL,2024,2024-11-02,Southampton FC,Everton FC,340,62,1,0,1
+497508,PL,2024,2024-11-03,Tottenham Hotspur FC,Aston Villa FC,73,58,4,1,1
+497501,PL,2024,2024-11-04,Fulham FC,Brentford FC,63,402,2,1,1
+497510,PL,2024,2024-11-09,Brentford FC,AFC Bournemouth,402,1044,3,2,1
+497513,PL,2024,2024-11-09,Crystal Palace FC,Fulham FC,354,63,0,2,0
+497519,PL,2024,2024-11-09,Wolverhampton Wanderers FC,Southampton FC,76,340,2,0,1
+497511,PL,2024,2024-11-09,Brighton & Hove Albion FC,Manchester City FC,397,65,2,1,1
+497514,PL,2024,2024-11-09,Liverpool FC,Aston Villa FC,64,58,2,0,1
+497515,PL,2024,2024-11-10,Manchester United FC,Leicester City FC,66,338,3,0,1
+497516,PL,2024,2024-11-10,Nottingham Forest FC,Newcastle United FC,351,67,1,3,0
+497517,PL,2024,2024-11-10,Tottenham Hotspur FC,Ipswich Town FC,73,349,1,2,0
+497526,PL,2024,2024-11-23,Leicester City FC,Chelsea FC,338,61,1,2,0
+497520,PL,2024,2024-11-23,AFC Bournemouth,Brighton & Hove Albion FC,1044,397,1,2,0
+497521,PL,2024,2024-11-23,Arsenal FC,Nottingham Forest FC,57,351,3,0,1
+497524,PL,2024,2024-11-23,Fulham FC,Wolverhampton Wanderers FC,63,76,1,4,0
+497527,PL,2024,2024-11-23,Manchester City FC,Tottenham Hotspur FC,65,73,0,4,0
+497529,PL,2024,2024-11-24,Southampton FC,Liverpool FC,340,64,2,3,0
+497528,PL,2024,2024-11-25,Newcastle United FC,West Ham United FC,67,563,0,2,0
+497530,PL,2024,2024-11-30,Brentford FC,Leicester City FC,402,338,4,1,1
+497536,PL,2024,2024-11-30,Nottingham Forest FC,Ipswich Town FC,351,349,1,0,1
+497539,PL,2024,2024-11-30,Wolverhampton Wanderers FC,AFC Bournemouth,76,1044,2,4,0
+497538,PL,2024,2024-11-30,West Ham United FC,Arsenal FC,563,57,2,5,0
+497532,PL,2024,2024-12-01,Chelsea FC,Aston Villa FC,61,58,3,0,1
+497535,PL,2024,2024-12-01,Manchester United FC,Everton FC,66,62,4,0,1
+497534,PL,2024,2024-12-01,Liverpool FC,Manchester City FC,64,65,2,0,1
+497545,PL,2024,2024-12-03,Ipswich Town FC,Crystal Palace FC,349,354,0,1,0
+497546,PL,2024,2024-12-03,Leicester City FC,West Ham United FC,338,563,3,1,1
+497543,PL,2024,2024-12-04,Everton FC,Wolverhampton Wanderers FC,62,76,4,0,1
+497547,PL,2024,2024-12-04,Manchester City FC,Nottingham Forest FC,65,351,3,0,1
+497549,PL,2024,2024-12-04,Southampton FC,Chelsea FC,340,61,1,5,0
+497541,PL,2024,2024-12-04,Arsenal FC,Manchester United FC,57,66,2,0,1
+497542,PL,2024,2024-12-04,Aston Villa FC,Brentford FC,58,402,3,1,1
+497544,PL,2024,2024-12-05,Fulham FC,Brighton & Hove Albion FC,63,397,3,1,1
+497540,PL,2024,2024-12-05,AFC Bournemouth,Tottenham Hotspur FC,1044,73,1,0,1
+497550,PL,2024,2024-12-07,Aston Villa FC,Southampton FC,58,340,1,0,1
+497551,PL,2024,2024-12-07,Brentford FC,Newcastle United FC,402,67,4,2,1
+497557,PL,2024,2024-12-07,Manchester United FC,Nottingham Forest FC,66,351,2,3,0
+497555,PL,2024,2024-12-08,Ipswich Town FC,AFC Bournemouth,349,1044,1,2,0
+497558,PL,2024,2024-12-08,Tottenham Hotspur FC,Chelsea FC,73,61,3,4,0
+497559,PL,2024,2024-12-09,West Ham United FC,Wolverhampton Wanderers FC,563,76,2,1,1
+497566,PL,2024,2024-12-14,Newcastle United FC,Leicester City FC,67,338,4,0,1
+497569,PL,2024,2024-12-14,Wolverhampton Wanderers FC,Ipswich Town FC,76,349,1,2,0
+497567,PL,2024,2024-12-14,Nottingham Forest FC,Aston Villa FC,351,58,2,1,1
+497562,PL,2024,2024-12-15,Brighton & Hove Albion FC,Crystal Palace FC,397,354,1,3,0
+497565,PL,2024,2024-12-15,Manchester City FC,Manchester United FC,65,66,1,2,0
+497563,PL,2024,2024-12-15,Chelsea FC,Brentford FC,61,402,2,1,1
+497568,PL,2024,2024-12-15,Southampton FC,Tottenham Hotspur FC,340,73,0,5,0
+497570,PL,2024,2024-12-21,Aston Villa FC,Manchester City FC,58,65,2,1,1
+497571,PL,2024,2024-12-21,Brentford FC,Nottingham Forest FC,402,351,0,2,0
+497575,PL,2024,2024-12-21,Ipswich Town FC,Newcastle United FC,349,67,0,4,0
+497572,PL,2024,2024-12-21,Crystal Palace FC,Arsenal FC,354,57,1,5,0
+497576,PL,2024,2024-12-22,Leicester City FC,Wolverhampton Wanderers FC,338,76,0,3,0
+497577,PL,2024,2024-12-22,Manchester United FC,AFC Bournemouth,66,1044,0,3,0
+497578,PL,2024,2024-12-22,Tottenham Hotspur FC,Liverpool FC,73,64,3,6,0
+497583,PL,2024,2024-12-26,Chelsea FC,Fulham FC,61,63,1,2,0
+497586,PL,2024,2024-12-26,Newcastle United FC,Aston Villa FC,67,58,3,0,1
+497587,PL,2024,2024-12-26,Nottingham Forest FC,Tottenham Hotspur FC,351,73,1,0,1
+497588,PL,2024,2024-12-26,Southampton FC,West Ham United FC,340,563,0,1,0
+497589,PL,2024,2024-12-26,Wolverhampton Wanderers FC,Manchester United FC,76,66,2,0,1
+497584,PL,2024,2024-12-26,Liverpool FC,Leicester City FC,64,338,3,1,1
+497581,PL,2024,2024-12-27,Arsenal FC,Ipswich Town FC,57,349,1,0,1
+497596,PL,2024,2024-12-29,Leicester City FC,Manchester City FC,338,65,0,2,0
+497592,PL,2024,2024-12-29,Crystal Palace FC,Southampton FC,354,340,2,1,1
+497593,PL,2024,2024-12-29,Everton FC,Nottingham Forest FC,62,351,0,2,0
+497599,PL,2024,2024-12-29,West Ham United FC,Liverpool FC,563,64,0,5,0
+497595,PL,2024,2024-12-30,Ipswich Town FC,Chelsea FC,349,61,2,0,1
+497597,PL,2024,2024-12-30,Manchester United FC,Newcastle United FC,66,67,0,2,0
+497591,PL,2024,2025-01-01,Brentford FC,Arsenal FC,402,57,1,3,0
+497607,PL,2024,2025-01-04,Tottenham Hotspur FC,Newcastle United FC,73,67,1,2,0
+497601,PL,2024,2025-01-04,Southampton FC,Brentford FC,340,402,0,5,0
+497603,PL,2024,2025-01-04,AFC Bournemouth,Everton FC,1044,62,1,0,1
+497605,PL,2024,2025-01-04,Aston Villa FC,Leicester City FC,58,338,2,1,1
+497609,PL,2024,2025-01-04,Manchester City FC,West Ham United FC,65,563,4,1,1
+497608,PL,2024,2025-01-06,Wolverhampton Wanderers FC,Nottingham Forest FC,76,351,0,3,0
+497613,PL,2024,2025-01-14,West Ham United FC,Fulham FC,563,63,3,2,1
+497610,PL,2024,2025-01-15,Everton FC,Aston Villa FC,62,58,0,1,0
+497612,PL,2024,2025-01-15,Leicester City FC,Crystal Palace FC,338,354,0,2,0
+497619,PL,2024,2025-01-15,Newcastle United FC,Wolverhampton Wanderers FC,67,76,3,0,1
+497616,PL,2024,2025-01-15,Arsenal FC,Tottenham Hotspur FC,57,73,2,1,1
+497611,PL,2024,2025-01-16,Ipswich Town FC,Brighton & Hove Albion FC,349,397,0,2,0
+497618,PL,2024,2025-01-16,Manchester United FC,Southampton FC,66,340,3,1,1
+497620,PL,2024,2025-01-18,Newcastle United FC,AFC Bournemouth,67,1044,1,4,0
+497623,PL,2024,2025-01-18,West Ham United FC,Crystal Palace FC,563,354,0,2,0
+497624,PL,2024,2025-01-18,Leicester City FC,Fulham FC,338,63,0,2,0
+497625,PL,2024,2025-01-18,Brentford FC,Liverpool FC,402,64,0,2,0
+497622,PL,2024,2025-01-19,Manchester United FC,Brighton & Hove Albion FC,66,397,1,3,0
+497627,PL,2024,2025-01-19,Nottingham Forest FC,Southampton FC,351,340,3,2,1
+497628,PL,2024,2025-01-19,Everton FC,Tottenham Hotspur FC,62,73,3,2,1
+497626,PL,2024,2025-01-19,Ipswich Town FC,Manchester City FC,349,65,0,6,0
+497629,PL,2024,2025-01-20,Chelsea FC,Wolverhampton Wanderers FC,61,76,3,1,1
+497631,PL,2024,2025-01-25,Liverpool FC,Ipswich Town FC,64,349,4,1,1
+497632,PL,2024,2025-01-25,Wolverhampton Wanderers FC,Arsenal FC,76,57,0,1,0
+497633,PL,2024,2025-01-25,Brighton & Hove Albion FC,Everton FC,397,62,0,1,0
+497634,PL,2024,2025-01-25,Southampton FC,Newcastle United FC,340,67,1,3,0
+497635,PL,2024,2025-01-25,AFC Bournemouth,Nottingham Forest FC,1044,351,5,0,1
+497638,PL,2024,2025-01-25,Manchester City FC,Chelsea FC,65,61,3,1,1
+497637,PL,2024,2025-01-26,Crystal Palace FC,Brentford FC,354,402,1,2,0
+497639,PL,2024,2025-01-26,Tottenham Hotspur FC,Leicester City FC,73,338,1,2,0
+497630,PL,2024,2025-01-26,Fulham FC,Manchester United FC,63,66,0,1,0
+497641,PL,2024,2025-02-01,Nottingham Forest FC,Brighton & Hove Albion FC,351,397,7,0,1
+497643,PL,2024,2025-02-01,Newcastle United FC,Fulham FC,67,63,1,2,0
+497644,PL,2024,2025-02-01,Everton FC,Leicester City FC,62,338,4,0,1
+497645,PL,2024,2025-02-01,AFC Bournemouth,Liverpool FC,1044,64,0,2,0
+497647,PL,2024,2025-02-01,Ipswich Town FC,Southampton FC,349,340,1,2,0
+497640,PL,2024,2025-02-01,Wolverhampton Wanderers FC,Aston Villa FC,76,58,2,0,1
+497642,PL,2024,2025-02-02,Manchester United FC,Crystal Palace FC,66,354,0,2,0
+497648,PL,2024,2025-02-02,Brentford FC,Tottenham Hotspur FC,402,73,0,2,0
+497646,PL,2024,2025-02-02,Arsenal FC,Manchester City FC,57,65,5,1,1
+497649,PL,2024,2025-02-03,Chelsea FC,West Ham United FC,61,563,2,1,1
+497653,PL,2024,2025-02-14,Brighton & Hove Albion FC,Chelsea FC,397,61,3,0,1
+497651,PL,2024,2025-02-15,Leicester City FC,Arsenal FC,338,57,0,2,0
+497650,PL,2024,2025-02-15,Southampton FC,AFC Bournemouth,340,1044,1,3,0
+497652,PL,2024,2025-02-15,West Ham United FC,Brentford FC,563,402,0,1,0
+497657,PL,2024,2025-02-15,Manchester City FC,Newcastle United FC,65,67,4,0,1
+497658,PL,2024,2025-02-15,Fulham FC,Nottingham Forest FC,63,351,2,1,1
+497654,PL,2024,2025-02-15,Crystal Palace FC,Everton FC,354,62,1,2,0
+497659,PL,2024,2025-02-16,Liverpool FC,Wolverhampton Wanderers FC,64,76,2,1,1
+497656,PL,2024,2025-02-16,Tottenham Hotspur FC,Manchester United FC,73,66,1,0,1
+497660,PL,2024,2025-02-21,Leicester City FC,Brentford FC,338,402,0,4,0
+497666,PL,2024,2025-02-22,Ipswich Town FC,Tottenham Hotspur FC,349,73,1,4,0
+497667,PL,2024,2025-02-22,Fulham FC,Crystal Palace FC,63,354,0,2,0
+497668,PL,2024,2025-02-22,Arsenal FC,West Ham United FC,57,563,0,1,0
+497669,PL,2024,2025-02-22,AFC Bournemouth,Wolverhampton Wanderers FC,1044,76,0,1,0
+497661,PL,2024,2025-02-22,Southampton FC,Brighton & Hove Albion FC,340,397,0,4,0
+497662,PL,2024,2025-02-22,Aston Villa FC,Chelsea FC,58,61,2,1,1
+497663,PL,2024,2025-02-23,Newcastle United FC,Nottingham Forest FC,67,351,4,3,1
+497664,PL,2024,2025-02-23,Manchester City FC,Liverpool FC,65,64,0,2,0
+497670,PL,2024,2025-02-25,Brighton & Hove Albion FC,AFC Bournemouth,397,1044,2,1,1
+497672,PL,2024,2025-02-25,Crystal Palace FC,Aston Villa FC,354,58,4,1,1
+497674,PL,2024,2025-02-25,Wolverhampton Wanderers FC,Fulham FC,76,63,1,2,0
+497678,PL,2024,2025-02-25,Chelsea FC,Southampton FC,61,340,4,0,1
+497675,PL,2024,2025-02-26,Tottenham Hotspur FC,Manchester City FC,73,65,0,1,0
+497677,PL,2024,2025-02-26,Manchester United FC,Ipswich Town FC,66,349,3,2,1
+497679,PL,2024,2025-02-26,Liverpool FC,Newcastle United FC,64,67,2,0,1
+497676,PL,2024,2025-02-27,West Ham United FC,Leicester City FC,563,338,2,0,1
+497687,PL,2024,2025-03-08,Nottingham Forest FC,Manchester City FC,351,65,1,0,1
+497684,PL,2024,2025-03-08,Brighton & Hove Albion FC,Fulham FC,397,63,2,1,1
+497685,PL,2024,2025-03-08,Crystal Palace FC,Ipswich Town FC,354,349,1,0,1
+497688,PL,2024,2025-03-08,Liverpool FC,Southampton FC,64,340,3,1,1
+497682,PL,2024,2025-03-08,Brentford FC,Aston Villa FC,402,58,0,1,0
+497689,PL,2024,2025-03-09,Chelsea FC,Leicester City FC,61,338,1,0,1
+497686,PL,2024,2025-03-10,West Ham United FC,Newcastle United FC,563,67,0,1,0
+497695,PL,2024,2025-03-15,Ipswich Town FC,Nottingham Forest FC,349,351,2,4,0
+497699,PL,2024,2025-03-15,Southampton FC,Wolverhampton Wanderers FC,340,76,1,2,0
+497690,PL,2024,2025-03-15,AFC Bournemouth,Brentford FC,1044,402,1,2,0
+497691,PL,2024,2025-03-16,Arsenal FC,Chelsea FC,57,61,1,0,1
+497694,PL,2024,2025-03-16,Fulham FC,Tottenham Hotspur FC,63,73,2,0,1
+497696,PL,2024,2025-03-16,Leicester City FC,Manchester United FC,338,66,0,3,0
+497701,PL,2024,2025-04-01,Arsenal FC,Fulham FC,57,63,2,1,1
+497704,PL,2024,2025-04-01,Wolverhampton Wanderers FC,West Ham United FC,76,563,1,0,1
+497703,PL,2024,2025-04-01,Nottingham Forest FC,Manchester United FC,351,66,1,0,1
+497700,PL,2024,2025-04-02,AFC Bournemouth,Ipswich Town FC,1044,349,1,2,0
+497702,PL,2024,2025-04-02,Brighton & Hove Albion FC,Aston Villa FC,397,58,0,3,0
+497706,PL,2024,2025-04-02,Manchester City FC,Leicester City FC,65,338,2,0,1
+497707,PL,2024,2025-04-02,Newcastle United FC,Brentford FC,67,402,2,1,1
+497709,PL,2024,2025-04-02,Liverpool FC,Everton FC,64,62,1,0,1
+497705,PL,2024,2025-04-03,Chelsea FC,Tottenham Hotspur FC,61,73,1,0,1
+497712,PL,2024,2025-04-05,Crystal Palace FC,Brighton & Hove Albion FC,354,397,2,1,1
+497715,PL,2024,2025-04-05,Ipswich Town FC,Wolverhampton Wanderers FC,349,76,1,2,0
+497710,PL,2024,2025-04-05,Aston Villa FC,Nottingham Forest FC,58,351,2,1,1
+497714,PL,2024,2025-04-06,Fulham FC,Liverpool FC,63,64,3,2,1
+497718,PL,2024,2025-04-06,Tottenham Hotspur FC,Southampton FC,73,340,3,1,1
+497716,PL,2024,2025-04-07,Leicester City FC,Newcastle United FC,338,67,0,3,0
+497725,PL,2024,2025-04-12,Manchester City FC,Crystal Palace FC,65,354,5,2,1
+497727,PL,2024,2025-04-12,Nottingham Forest FC,Everton FC,351,62,0,1,0
+497728,PL,2024,2025-04-12,Southampton FC,Aston Villa FC,340,58,0,3,0
+497724,PL,2024,2025-04-13,Liverpool FC,West Ham United FC,64,563,2,1,1
+497729,PL,2024,2025-04-13,Wolverhampton Wanderers FC,Tottenham Hotspur FC,76,73,4,2,1
+497726,PL,2024,2025-04-13,Newcastle United FC,Manchester United FC,67,66,4,1,1
+497720,PL,2024,2025-04-14,AFC Bournemouth,Fulham FC,1044,63,1,0,1
+497698,PL,2024,2025-04-16,Newcastle United FC,Crystal Palace FC,67,354,5,0,1
+497731,PL,2024,2025-04-19,Brentford FC,Brighton & Hove Albion FC,402,397,4,2,1
+497733,PL,2024,2025-04-19,Everton FC,Manchester City FC,62,65,0,2,0
+497730,PL,2024,2025-04-19,Aston Villa FC,Newcastle United FC,58,67,4,1,1
+497734,PL,2024,2025-04-20,Fulham FC,Chelsea FC,63,61,1,2,0
+497735,PL,2024,2025-04-20,Ipswich Town FC,Arsenal FC,349,57,0,4,0
+497737,PL,2024,2025-04-20,Manchester United FC,Wolverhampton Wanderers FC,66,76,0,1,0
+497736,PL,2024,2025-04-20,Leicester City FC,Liverpool FC,338,64,0,1,0
+497738,PL,2024,2025-04-21,Tottenham Hotspur FC,Nottingham Forest FC,73,351,1,2,0
+497745,PL,2024,2025-04-22,Manchester City FC,Aston Villa FC,65,58,2,1,1
+497743,PL,2024,2025-04-26,Chelsea FC,Everton FC,61,62,1,0,1
+497742,PL,2024,2025-04-26,Brighton & Hove Albion FC,West Ham United FC,397,563,3,2,1
+497746,PL,2024,2025-04-26,Newcastle United FC,Ipswich Town FC,67,349,3,0,1
+497748,PL,2024,2025-04-26,Southampton FC,Fulham FC,340,63,1,2,0
+497749,PL,2024,2025-04-26,Wolverhampton Wanderers FC,Leicester City FC,76,338,3,0,1
+497744,PL,2024,2025-04-27,Liverpool FC,Tottenham Hotspur FC,64,73,5,1,1
+497747,PL,2024,2025-05-01,Nottingham Forest FC,Brentford FC,351,402,0,2,0
+497758,PL,2024,2025-05-02,Manchester City FC,Wolverhampton Wanderers FC,65,76,1,0,1
+497751,PL,2024,2025-05-03,Aston Villa FC,Fulham FC,58,63,1,0,1
+497757,PL,2024,2025-05-03,Leicester City FC,Southampton FC,338,340,2,0,1
+497750,PL,2024,2025-05-03,Arsenal FC,AFC Bournemouth,57,1044,1,2,0
+497752,PL,2024,2025-05-04,Brentford FC,Manchester United FC,402,66,4,3,1
+497754,PL,2024,2025-05-04,Chelsea FC,Liverpool FC,61,64,3,1,1
+497761,PL,2024,2025-05-10,Fulham FC,Everton FC,63,62,1,3,0
+497762,PL,2024,2025-05-10,Ipswich Town FC,Brentford FC,349,402,0,1,0
+497769,PL,2024,2025-05-10,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,76,397,0,2,0
+497760,PL,2024,2025-05-10,AFC Bournemouth,Aston Villa FC,1044,58,0,1,0
+497765,PL,2024,2025-05-11,Newcastle United FC,Chelsea FC,67,61,2,0,1
+497764,PL,2024,2025-05-11,Manchester United FC,West Ham United FC,66,563,0,2,0
+497768,PL,2024,2025-05-11,Tottenham Hotspur FC,Crystal Palace FC,73,354,0,2,0
+497771,PL,2024,2025-05-16,Aston Villa FC,Tottenham Hotspur FC,58,73,2,0,1
+497774,PL,2024,2025-05-16,Chelsea FC,Manchester United FC,61,66,1,0,1
+497776,PL,2024,2025-05-18,Everton FC,Southampton FC,62,340,2,0,1
+497779,PL,2024,2025-05-18,West Ham United FC,Nottingham Forest FC,563,351,1,2,0
+497772,PL,2024,2025-05-18,Brentford FC,Fulham FC,402,63,2,3,0
+497777,PL,2024,2025-05-18,Leicester City FC,Ipswich Town FC,338,349,2,0,1
+497770,PL,2024,2025-05-18,Arsenal FC,Newcastle United FC,57,67,1,0,1
+497773,PL,2024,2025-05-19,Brighton & Hove Albion FC,Liverpool FC,397,64,3,2,1
+497775,PL,2024,2025-05-20,Crystal Palace FC,Wolverhampton Wanderers FC,354,76,4,2,1
+497778,PL,2024,2025-05-20,Manchester City FC,AFC Bournemouth,65,1044,3,1,1
+497780,PL,2024,2025-05-25,AFC Bournemouth,Leicester City FC,1044,338,2,0,1
+497781,PL,2024,2025-05-25,Fulham FC,Manchester City FC,63,65,0,2,0
+497782,PL,2024,2025-05-25,Ipswich Town FC,West Ham United FC,349,563,1,3,0
+497784,PL,2024,2025-05-25,Manchester United FC,Aston Villa FC,66,58,2,0,1
+497785,PL,2024,2025-05-25,Newcastle United FC,Everton FC,67,62,0,1,0
+497786,PL,2024,2025-05-25,Nottingham Forest FC,Chelsea FC,351,61,0,1,0
+497787,PL,2024,2025-05-25,Southampton FC,Arsenal FC,340,57,1,2,0
+497788,PL,2024,2025-05-25,Tottenham Hotspur FC,Brighton & Hove Albion FC,73,397,1,4,0
+537785,PL,2025,2025-08-15,Liverpool FC,AFC Bournemouth,64,1044,4,2,1
+537789,PL,2025,2025-08-16,Sunderland AFC,West Ham United FC,71,563,3,0,1
+537790,PL,2025,2025-08-16,Tottenham Hotspur FC,Burnley FC,73,328,3,0,1
+537791,PL,2025,2025-08-16,Wolverhampton Wanderers FC,Manchester City FC,76,65,0,4,0
+537788,PL,2025,2025-08-17,Nottingham Forest FC,Brentford FC,351,402,3,1,1
+537793,PL,2025,2025-08-17,Manchester United FC,Arsenal FC,66,57,0,1,0
+537794,PL,2025,2025-08-18,Leeds United FC,Everton FC,341,62,1,0,1
+537804,PL,2025,2025-08-22,West Ham United FC,Chelsea FC,563,61,1,5,0
+537802,PL,2025,2025-08-23,Manchester City FC,Tottenham Hotspur FC,65,73,0,2,0
+537795,PL,2025,2025-08-23,AFC Bournemouth,Wolverhampton Wanderers FC,1044,76,1,0,1
+537798,PL,2025,2025-08-23,Brentford FC,Aston Villa FC,402,58,1,0,1
+537799,PL,2025,2025-08-23,Burnley FC,Sunderland AFC,328,71,2,0,1
+537797,PL,2025,2025-08-23,Arsenal FC,Leeds United FC,57,341,5,0,1
+537800,PL,2025,2025-08-24,Everton FC,Brighton & Hove Albion FC,62,397,2,0,1
+537803,PL,2025,2025-08-25,Newcastle United FC,Liverpool FC,67,64,2,3,0
+537808,PL,2025,2025-08-30,Chelsea FC,Fulham FC,61,63,2,0,1
+537805,PL,2025,2025-08-30,Sunderland AFC,Brentford FC,71,402,2,1,1
+537811,PL,2025,2025-08-30,Manchester United FC,Burnley FC,66,328,3,2,1
+537813,PL,2025,2025-08-30,Tottenham Hotspur FC,AFC Bournemouth,73,1044,0,1,0
+537814,PL,2025,2025-08-30,Wolverhampton Wanderers FC,Everton FC,76,62,2,3,0
+537807,PL,2025,2025-08-31,Brighton & Hove Albion FC,Manchester City FC,397,65,2,1,1
+537812,PL,2025,2025-08-31,Nottingham Forest FC,West Ham United FC,351,563,0,3,0
+537809,PL,2025,2025-08-31,Liverpool FC,Arsenal FC,64,57,1,0,1
+537806,PL,2025,2025-08-31,Aston Villa FC,Crystal Palace FC,58,354,0,3,0
+537817,PL,2025,2025-09-13,Arsenal FC,Nottingham Forest FC,57,351,3,0,1
+537815,PL,2025,2025-09-13,AFC Bournemouth,Brighton & Hove Albion FC,1044,397,2,1,1
+537821,PL,2025,2025-09-13,Fulham FC,Leeds United FC,63,341,1,0,1
+537823,PL,2025,2025-09-13,Newcastle United FC,Wolverhampton Wanderers FC,67,76,1,0,1
+537824,PL,2025,2025-09-13,West Ham United FC,Tottenham Hotspur FC,563,73,0,3,0
+537819,PL,2025,2025-09-14,Burnley FC,Liverpool FC,328,64,0,1,0
+537822,PL,2025,2025-09-14,Manchester City FC,Manchester United FC,65,66,3,0,1
+537831,PL,2025,2025-09-20,Liverpool FC,Everton FC,64,62,2,1,1
+537833,PL,2025,2025-09-20,West Ham United FC,Crystal Palace FC,563,354,1,2,0
+537834,PL,2025,2025-09-20,Wolverhampton Wanderers FC,Leeds United FC,76,341,1,3,0
+537832,PL,2025,2025-09-20,Manchester United FC,Chelsea FC,66,61,2,1,1
+537830,PL,2025,2025-09-20,Fulham FC,Brentford FC,63,402,3,1,1
+537837,PL,2025,2025-09-27,Brentford FC,Manchester United FC,402,66,3,1,1
+537836,PL,2025,2025-09-27,Crystal Palace FC,Liverpool FC,354,64,2,1,1
+537838,PL,2025,2025-09-27,Chelsea FC,Brighton & Hove Albion FC,61,397,1,3,0
+537841,PL,2025,2025-09-27,Manchester City FC,Burnley FC,65,328,5,1,1
+537843,PL,2025,2025-09-27,Nottingham Forest FC,Sunderland AFC,351,71,0,1,0
+537835,PL,2025,2025-09-28,Aston Villa FC,Fulham FC,58,63,3,1,1
+537842,PL,2025,2025-09-28,Newcastle United FC,Arsenal FC,67,57,1,2,0
+537845,PL,2025,2025-10-03,AFC Bournemouth,Fulham FC,1044,63,3,1,1
+537851,PL,2025,2025-10-04,Leeds United FC,Tottenham Hotspur FC,341,73,1,2,0
+537847,PL,2025,2025-10-04,Arsenal FC,West Ham United FC,57,563,2,0,1
+537852,PL,2025,2025-10-04,Manchester United FC,Sunderland AFC,66,71,2,0,1
+537849,PL,2025,2025-10-04,Chelsea FC,Liverpool FC,61,64,2,1,1
+537846,PL,2025,2025-10-05,Aston Villa FC,Burnley FC,58,328,2,1,1
+537850,PL,2025,2025-10-05,Everton FC,Crystal Palace FC,62,354,2,1,1
+537853,PL,2025,2025-10-05,Newcastle United FC,Nottingham Forest FC,67,351,2,0,1
+537848,PL,2025,2025-10-05,Brentford FC,Manchester City FC,402,65,0,1,0
+537862,PL,2025,2025-10-18,Nottingham Forest FC,Chelsea FC,351,61,0,3,0
+537856,PL,2025,2025-10-18,Brighton & Hove Albion FC,Newcastle United FC,397,67,2,1,1
+537858,PL,2025,2025-10-18,Burnley FC,Leeds United FC,328,341,2,0,1
+537861,PL,2025,2025-10-18,Manchester City FC,Everton FC,65,62,2,0,1
+537855,PL,2025,2025-10-18,Sunderland AFC,Wolverhampton Wanderers FC,71,76,2,0,1
+537859,PL,2025,2025-10-18,Fulham FC,Arsenal FC,63,57,0,1,0
+537863,PL,2025,2025-10-19,Tottenham Hotspur FC,Aston Villa FC,73,58,1,2,0
+537860,PL,2025,2025-10-19,Liverpool FC,Manchester United FC,64,66,1,2,0
+537864,PL,2025,2025-10-20,West Ham United FC,Brentford FC,563,402,0,2,0
+537871,PL,2025,2025-10-24,Leeds United FC,West Ham United FC,341,563,2,1,1
+537869,PL,2025,2025-10-25,Chelsea FC,Sunderland AFC,61,71,1,2,0
+537873,PL,2025,2025-10-25,Newcastle United FC,Fulham FC,67,63,2,1,1
+537872,PL,2025,2025-10-25,Manchester United FC,Brighton & Hove Albion FC,66,397,4,2,1
+537868,PL,2025,2025-10-25,Brentford FC,Liverpool FC,402,64,3,2,1
+537865,PL,2025,2025-10-26,AFC Bournemouth,Nottingham Forest FC,1044,351,2,0,1
+537866,PL,2025,2025-10-26,Aston Villa FC,Manchester City FC,58,65,1,0,1
+537867,PL,2025,2025-10-26,Arsenal FC,Crystal Palace FC,57,354,1,0,1
+537874,PL,2025,2025-10-26,Wolverhampton Wanderers FC,Burnley FC,76,328,2,3,0
+537870,PL,2025,2025-10-26,Everton FC,Tottenham Hotspur FC,62,73,0,3,0
+537876,PL,2025,2025-11-01,Brighton & Hove Albion FC,Leeds United FC,397,341,3,0,1
+537877,PL,2025,2025-11-01,Crystal Palace FC,Brentford FC,354,402,2,0,1
+537878,PL,2025,2025-11-01,Burnley FC,Arsenal FC,328,57,0,2,0
+537879,PL,2025,2025-11-01,Fulham FC,Wolverhampton Wanderers FC,63,76,3,0,1
+537883,PL,2025,2025-11-01,Tottenham Hotspur FC,Chelsea FC,73,61,0,1,0
+537880,PL,2025,2025-11-01,Liverpool FC,Aston Villa FC,64,58,2,0,1
+537884,PL,2025,2025-11-02,West Ham United FC,Newcastle United FC,563,67,3,1,1
+537881,PL,2025,2025-11-02,Manchester City FC,AFC Bournemouth,65,1044,3,1,1
+537890,PL,2025,2025-11-08,Everton FC,Fulham FC,62,63,2,0,1
+537894,PL,2025,2025-11-08,West Ham United FC,Burnley FC,563,328,3,2,1
+537889,PL,2025,2025-11-08,Chelsea FC,Wolverhampton Wanderers FC,61,76,3,0,1
+537886,PL,2025,2025-11-09,Aston Villa FC,AFC Bournemouth,58,1044,4,0,1
+537888,PL,2025,2025-11-09,Brentford FC,Newcastle United FC,402,67,3,1,1
+537892,PL,2025,2025-11-09,Nottingham Forest FC,Leeds United FC,351,341,3,1,1
+537891,PL,2025,2025-11-09,Manchester City FC,Liverpool FC,65,64,3,0,1
+537898,PL,2025,2025-11-22,Burnley FC,Chelsea FC,328,61,0,2,0
+537896,PL,2025,2025-11-22,Brighton & Hove Albion FC,Brentford FC,397,402,2,1,1
+537899,PL,2025,2025-11-22,Fulham FC,Sunderland AFC,63,71,1,0,1
+537900,PL,2025,2025-11-22,Liverpool FC,Nottingham Forest FC,64,351,0,3,0
+537904,PL,2025,2025-11-22,Wolverhampton Wanderers FC,Crystal Palace FC,76,354,0,2,0
+537903,PL,2025,2025-11-22,Newcastle United FC,Manchester City FC,67,65,2,1,1
+537901,PL,2025,2025-11-23,Leeds United FC,Aston Villa FC,341,58,1,2,0
+537897,PL,2025,2025-11-23,Arsenal FC,Tottenham Hotspur FC,57,73,4,1,1
+537902,PL,2025,2025-11-24,Manchester United FC,Everton FC,66,62,0,1,0
+537905,PL,2025,2025-11-29,Sunderland AFC,AFC Bournemouth,71,1044,3,2,1
+537908,PL,2025,2025-11-29,Brentford FC,Burnley FC,402,328,3,1,1
+537911,PL,2025,2025-11-29,Manchester City FC,Leeds United FC,65,341,3,2,1
+537910,PL,2025,2025-11-29,Everton FC,Newcastle United FC,62,67,1,4,0
+537913,PL,2025,2025-11-29,Tottenham Hotspur FC,Fulham FC,73,63,1,2,0
+537907,PL,2025,2025-11-30,Crystal Palace FC,Manchester United FC,354,66,1,2,0
+537906,PL,2025,2025-11-30,Aston Villa FC,Wolverhampton Wanderers FC,58,76,1,0,1
+537912,PL,2025,2025-11-30,Nottingham Forest FC,Brighton & Hove Albion FC,351,397,0,2,0
+537914,PL,2025,2025-11-30,West Ham United FC,Liverpool FC,563,64,0,2,0
+537915,PL,2025,2025-12-02,AFC Bournemouth,Everton FC,1044,62,0,1,0
+537919,PL,2025,2025-12-02,Fulham FC,Manchester City FC,63,65,4,5,0
+537916,PL,2025,2025-12-03,Brighton & Hove Albion FC,Aston Villa FC,397,58,3,4,0
+537917,PL,2025,2025-12-03,Arsenal FC,Brentford FC,57,402,2,0,1
+537918,PL,2025,2025-12-03,Burnley FC,Crystal Palace FC,328,354,0,1,0
+537924,PL,2025,2025-12-03,Wolverhampton Wanderers FC,Nottingham Forest FC,76,351,0,1,0
+537921,PL,2025,2025-12-03,Leeds United FC,Chelsea FC,341,61,3,1,1
+537926,PL,2025,2025-12-06,Aston Villa FC,Arsenal FC,58,57,2,1,1
+537928,PL,2025,2025-12-06,Everton FC,Nottingham Forest FC,62,351,3,0,1
+537931,PL,2025,2025-12-06,Manchester City FC,Sunderland AFC,65,71,3,0,1
+537932,PL,2025,2025-12-06,Newcastle United FC,Burnley FC,67,328,2,1,1
+537933,PL,2025,2025-12-06,Tottenham Hotspur FC,Brentford FC,73,402,2,0,1
+537929,PL,2025,2025-12-07,Fulham FC,Crystal Palace FC,63,354,1,2,0
+537934,PL,2025,2025-12-08,Wolverhampton Wanderers FC,Manchester United FC,76,66,1,4,0
+537940,PL,2025,2025-12-13,Chelsea FC,Everton FC,61,62,2,0,1
+537941,PL,2025,2025-12-13,Liverpool FC,Brighton & Hove Albion FC,64,397,2,0,1
+537939,PL,2025,2025-12-13,Burnley FC,Fulham FC,328,63,2,3,0
+537937,PL,2025,2025-12-13,Arsenal FC,Wolverhampton Wanderers FC,57,76,2,1,1
+537935,PL,2025,2025-12-14,Sunderland AFC,Newcastle United FC,71,67,1,0,1
+537936,PL,2025,2025-12-14,Crystal Palace FC,Manchester City FC,354,65,0,3,0
+537943,PL,2025,2025-12-14,Nottingham Forest FC,Tottenham Hotspur FC,351,73,3,0,1
+537944,PL,2025,2025-12-14,West Ham United FC,Aston Villa FC,563,58,2,3,0
+537951,PL,2025,2025-12-20,Manchester City FC,West Ham United FC,65,563,3,0,1
+537954,PL,2025,2025-12-20,Wolverhampton Wanderers FC,Brentford FC,76,402,0,2,0
+537953,PL,2025,2025-12-20,Tottenham Hotspur FC,Liverpool FC,73,64,1,2,0
+537948,PL,2025,2025-12-20,Everton FC,Arsenal FC,62,57,0,1,0
+537950,PL,2025,2025-12-20,Leeds United FC,Crystal Palace FC,341,354,4,1,1
+537946,PL,2025,2025-12-21,Aston Villa FC,Manchester United FC,58,66,2,1,1
+537949,PL,2025,2025-12-22,Fulham FC,Nottingham Forest FC,63,351,1,0,1
+537962,PL,2025,2025-12-26,Manchester United FC,Newcastle United FC,66,67,1,0,1
+537963,PL,2025,2025-12-27,Nottingham Forest FC,Manchester City FC,351,65,1,2,0
+537957,PL,2025,2025-12-27,Arsenal FC,Brighton & Hove Albion FC,57,397,2,1,1
+537958,PL,2025,2025-12-27,Brentford FC,AFC Bournemouth,402,1044,4,1,1
+537961,PL,2025,2025-12-27,Liverpool FC,Wolverhampton Wanderers FC,64,76,2,1,1
+537964,PL,2025,2025-12-27,West Ham United FC,Fulham FC,563,63,0,1,0
+537960,PL,2025,2025-12-27,Chelsea FC,Aston Villa FC,61,58,1,2,0
+537956,PL,2025,2025-12-28,Crystal Palace FC,Tottenham Hotspur FC,354,73,0,1,0
+537969,PL,2025,2025-12-30,Burnley FC,Newcastle United FC,328,67,1,3,0
+537973,PL,2025,2025-12-30,Nottingham Forest FC,Everton FC,351,62,0,2,0
+537967,PL,2025,2025-12-30,Arsenal FC,Aston Villa FC,57,58,4,1,1
+537976,PL,2025,2026-01-03,Aston Villa FC,Nottingham Forest FC,58,351,3,1,1
+537977,PL,2025,2026-01-03,Brighton & Hove Albion FC,Burnley FC,397,328,2,0,1
+537984,PL,2025,2026-01-03,Wolverhampton Wanderers FC,West Ham United FC,76,563,3,0,1
+537975,PL,2025,2026-01-03,AFC Bournemouth,Arsenal FC,1044,57,2,3,0
+537978,PL,2025,2026-01-04,Everton FC,Brentford FC,62,402,2,4,0
+537982,PL,2025,2026-01-04,Newcastle United FC,Crystal Palace FC,67,354,2,0,1
+537994,PL,2025,2026-01-06,West Ham United FC,Nottingham Forest FC,563,351,1,2,0
+537985,PL,2025,2026-01-07,AFC Bournemouth,Tottenham Hotspur FC,1044,73,3,2,1
+537988,PL,2025,2026-01-07,Brentford FC,Sunderland AFC,402,71,3,0,1
+537991,PL,2025,2026-01-07,Fulham FC,Chelsea FC,63,61,2,1,1
+537993,PL,2025,2026-01-07,Newcastle United FC,Leeds United FC,67,341,4,3,1
+538001,PL,2025,2026-01-17,Manchester United FC,Manchester City FC,66,65,2,0,1
+537995,PL,2025,2026-01-17,Sunderland AFC,Crystal Palace FC,71,354,2,1,1
+537998,PL,2025,2026-01-17,Chelsea FC,Brentford FC,61,402,2,0,1
+538000,PL,2025,2026-01-17,Leeds United FC,Fulham FC,341,63,1,0,1
+538003,PL,2025,2026-01-17,Tottenham Hotspur FC,West Ham United FC,73,563,1,2,0
+537996,PL,2025,2026-01-18,Aston Villa FC,Everton FC,58,62,0,1,0
+538014,PL,2025,2026-01-24,West Ham United FC,Sunderland AFC,563,71,3,1,1
+538011,PL,2025,2026-01-24,Fulham FC,Brighton & Hove Albion FC,63,397,2,1,1
+538012,PL,2025,2026-01-24,Manchester City FC,Wolverhampton Wanderers FC,65,76,2,0,1
+538005,PL,2025,2026-01-24,AFC Bournemouth,Liverpool FC,1044,64,3,2,1
+538006,PL,2025,2026-01-25,Crystal Palace FC,Chelsea FC,354,61,1,3,0
+538008,PL,2025,2026-01-25,Brentford FC,Nottingham Forest FC,402,351,0,2,0
+538013,PL,2025,2026-01-25,Newcastle United FC,Aston Villa FC,67,58,0,2,0
+538007,PL,2025,2026-01-25,Arsenal FC,Manchester United FC,57,66,2,3,0
+538020,PL,2025,2026-01-31,Leeds United FC,Arsenal FC,341,57,0,4,0
+538024,PL,2025,2026-01-31,Wolverhampton Wanderers FC,AFC Bournemouth,76,1044,0,2,0
+538018,PL,2025,2026-01-31,Chelsea FC,West Ham United FC,61,563,3,2,1
+538019,PL,2025,2026-01-31,Liverpool FC,Newcastle United FC,64,67,4,1,1
+538016,PL,2025,2026-02-01,Aston Villa FC,Brentford FC,58,402,0,1,0
+538021,PL,2025,2026-02-01,Manchester United FC,Fulham FC,66,63,3,2,1
+538015,PL,2025,2026-02-02,Sunderland AFC,Burnley FC,71,328,3,0,1
+538031,PL,2025,2026-02-06,Leeds United FC,Nottingham Forest FC,341,351,3,1,1
+538032,PL,2025,2026-02-07,Manchester United FC,Tottenham Hotspur FC,66,73,2,0,1
+538027,PL,2025,2026-02-07,Arsenal FC,Sunderland AFC,57,71,3,0,1
+538028,PL,2025,2026-02-07,Burnley FC,West Ham United FC,328,563,0,2,0
+538029,PL,2025,2026-02-07,Fulham FC,Everton FC,63,62,1,2,0
+538034,PL,2025,2026-02-07,Wolverhampton Wanderers FC,Chelsea FC,76,61,1,3,0
+538033,PL,2025,2026-02-07,Newcastle United FC,Brentford FC,67,402,2,3,0
+538026,PL,2025,2026-02-08,Brighton & Hove Albion FC,Crystal Palace FC,397,354,0,1,0
+538030,PL,2025,2026-02-08,Liverpool FC,Manchester City FC,64,65,1,2,0
+538040,PL,2025,2026-02-10,Everton FC,AFC Bournemouth,62,1044,1,2,0
+538043,PL,2025,2026-02-10,Tottenham Hotspur FC,Newcastle United FC,73,67,1,2,0
+538036,PL,2025,2026-02-11,Aston Villa FC,Brighton & Hove Albion FC,58,397,1,0,1
+538041,PL,2025,2026-02-11,Manchester City FC,Fulham FC,65,63,3,0,1
+538037,PL,2025,2026-02-11,Crystal Palace FC,Burnley FC,354,328,2,3,0
+538035,PL,2025,2026-02-11,Sunderland AFC,Liverpool FC,71,64,0,1,0
+538048,PL,2025,2026-02-21,Brentford FC,Brighton & Hove Albion FC,402,397,0,2,0
+538051,PL,2025,2026-02-21,Manchester City FC,Newcastle United FC,65,67,2,1,1
+538045,PL,2025,2026-02-22,Sunderland AFC,Fulham FC,71,63,1,3,0
+538047,PL,2025,2026-02-22,Crystal Palace FC,Wolverhampton Wanderers FC,354,76,1,0,1
+538052,PL,2025,2026-02-22,Nottingham Forest FC,Liverpool FC,351,64,0,1,0
+538053,PL,2025,2026-02-22,Tottenham Hotspur FC,Arsenal FC,73,57,1,4,0
+538050,PL,2025,2026-02-23,Everton FC,Manchester United FC,62,66,0,1,0
+538064,PL,2025,2026-02-27,Wolverhampton Wanderers FC,Aston Villa FC,76,58,2,0,1
+538058,PL,2025,2026-02-28,Burnley FC,Brentford FC,328,402,3,4,0
+538060,PL,2025,2026-02-28,Liverpool FC,West Ham United FC,64,563,5,2,1
+538063,PL,2025,2026-02-28,Newcastle United FC,Everton FC,67,62,2,3,0
+538061,PL,2025,2026-02-28,Leeds United FC,Manchester City FC,341,65,0,1,0
+538056,PL,2025,2026-03-01,Brighton & Hove Albion FC,Nottingham Forest FC,397,351,2,1,1
+538059,PL,2025,2026-03-01,Fulham FC,Tottenham Hotspur FC,63,73,2,1,1
+538062,PL,2025,2026-03-01,Manchester United FC,Crystal Palace FC,66,354,2,1,1
+538057,PL,2025,2026-03-01,Arsenal FC,Chelsea FC,57,61,2,1,1
+538068,PL,2025,2026-03-03,Everton FC,Burnley FC,62,328,2,0,1
+538070,PL,2025,2026-03-03,Leeds United FC,Sunderland AFC,341,71,0,1,0
+538074,PL,2025,2026-03-03,Wolverhampton Wanderers FC,Liverpool FC,76,64,2,1,1
+538066,PL,2025,2026-03-04,Aston Villa FC,Chelsea FC,58,61,1,4,0
+538067,PL,2025,2026-03-04,Brighton & Hove Albion FC,Arsenal FC,397,57,0,1,0
+538069,PL,2025,2026-03-04,Fulham FC,West Ham United FC,63,563,0,1,0
+538072,PL,2025,2026-03-04,Newcastle United FC,Manchester United FC,67,66,2,1,1
+538073,PL,2025,2026-03-05,Tottenham Hotspur FC,Crystal Palace FC,73,354,1,3,0
+538075,PL,2025,2026-03-14,Sunderland AFC,Brighton & Hove Albion FC,71,397,0,1,0
+538077,PL,2025,2026-03-14,Arsenal FC,Everton FC,57,62,2,0,1
+538080,PL,2025,2026-03-14,Chelsea FC,Newcastle United FC,61,67,0,1,0
+538082,PL,2025,2026-03-15,Manchester United FC,Aston Villa FC,66,58,3,1,1
+538087,PL,2025,2026-03-21,Brighton & Hove Albion FC,Liverpool FC,397,64,2,1,1
+538089,PL,2025,2026-03-21,Fulham FC,Burnley FC,63,328,3,1,1
+538088,PL,2025,2026-03-21,Everton FC,Chelsea FC,62,61,3,0,1
+538092,PL,2025,2026-03-22,Newcastle United FC,Sunderland AFC,67,71,1,2,0
+538086,PL,2025,2026-03-22,Aston Villa FC,West Ham United FC,58,563,2,0,1
+538093,PL,2025,2026-03-22,Tottenham Hotspur FC,Nottingham Forest FC,73,351,0,3,0
+444255,SA,2023,2023-08-19,Empoli FC,Hellas Verona FC,445,450,0,1,0
+444256,SA,2023,2023-08-19,Frosinone Calcio,SSC Napoli,470,113,1,3,0
+444257,SA,2023,2023-08-19,Genoa CFC,ACF Fiorentina,107,99,1,4,0
+444258,SA,2023,2023-08-19,FC Internazionale Milano,AC Monza,108,5911,2,0,1
+444261,SA,2023,2023-08-20,US Sassuolo Calcio,Atalanta BC,471,102,0,2,0
+444259,SA,2023,2023-08-20,US Lecce,SS Lazio,5890,110,2,1,1
+444263,SA,2023,2023-08-20,Udinese Calcio,Juventus FC,115,109,0,3,0
+444254,SA,2023,2023-08-21,Bologna FC 1909,AC Milan,103,98,0,2,0
+444266,SA,2023,2023-08-26,Frosinone Calcio,Atalanta BC,470,102,2,1,1
+444271,SA,2023,2023-08-26,AC Monza,Empoli FC,5911,445,2,0,1
+444267,SA,2023,2023-08-26,Hellas Verona FC,AS Roma,450,100,2,1,1
+444270,SA,2023,2023-08-26,AC Milan,Torino FC,98,586,4,1,1
+444269,SA,2023,2023-08-27,SS Lazio,Genoa CFC,110,107,0,1,0
+444272,SA,2023,2023-08-27,SSC Napoli,US Sassuolo Calcio,113,471,2,0,1
+444264,SA,2023,2023-08-28,Cagliari Calcio,FC Internazionale Milano,104,108,0,2,0
+444281,SA,2023,2023-09-01,US Sassuolo Calcio,Hellas Verona FC,471,450,3,1,1
+444280,SA,2023,2023-09-01,AS Roma,AC Milan,100,98,1,2,0
+444275,SA,2023,2023-09-02,Bologna FC 1909,Cagliari Calcio,103,104,2,1,1
+444274,SA,2023,2023-09-02,Atalanta BC,AC Monza,102,5911,3,0,1
+444279,SA,2023,2023-09-02,SSC Napoli,SS Lazio,113,110,1,2,0
+444277,SA,2023,2023-09-03,FC Internazionale Milano,ACF Fiorentina,108,99,4,0,1
+444282,SA,2023,2023-09-03,Torino FC,Genoa CFC,586,107,1,0,1
+444276,SA,2023,2023-09-03,Empoli FC,Juventus FC,445,109,0,2,0
+444278,SA,2023,2023-09-03,US Lecce,US Salernitana 1919,5890,455,2,0,1
+444290,SA,2023,2023-09-16,Juventus FC,SS Lazio,109,110,3,1,1
+444289,SA,2023,2023-09-16,FC Internazionale Milano,AC Milan,108,98,5,1,1
+444286,SA,2023,2023-09-17,Frosinone Calcio,US Sassuolo Calcio,470,471,4,2,1
+444285,SA,2023,2023-09-17,ACF Fiorentina,Atalanta BC,99,102,3,2,1
+444292,SA,2023,2023-09-17,AS Roma,Empoli FC,100,445,7,0,1
+444293,SA,2023,2023-09-18,US Salernitana 1919,Torino FC,455,586,0,3,0
+444298,SA,2023,2023-09-22,US Lecce,Genoa CFC,5890,107,1,0,1
+444299,SA,2023,2023-09-23,AC Milan,Hellas Verona FC,98,450,1,0,1
+444301,SA,2023,2023-09-23,US Sassuolo Calcio,Juventus FC,471,109,4,2,1
+444296,SA,2023,2023-09-24,Empoli FC,FC Internazionale Milano,445,108,0,1,0
+444294,SA,2023,2023-09-24,Atalanta BC,Cagliari Calcio,102,104,2,0,1
+444303,SA,2023,2023-09-24,Udinese Calcio,ACF Fiorentina,115,99,0,2,0
+444310,SA,2023,2023-09-26,Juventus FC,US Lecce,109,5890,1,0,1
+444304,SA,2023,2023-09-27,Cagliari Calcio,AC Milan,104,98,1,3,0
+444305,SA,2023,2023-09-27,Empoli FC,US Salernitana 1919,445,455,1,0,1
+444308,SA,2023,2023-09-27,Hellas Verona FC,Atalanta BC,450,102,0,1,0
+444309,SA,2023,2023-09-27,FC Internazionale Milano,US Sassuolo Calcio,108,471,1,2,0
+444311,SA,2023,2023-09-27,SS Lazio,Torino FC,110,586,2,0,1
+444313,SA,2023,2023-09-27,SSC Napoli,Udinese Calcio,113,115,4,1,1
+444307,SA,2023,2023-09-28,Genoa CFC,AS Roma,107,100,4,1,1
+444317,SA,2023,2023-09-30,US Lecce,SSC Napoli,5890,113,0,4,0
+444318,SA,2023,2023-09-30,AC Milan,SS Lazio,98,110,2,0,1
+444320,SA,2023,2023-09-30,US Salernitana 1919,FC Internazionale Milano,455,108,0,4,0
+444315,SA,2023,2023-10-01,Bologna FC 1909,Empoli FC,103,445,3,0,1
+444319,SA,2023,2023-10-01,AS Roma,Frosinone Calcio,100,470,2,0,1
+444321,SA,2023,2023-10-02,US Sassuolo Calcio,AC Monza,471,5911,0,1,0
+444316,SA,2023,2023-10-02,ACF Fiorentina,Cagliari Calcio,99,104,3,0,1
+444329,SA,2023,2023-10-07,Juventus FC,Torino FC,109,586,2,0,1
+444327,SA,2023,2023-10-07,Genoa CFC,AC Milan,107,98,0,1,0
+444332,SA,2023,2023-10-08,AC Monza,US Salernitana 1919,5911,455,3,0,1
+444326,SA,2023,2023-10-08,Frosinone Calcio,Hellas Verona FC,470,450,2,1,1
+444330,SA,2023,2023-10-08,SS Lazio,Atalanta BC,110,102,3,2,1
+444324,SA,2023,2023-10-08,Cagliari Calcio,AS Roma,104,100,1,4,0
+444333,SA,2023,2023-10-08,SSC Napoli,ACF Fiorentina,113,99,1,3,0
+444337,SA,2023,2023-10-21,Hellas Verona FC,SSC Napoli,450,113,1,3,0
+444342,SA,2023,2023-10-21,Torino FC,FC Internazionale Milano,586,108,0,3,0
+444341,SA,2023,2023-10-21,US Sassuolo Calcio,SS Lazio,471,110,0,2,0
+444339,SA,2023,2023-10-22,AS Roma,AC Monza,100,5911,1,0,1
+444335,SA,2023,2023-10-22,Bologna FC 1909,Frosinone Calcio,103,470,2,1,1
+444334,SA,2023,2023-10-22,Atalanta BC,Genoa CFC,102,107,2,0,1
+444338,SA,2023,2023-10-22,AC Milan,Juventus FC,98,109,0,1,0
+444336,SA,2023,2023-10-23,ACF Fiorentina,Empoli FC,99,445,0,2,0
+444346,SA,2023,2023-10-27,Genoa CFC,US Salernitana 1919,107,455,1,0,1
+444350,SA,2023,2023-10-28,US Lecce,Torino FC,5890,586,0,1,0
+444348,SA,2023,2023-10-28,Juventus FC,Hellas Verona FC,109,450,1,0,1
+444344,SA,2023,2023-10-29,Cagliari Calcio,Frosinone Calcio,104,470,4,3,1
+444347,SA,2023,2023-10-29,FC Internazionale Milano,AS Roma,108,100,1,0,1
+444345,SA,2023,2023-10-30,Empoli FC,Atalanta BC,445,102,0,3,0
+444349,SA,2023,2023-10-30,SS Lazio,ACF Fiorentina,110,99,1,0,1
+444355,SA,2023,2023-11-03,Bologna FC 1909,SS Lazio,103,110,1,0,1
+444362,SA,2023,2023-11-04,US Salernitana 1919,SSC Napoli,455,113,0,2,0
+444354,SA,2023,2023-11-04,Atalanta BC,FC Internazionale Milano,102,108,1,2,0
+444360,SA,2023,2023-11-04,AC Milan,Udinese Calcio,98,115,0,1,0
+444359,SA,2023,2023-11-05,Hellas Verona FC,AC Monza,450,5911,1,3,0
+444356,SA,2023,2023-11-05,Cagliari Calcio,Genoa CFC,104,107,2,1,1
+444361,SA,2023,2023-11-05,AS Roma,US Lecce,100,5890,2,1,1
+444357,SA,2023,2023-11-05,ACF Fiorentina,Juventus FC,99,109,0,1,0
+444358,SA,2023,2023-11-06,Frosinone Calcio,Empoli FC,470,445,2,1,1
+444363,SA,2023,2023-11-06,Torino FC,US Sassuolo Calcio,586,471,2,1,1
+444365,SA,2023,2023-11-10,Genoa CFC,Hellas Verona FC,107,450,1,0,1
+444367,SA,2023,2023-11-11,Juventus FC,Cagliari Calcio,109,104,2,1,1
+444371,SA,2023,2023-11-12,SSC Napoli,Empoli FC,113,445,0,1,0
+444364,SA,2023,2023-11-12,ACF Fiorentina,Bologna FC 1909,99,103,2,1,1
+444366,SA,2023,2023-11-12,FC Internazionale Milano,Frosinone Calcio,108,470,2,0,1
+444383,SA,2023,2023-11-25,US Salernitana 1919,SS Lazio,455,110,2,1,1
+444374,SA,2023,2023-11-25,Atalanta BC,SSC Napoli,102,113,1,2,0
+444381,SA,2023,2023-11-25,AC Milan,ACF Fiorentina,98,99,1,0,1
+444377,SA,2023,2023-11-26,Empoli FC,US Sassuolo Calcio,445,471,3,4,0
+444378,SA,2023,2023-11-26,Frosinone Calcio,Genoa CFC,470,107,2,1,1
+444382,SA,2023,2023-11-26,AS Roma,Udinese Calcio,100,115,3,1,1
+444375,SA,2023,2023-11-27,Bologna FC 1909,Torino FC,103,586,2,0,1
+444389,SA,2023,2023-12-01,AC Monza,Juventus FC,5911,109,1,2,0
+444386,SA,2023,2023-12-02,SS Lazio,Cagliari Calcio,110,104,1,0,1
+444388,SA,2023,2023-12-02,AC Milan,Frosinone Calcio,98,470,3,1,1
+444384,SA,2023,2023-12-03,ACF Fiorentina,US Salernitana 1919,99,455,3,0,1
+444391,SA,2023,2023-12-03,US Sassuolo Calcio,AS Roma,471,100,1,2,0
+444390,SA,2023,2023-12-03,SSC Napoli,FC Internazionale Milano,113,108,0,3,0
+444392,SA,2023,2023-12-04,Torino FC,Atalanta BC,586,102,3,0,1
+444400,SA,2023,2023-12-08,Juventus FC,SSC Napoli,109,113,1,0,1
+444394,SA,2023,2023-12-09,Atalanta BC,AC Milan,102,98,3,2,1
+444399,SA,2023,2023-12-09,FC Internazionale Milano,Udinese Calcio,108,115,4,0,1
+444401,SA,2023,2023-12-10,AC Monza,Genoa CFC,5911,107,1,0,1
+444403,SA,2023,2023-12-10,US Salernitana 1919,Bologna FC 1909,455,103,1,2,0
+444395,SA,2023,2023-12-11,Cagliari Calcio,US Sassuolo Calcio,104,471,2,1,1
+444409,SA,2023,2023-12-16,US Lecce,Frosinone Calcio,5890,470,2,1,1
+444411,SA,2023,2023-12-16,SSC Napoli,Cagliari Calcio,113,104,2,1,1
+444412,SA,2023,2023-12-16,Torino FC,Empoli FC,586,445,1,0,1
+444410,SA,2023,2023-12-17,AC Milan,AC Monza,98,5911,3,0,1
+444406,SA,2023,2023-12-17,ACF Fiorentina,Hellas Verona FC,99,450,1,0,1
+444405,SA,2023,2023-12-17,Bologna FC 1909,AS Roma,103,100,2,0,1
+444408,SA,2023,2023-12-17,SS Lazio,FC Internazionale Milano,110,108,0,2,0
+444404,SA,2023,2023-12-18,Atalanta BC,US Salernitana 1919,102,455,4,1,1
+444422,SA,2023,2023-12-22,US Sassuolo Calcio,Genoa CFC,471,107,1,2,0
+444415,SA,2023,2023-12-22,Empoli FC,SS Lazio,445,110,0,2,0
+444419,SA,2023,2023-12-22,AC Monza,ACF Fiorentina,5911,99,0,1,0
+444416,SA,2023,2023-12-23,Frosinone Calcio,Juventus FC,470,109,1,2,0
+444414,SA,2023,2023-12-23,Bologna FC 1909,Atalanta BC,103,102,1,0,1
+444417,SA,2023,2023-12-23,Hellas Verona FC,Cagliari Calcio,450,104,2,0,1
+444418,SA,2023,2023-12-23,FC Internazionale Milano,US Lecce,108,5890,2,0,1
+444420,SA,2023,2023-12-23,AS Roma,SSC Napoli,100,113,2,0,1
+444426,SA,2023,2023-12-29,ACF Fiorentina,Torino FC,99,586,1,0,1
+444430,SA,2023,2023-12-29,SS Lazio,Frosinone Calcio,110,470,3,1,1
+444424,SA,2023,2023-12-30,Atalanta BC,US Lecce,102,5890,1,0,1
+444433,SA,2023,2023-12-30,Udinese Calcio,Bologna FC 1909,115,103,3,0,1
+444428,SA,2023,2023-12-30,Hellas Verona FC,US Salernitana 1919,450,455,0,1,0
+444431,SA,2023,2023-12-30,AC Milan,US Sassuolo Calcio,98,471,1,0,1
+444429,SA,2023,2023-12-30,Juventus FC,AS Roma,109,100,1,0,1
+444437,SA,2023,2024-01-06,FC Internazionale Milano,Hellas Verona FC,108,450,2,1,1
+444436,SA,2023,2024-01-06,Frosinone Calcio,AC Monza,470,5911,2,3,0
+444441,SA,2023,2024-01-06,US Sassuolo Calcio,ACF Fiorentina,471,99,1,0,1
+444435,SA,2023,2024-01-07,Empoli FC,AC Milan,445,98,0,3,0
+444442,SA,2023,2024-01-07,Torino FC,SSC Napoli,586,113,3,0,1
+444443,SA,2023,2024-01-07,Udinese Calcio,SS Lazio,115,110,1,2,0
+444440,SA,2023,2024-01-07,US Salernitana 1919,Juventus FC,455,109,1,2,0
+444453,SA,2023,2024-01-13,SSC Napoli,US Salernitana 1919,113,455,2,1,1
+444448,SA,2023,2024-01-13,Hellas Verona FC,Empoli FC,450,445,2,1,1
+444452,SA,2023,2024-01-13,AC Monza,FC Internazionale Milano,5911,108,1,5,0
+444450,SA,2023,2024-01-14,SS Lazio,US Lecce,110,5890,1,0,1
+444445,SA,2023,2024-01-14,Cagliari Calcio,Bologna FC 1909,104,103,2,1,1
+444451,SA,2023,2024-01-14,AC Milan,AS Roma,98,100,3,1,1
+444444,SA,2023,2024-01-15,Atalanta BC,Frosinone Calcio,102,470,5,0,1
+444449,SA,2023,2024-01-16,Juventus FC,US Sassuolo Calcio,109,471,3,0,1
+444459,SA,2023,2024-01-20,AS Roma,Hellas Verona FC,100,450,2,1,1
+444463,SA,2023,2024-01-20,Udinese Calcio,AC Milan,115,98,2,3,0
+444456,SA,2023,2024-01-21,Frosinone Calcio,Cagliari Calcio,470,104,3,1,1
+444455,SA,2023,2024-01-21,Empoli FC,AC Monza,445,5911,3,0,1
+444460,SA,2023,2024-01-21,US Salernitana 1919,Genoa CFC,455,107,1,2,0
+444458,SA,2023,2024-01-21,US Lecce,Juventus FC,5890,109,0,3,0
+444465,SA,2023,2024-01-26,Cagliari Calcio,Torino FC,104,586,1,2,0
+444464,SA,2023,2024-01-27,Atalanta BC,Udinese Calcio,102,115,2,0,1
+444467,SA,2023,2024-01-28,Genoa CFC,US Lecce,107,5890,2,1,1
+444472,SA,2023,2024-01-28,AC Monza,US Sassuolo Calcio,5911,471,1,0,1
+444466,SA,2023,2024-01-28,ACF Fiorentina,FC Internazionale Milano,99,108,0,1,0
+444473,SA,2023,2024-01-29,US Salernitana 1919,AS Roma,455,100,1,2,0
+444479,SA,2023,2024-02-02,US Lecce,ACF Fiorentina,5890,99,3,2,1
+444477,SA,2023,2024-02-03,Frosinone Calcio,AC Milan,470,98,2,3,0
+444475,SA,2023,2024-02-03,Bologna FC 1909,US Sassuolo Calcio,103,471,4,2,1
+444480,SA,2023,2024-02-04,SSC Napoli,Hellas Verona FC,113,450,2,1,1
+444474,SA,2023,2024-02-04,Atalanta BC,SS Lazio,102,110,3,1,1
+444478,SA,2023,2024-02-04,FC Internazionale Milano,Juventus FC,108,109,1,0,1
+444481,SA,2023,2024-02-05,AS Roma,Cagliari Calcio,100,104,4,0,1
+444492,SA,2023,2024-02-09,US Salernitana 1919,Empoli FC,455,445,1,3,0
+444485,SA,2023,2024-02-10,Cagliari Calcio,SS Lazio,104,110,1,3,0
+444491,SA,2023,2024-02-10,AS Roma,FC Internazionale Milano,100,108,2,4,0
+444486,SA,2023,2024-02-11,ACF Fiorentina,Frosinone Calcio,99,470,5,1,1
+444484,SA,2023,2024-02-11,Bologna FC 1909,US Lecce,103,5890,4,0,1
+444487,SA,2023,2024-02-11,Genoa CFC,Atalanta BC,107,102,1,4,0
+444489,SA,2023,2024-02-11,AC Milan,SSC Napoli,98,113,1,0,1
+444488,SA,2023,2024-02-12,Juventus FC,Udinese Calcio,109,115,0,1,0
+444454,SA,2023,2024-02-14,Bologna FC 1909,ACF Fiorentina,103,99,2,0,1
+444502,SA,2023,2024-02-16,Torino FC,US Lecce,586,5890,2,0,1
+444498,SA,2023,2024-02-16,FC Internazionale Milano,US Salernitana 1919,108,455,4,0,1
+444494,SA,2023,2024-02-17,Atalanta BC,US Sassuolo Calcio,102,471,3,0,1
+444499,SA,2023,2024-02-18,SS Lazio,Bologna FC 1909,110,103,1,2,0
+444496,SA,2023,2024-02-18,Frosinone Calcio,AS Roma,470,100,0,3,0
+444500,SA,2023,2024-02-18,AC Monza,AC Milan,5911,98,4,2,1
+444462,SA,2023,2024-02-22,Torino FC,SS Lazio,586,110,0,2,0
+444504,SA,2023,2024-02-23,Bologna FC 1909,Hellas Verona FC,103,450,2,0,1
+444513,SA,2023,2024-02-24,US Sassuolo Calcio,Empoli FC,471,445,2,3,0
+444512,SA,2023,2024-02-24,US Salernitana 1919,AC Monza,455,5911,0,2,0
+444507,SA,2023,2024-02-24,Genoa CFC,Udinese Calcio,107,115,2,0,1
+444508,SA,2023,2024-02-25,Juventus FC,Frosinone Calcio,109,470,3,2,1
+444509,SA,2023,2024-02-25,US Lecce,FC Internazionale Milano,5890,108,0,4,0
+444511,SA,2023,2024-02-26,AS Roma,Torino FC,100,586,3,2,1
+444506,SA,2023,2024-02-26,ACF Fiorentina,SS Lazio,99,110,2,1,1
+444461,SA,2023,2024-02-28,US Sassuolo Calcio,SSC Napoli,471,113,1,6,0
+444457,SA,2023,2024-02-28,FC Internazionale Milano,Atalanta BC,108,102,4,0,1
+444519,SA,2023,2024-03-01,SS Lazio,AC Milan,110,98,0,1,0
+444520,SA,2023,2024-03-02,AC Monza,AS Roma,5911,100,1,4,0
+444517,SA,2023,2024-03-03,Hellas Verona FC,US Sassuolo Calcio,450,471,1,0,1
+444515,SA,2023,2024-03-03,Empoli FC,Cagliari Calcio,445,104,0,1,0
+444514,SA,2023,2024-03-03,Atalanta BC,Bologna FC 1909,102,103,1,2,0
+444521,SA,2023,2024-03-03,SSC Napoli,Juventus FC,113,109,2,1,1
+444518,SA,2023,2024-03-04,FC Internazionale Milano,Genoa CFC,108,107,2,1,1
+444525,SA,2023,2024-03-09,Cagliari Calcio,US Salernitana 1919,104,455,4,2,1
+444533,SA,2023,2024-03-09,US Sassuolo Calcio,Frosinone Calcio,471,470,1,0,1
+444524,SA,2023,2024-03-09,Bologna FC 1909,FC Internazionale Milano,103,108,0,1,0
+444527,SA,2023,2024-03-09,Genoa CFC,AC Monza,107,5911,2,3,0
+444530,SA,2023,2024-03-10,US Lecce,Hellas Verona FC,5890,450,0,1,0
+444531,SA,2023,2024-03-10,AC Milan,Empoli FC,98,445,1,0,1
+444529,SA,2023,2024-03-11,SS Lazio,Udinese Calcio,110,115,1,2,0
+444535,SA,2023,2024-03-15,Empoli FC,Bologna FC 1909,445,103,0,1,0
+444540,SA,2023,2024-03-16,AC Monza,Cagliari Calcio,5911,104,1,0,1
+444543,SA,2023,2024-03-16,Udinese Calcio,Torino FC,115,586,0,2,0
+444542,SA,2023,2024-03-16,US Salernitana 1919,US Lecce,455,5890,0,1,0
+444536,SA,2023,2024-03-16,Frosinone Calcio,SS Lazio,470,110,2,3,0
+444537,SA,2023,2024-03-17,Hellas Verona FC,AC Milan,450,98,1,3,0
+444541,SA,2023,2024-03-17,AS Roma,US Sassuolo Calcio,100,471,1,0,1
+444551,SA,2023,2024-03-30,SSC Napoli,Atalanta BC,113,102,0,3,0
+444553,SA,2023,2024-03-30,Torino FC,AC Monza,586,5911,1,0,1
+444549,SA,2023,2024-03-30,SS Lazio,Juventus FC,110,109,1,0,1
+444546,SA,2023,2024-03-30,ACF Fiorentina,AC Milan,99,98,1,2,0
+444544,SA,2023,2024-04-01,Bologna FC 1909,US Salernitana 1919,103,455,3,0,1
+444548,SA,2023,2024-04-01,FC Internazionale Milano,Empoli FC,108,445,2,0,1
+444559,SA,2023,2024-04-06,AC Milan,US Lecce,98,5890,3,0,1
+444561,SA,2023,2024-04-06,AS Roma,SS Lazio,100,110,1,0,1
+444555,SA,2023,2024-04-06,Empoli FC,Torino FC,445,586,3,2,1
+444560,SA,2023,2024-04-07,AC Monza,SSC Napoli,5911,113,2,4,0
+444554,SA,2023,2024-04-07,Cagliari Calcio,Atalanta BC,104,102,2,1,1
+444557,SA,2023,2024-04-07,Hellas Verona FC,Genoa CFC,450,107,1,2,0
+444558,SA,2023,2024-04-07,Juventus FC,ACF Fiorentina,109,99,1,0,1
+444563,SA,2023,2024-04-08,Udinese Calcio,FC Internazionale Milano,115,108,1,2,0
+444568,SA,2023,2024-04-12,SS Lazio,US Salernitana 1919,110,455,4,1,1
+444569,SA,2023,2024-04-13,US Lecce,Empoli FC,5890,445,1,0,1
+444576,SA,2023,2024-04-19,Genoa CFC,SS Lazio,107,110,0,1,0
+444575,SA,2023,2024-04-20,Empoli FC,SSC Napoli,445,113,1,0,1
+444577,SA,2023,2024-04-20,Hellas Verona FC,Udinese Calcio,450,115,1,0,1
+444582,SA,2023,2024-04-21,US Sassuolo Calcio,US Lecce,471,5890,0,3,0
+444581,SA,2023,2024-04-21,US Salernitana 1919,ACF Fiorentina,455,99,0,2,0
+444579,SA,2023,2024-04-21,AC Monza,Atalanta BC,5911,102,1,2,0
+444580,SA,2023,2024-04-22,AS Roma,Bologna FC 1909,100,103,1,3,0
+444578,SA,2023,2024-04-22,AC Milan,FC Internazionale Milano,98,108,1,2,0
+444573,SA,2023,2024-04-25,Udinese Calcio,AS Roma,115,100,1,2,0
+444587,SA,2023,2024-04-26,Frosinone Calcio,US Salernitana 1919,470,455,3,0,1
+444591,SA,2023,2024-04-27,SS Lazio,Hellas Verona FC,110,450,1,0,1
+444589,SA,2023,2024-04-28,FC Internazionale Milano,Torino FC,108,586,2,0,1
+444584,SA,2023,2024-04-28,Atalanta BC,Empoli FC,102,445,2,0,1
+444586,SA,2023,2024-04-28,ACF Fiorentina,US Sassuolo Calcio,99,471,5,1,1
+444588,SA,2023,2024-04-29,Genoa CFC,Cagliari Calcio,107,104,3,0,1
+444601,SA,2023,2024-05-04,US Sassuolo Calcio,FC Internazionale Milano,471,108,1,0,1
+444596,SA,2023,2024-05-05,Hellas Verona FC,ACF Fiorentina,450,99,2,1,1
+444600,SA,2023,2024-05-06,US Salernitana 1919,Atalanta BC,455,102,1,2,0
+444606,SA,2023,2024-05-10,Frosinone Calcio,FC Internazionale Milano,470,108,0,5,0
+444613,SA,2023,2024-05-11,SSC Napoli,Bologna FC 1909,113,103,0,2,0
+444612,SA,2023,2024-05-11,AC Milan,Cagliari Calcio,98,104,5,1,1
+444610,SA,2023,2024-05-12,SS Lazio,Empoli FC,110,445,2,0,1
+444607,SA,2023,2024-05-12,Genoa CFC,US Sassuolo Calcio,107,471,2,1,1
+444608,SA,2023,2024-05-12,Hellas Verona FC,Torino FC,450,586,1,2,0
+444604,SA,2023,2024-05-12,Atalanta BC,AS Roma,102,100,2,1,1
+444611,SA,2023,2024-05-13,US Lecce,Udinese Calcio,5890,115,0,2,0
+444605,SA,2023,2024-05-13,ACF Fiorentina,AC Monza,99,5911,2,1,1
+444617,SA,2023,2024-05-18,US Lecce,Atalanta BC,5890,102,0,2,0
+444622,SA,2023,2024-05-18,Torino FC,AC Milan,586,98,3,1,1
+444621,SA,2023,2024-05-19,US Sassuolo Calcio,Cagliari Calcio,471,104,0,2,0
+444618,SA,2023,2024-05-19,AC Monza,Frosinone Calcio,5911,470,0,1,0
+444619,SA,2023,2024-05-19,AS Roma,Genoa CFC,100,107,1,0,1
+444620,SA,2023,2024-05-20,US Salernitana 1919,Hellas Verona FC,455,450,1,2,0
+444625,SA,2023,2024-05-23,Cagliari Calcio,ACF Fiorentina,104,99,2,3,0
+444628,SA,2023,2024-05-24,Genoa CFC,Bologna FC 1909,107,103,2,0,1
+444630,SA,2023,2024-05-25,Juventus FC,AC Monza,109,5911,2,0,1
+444624,SA,2023,2024-05-26,Atalanta BC,Torino FC,102,586,3,0,1
+444626,SA,2023,2024-05-26,Empoli FC,AS Roma,445,100,2,1,1
+444627,SA,2023,2024-05-26,Frosinone Calcio,Udinese Calcio,470,115,0,1,0
+444534,SA,2023,2024-06-02,Atalanta BC,ACF Fiorentina,102,99,2,3,0
+503047,SA,2024,2024-08-18,Hellas Verona FC,SSC Napoli,450,113,3,0,1
+503049,SA,2024,2024-08-18,SS Lazio,Venezia FC,110,454,3,1,1
+503050,SA,2024,2024-08-19,US Lecce,Atalanta BC,5890,102,0,4,0
+503048,SA,2024,2024-08-19,Juventus FC,Como 1907,109,7397,3,0,1
+503059,SA,2024,2024-08-24,Parma Calcio 1913,AC Milan,112,98,2,1,1
+503062,SA,2024,2024-08-24,Udinese Calcio,SS Lazio,115,110,2,1,1
+503056,SA,2024,2024-08-24,FC Internazionale Milano,US Lecce,108,5890,2,0,1
+503057,SA,2024,2024-08-24,AC Monza,Genoa CFC,5911,107,0,1,0
+503061,SA,2024,2024-08-25,Torino FC,Atalanta BC,586,102,2,1,1
+503058,SA,2024,2024-08-25,SSC Napoli,Bologna FC 1909,113,103,3,0,1
+503060,SA,2024,2024-08-25,AS Roma,Empoli FC,100,445,1,2,0
+503055,SA,2024,2024-08-26,Hellas Verona FC,Juventus FC,450,109,0,3,0
+503072,SA,2024,2024-08-30,Venezia FC,Torino FC,454,586,0,1,0
+503066,SA,2024,2024-08-30,FC Internazionale Milano,Atalanta BC,108,102,4,0,1
+503069,SA,2024,2024-08-31,US Lecce,Cagliari Calcio,5890,104,1,0,1
+503070,SA,2024,2024-08-31,SSC Napoli,Parma Calcio 1913,113,112,2,1,1
+503065,SA,2024,2024-09-01,Genoa CFC,Hellas Verona FC,107,450,0,2,0
+503071,SA,2024,2024-09-01,Udinese Calcio,Como 1907,115,7397,1,0,1
+503079,SA,2024,2024-09-14,AC Milan,Venezia FC,98,454,4,0,1
+503073,SA,2024,2024-09-15,Atalanta BC,ACF Fiorentina,102,99,3,2,1
+503074,SA,2024,2024-09-15,Cagliari Calcio,SSC Napoli,104,113,0,4,0
+503081,SA,2024,2024-09-16,Parma Calcio 1913,Udinese Calcio,112,115,2,3,0
+503078,SA,2024,2024-09-16,SS Lazio,Hellas Verona FC,110,450,2,1,1
+503084,SA,2024,2024-09-20,Cagliari Calcio,Empoli FC,104,445,0,2,0
+503086,SA,2024,2024-09-20,Hellas Verona FC,Torino FC,450,586,2,3,0
+503092,SA,2024,2024-09-21,Venezia FC,Genoa CFC,454,107,2,0,1
+503085,SA,2024,2024-09-22,ACF Fiorentina,SS Lazio,99,110,2,1,1
+503090,SA,2024,2024-09-22,AC Monza,Bologna FC 1909,5911,103,1,2,0
+503091,SA,2024,2024-09-22,AS Roma,Udinese Calcio,100,115,3,0,1
+503087,SA,2024,2024-09-22,FC Internazionale Milano,AC Milan,108,98,1,2,0
+503083,SA,2024,2024-09-24,Atalanta BC,Como 1907,102,7397,2,3,0
+503097,SA,2024,2024-09-27,AC Milan,US Lecce,98,5890,3,0,1
+503102,SA,2024,2024-09-28,Udinese Calcio,FC Internazionale Milano,115,108,2,3,0
+503096,SA,2024,2024-09-28,Genoa CFC,Juventus FC,107,109,0,3,0
+503101,SA,2024,2024-09-29,Torino FC,SS Lazio,586,110,2,3,0
+503094,SA,2024,2024-09-29,Como 1907,Hellas Verona FC,7397,450,3,2,1
+503100,SA,2024,2024-09-29,AS Roma,Venezia FC,100,454,2,1,1
+503098,SA,2024,2024-09-29,SSC Napoli,AC Monza,113,5911,2,0,1
+503099,SA,2024,2024-09-30,Parma Calcio 1913,Cagliari Calcio,112,104,2,3,0
+503111,SA,2024,2024-10-04,SSC Napoli,Como 1907,113,7397,3,1,1
+503106,SA,2024,2024-10-04,Hellas Verona FC,Venezia FC,450,454,2,1,1
+503112,SA,2024,2024-10-05,Udinese Calcio,US Lecce,115,5890,1,0,1
+503103,SA,2024,2024-10-05,Atalanta BC,Genoa CFC,102,107,5,1,1
+503107,SA,2024,2024-10-05,FC Internazionale Milano,Torino FC,108,586,3,2,1
+503109,SA,2024,2024-10-06,SS Lazio,Empoli FC,110,445,2,1,1
+503105,SA,2024,2024-10-06,ACF Fiorentina,AC Milan,99,98,2,1,1
+503120,SA,2024,2024-10-19,AC Milan,Udinese Calcio,98,115,1,0,1
+503118,SA,2024,2024-10-19,Juventus FC,SS Lazio,109,110,1,0,1
+503115,SA,2024,2024-10-20,Empoli FC,SSC Napoli,445,113,0,1,0
+503119,SA,2024,2024-10-20,US Lecce,ACF Fiorentina,5890,99,0,6,0
+503122,SA,2024,2024-10-20,Venezia FC,Atalanta BC,454,102,0,2,0
+503113,SA,2024,2024-10-20,Cagliari Calcio,Torino FC,104,586,3,2,1
+503121,SA,2024,2024-10-20,AS Roma,FC Internazionale Milano,100,108,0,1,0
+503117,SA,2024,2024-10-21,Hellas Verona FC,AC Monza,450,5911,0,3,0
+503132,SA,2024,2024-10-25,Udinese Calcio,Cagliari Calcio,115,104,2,0,1
+503131,SA,2024,2024-10-25,Torino FC,Como 1907,586,7397,1,0,1
+503129,SA,2024,2024-10-26,SSC Napoli,US Lecce,113,5890,1,0,1
+503123,SA,2024,2024-10-26,Atalanta BC,Hellas Verona FC,102,450,6,1,1
+503127,SA,2024,2024-10-27,SS Lazio,Genoa CFC,110,107,3,0,1
+503125,SA,2024,2024-10-27,ACF Fiorentina,AS Roma,99,100,5,1,1
+503134,SA,2024,2024-10-29,Cagliari Calcio,Bologna FC 1909,104,103,0,2,0
+503139,SA,2024,2024-10-29,US Lecce,Hellas Verona FC,5890,450,1,0,1
+503140,SA,2024,2024-10-29,AC Milan,SSC Napoli,98,113,0,2,0
+503136,SA,2024,2024-10-30,Empoli FC,FC Internazionale Milano,445,108,0,3,0
+503142,SA,2024,2024-10-30,Venezia FC,Udinese Calcio,454,115,3,2,1
+503133,SA,2024,2024-10-30,Atalanta BC,AC Monza,102,5911,2,0,1
+503137,SA,2024,2024-10-31,Genoa CFC,ACF Fiorentina,107,99,0,1,0
+503135,SA,2024,2024-10-31,Como 1907,SS Lazio,7397,110,1,5,0
+503141,SA,2024,2024-10-31,AS Roma,Torino FC,100,586,1,0,1
+503143,SA,2024,2024-11-02,Bologna FC 1909,US Lecce,103,5890,1,0,1
+503152,SA,2024,2024-11-02,Udinese Calcio,Juventus FC,115,109,0,2,0
+503148,SA,2024,2024-11-02,AC Monza,AC Milan,5911,98,0,1,0
+503149,SA,2024,2024-11-03,SSC Napoli,Atalanta BC,113,102,0,3,0
+503151,SA,2024,2024-11-03,Torino FC,ACF Fiorentina,586,99,0,1,0
+503145,SA,2024,2024-11-03,Hellas Verona FC,AS Roma,450,100,3,2,1
+503146,SA,2024,2024-11-03,FC Internazionale Milano,Venezia FC,108,454,1,0,1
+503144,SA,2024,2024-11-04,Empoli FC,Como 1907,445,7397,1,0,1
+503150,SA,2024,2024-11-04,Parma Calcio 1913,Genoa CFC,112,107,0,1,0
+503147,SA,2024,2024-11-04,SS Lazio,Cagliari Calcio,110,104,2,1,1
+503162,SA,2024,2024-11-09,Venezia FC,Parma Calcio 1913,454,112,1,2,0
+503158,SA,2024,2024-11-09,Juventus FC,Torino FC,109,586,2,0,1
+503153,SA,2024,2024-11-10,Atalanta BC,Udinese Calcio,102,115,2,1,1
+503155,SA,2024,2024-11-10,ACF Fiorentina,Hellas Verona FC,99,450,3,1,1
+503161,SA,2024,2024-11-10,AS Roma,Bologna FC 1909,100,103,2,3,0
+503160,SA,2024,2024-11-10,AC Monza,SS Lazio,5911,110,0,1,0
+503166,SA,2024,2024-11-23,Hellas Verona FC,FC Internazionale Milano,450,108,0,5,0
+503170,SA,2024,2024-11-23,Parma Calcio 1913,Atalanta BC,112,102,1,3,0
+503163,SA,2024,2024-11-24,Como 1907,ACF Fiorentina,7397,99,0,2,0
+503169,SA,2024,2024-11-24,SSC Napoli,AS Roma,113,100,1,0,1
+503167,SA,2024,2024-11-24,SS Lazio,Bologna FC 1909,110,103,3,0,1
+503172,SA,2024,2024-11-25,Venezia FC,US Lecce,454,5890,0,1,0
+503174,SA,2024,2024-11-29,Cagliari Calcio,Hellas Verona FC,104,450,1,0,1
+503178,SA,2024,2024-11-30,AC Milan,Empoli FC,98,445,3,0,1
+503173,SA,2024,2024-11-30,Bologna FC 1909,Venezia FC,103,454,3,0,1
+503182,SA,2024,2024-12-01,Udinese Calcio,Genoa CFC,115,107,0,2,0
+503179,SA,2024,2024-12-01,Parma Calcio 1913,SS Lazio,112,110,3,1,1
+503181,SA,2024,2024-12-01,Torino FC,SSC Napoli,586,113,0,1,0
+503180,SA,2024,2024-12-02,AS Roma,Atalanta BC,100,102,0,2,0
+503187,SA,2024,2024-12-06,FC Internazionale Milano,Parma Calcio 1913,108,112,3,1,1
+503183,SA,2024,2024-12-06,Atalanta BC,AC Milan,102,98,2,1,1
+503191,SA,2024,2024-12-07,AS Roma,US Lecce,100,5890,4,1,1
+503184,SA,2024,2024-12-08,ACF Fiorentina,Cagliari Calcio,99,104,1,0,1
+503186,SA,2024,2024-12-08,Hellas Verona FC,Empoli FC,450,445,1,4,0
+503190,SA,2024,2024-12-08,SSC Napoli,SS Lazio,113,110,0,1,0
+503189,SA,2024,2024-12-09,AC Monza,Udinese Calcio,5911,115,1,2,0
+503196,SA,2024,2024-12-13,Empoli FC,Torino FC,445,586,0,1,0
+503194,SA,2024,2024-12-14,Cagliari Calcio,Atalanta BC,104,102,0,1,0
+503202,SA,2024,2024-12-14,Udinese Calcio,SSC Napoli,115,113,1,3,0
+503199,SA,2024,2024-12-15,US Lecce,AC Monza,5890,5911,2,1,1
+503193,SA,2024,2024-12-15,Bologna FC 1909,ACF Fiorentina,103,99,1,0,1
+503201,SA,2024,2024-12-15,Parma Calcio 1913,Hellas Verona FC,112,450,2,3,0
+503195,SA,2024,2024-12-15,Como 1907,AS Roma,7397,100,2,0,1
+503198,SA,2024,2024-12-16,SS Lazio,FC Internazionale Milano,110,108,0,6,0
+503206,SA,2024,2024-12-20,Hellas Verona FC,AC Milan,450,98,0,1,0
+503211,SA,2024,2024-12-21,Torino FC,Bologna FC 1909,586,103,0,2,0
+503205,SA,2024,2024-12-21,Genoa CFC,SSC Napoli,107,113,1,2,0
+503208,SA,2024,2024-12-21,US Lecce,SS Lazio,5890,110,1,2,0
+503210,SA,2024,2024-12-22,AS Roma,Parma Calcio 1913,100,112,5,0,1
+503212,SA,2024,2024-12-22,Venezia FC,Cagliari Calcio,454,104,2,1,1
+503203,SA,2024,2024-12-22,Atalanta BC,Empoli FC,102,445,3,2,1
+503209,SA,2024,2024-12-22,AC Monza,Juventus FC,5911,109,1,2,0
+503204,SA,2024,2024-12-23,ACF Fiorentina,Udinese Calcio,99,115,1,2,0
+503207,SA,2024,2024-12-23,FC Internazionale Milano,Como 1907,108,7397,2,0,1
+503216,SA,2024,2024-12-28,Empoli FC,Genoa CFC,445,107,1,2,0
+503221,SA,2024,2024-12-28,Parma Calcio 1913,AC Monza,112,5911,2,1,1
+503214,SA,2024,2024-12-28,Cagliari Calcio,FC Internazionale Milano,104,108,0,3,0
+503220,SA,2024,2024-12-29,SSC Napoli,Venezia FC,113,454,1,0,1
+503215,SA,2024,2024-12-30,Como 1907,US Lecce,7397,5890,2,0,1
+503213,SA,2024,2024-12-30,Bologna FC 1909,Hellas Verona FC,103,450,2,3,0
+503225,SA,2024,2025-01-04,ACF Fiorentina,SSC Napoli,99,113,0,3,0
+503229,SA,2024,2025-01-05,AC Monza,Cagliari Calcio,5911,104,1,2,0
+503230,SA,2024,2025-01-05,AS Roma,SS Lazio,100,110,2,0,1
+503234,SA,2024,2025-01-11,Empoli FC,US Lecce,445,5890,1,3,0
+503235,SA,2024,2025-01-12,Genoa CFC,Parma Calcio 1913,107,112,1,0,1
+503242,SA,2024,2025-01-12,Venezia FC,FC Internazionale Milano,454,108,0,1,0
+503239,SA,2024,2025-01-12,SSC Napoli,Hellas Verona FC,113,450,2,0,1
+503238,SA,2024,2025-01-13,AC Monza,ACF Fiorentina,5911,99,2,1,1
+503224,SA,2024,2025-01-14,Como 1907,AC Milan,7397,98,1,2,0
+503252,SA,2024,2025-01-17,AS Roma,Genoa CFC,100,107,3,1,1
+503244,SA,2024,2025-01-18,Bologna FC 1909,AC Monza,103,5911,3,1,1
+503250,SA,2024,2025-01-18,Juventus FC,AC Milan,109,98,2,0,1
+503243,SA,2024,2025-01-18,Atalanta BC,SSC Napoli,102,113,2,3,0
+503245,SA,2024,2025-01-19,Cagliari Calcio,US Lecce,104,5890,4,1,1
+503248,SA,2024,2025-01-19,Hellas Verona FC,SS Lazio,450,110,0,3,0
+503249,SA,2024,2025-01-19,FC Internazionale Milano,Empoli FC,108,445,3,1,1
+503246,SA,2024,2025-01-20,Como 1907,Udinese Calcio,7397,115,4,1,1
+503260,SA,2024,2025-01-24,Torino FC,Cagliari Calcio,586,104,2,0,1
+503253,SA,2024,2025-01-25,Como 1907,Atalanta BC,7397,102,1,2,0
+503259,SA,2024,2025-01-25,SSC Napoli,Juventus FC,113,109,2,1,1
+503258,SA,2024,2025-01-26,AC Milan,Parma Calcio 1913,98,112,3,2,1
+503261,SA,2024,2025-01-26,Udinese Calcio,AS Roma,115,100,1,2,0
+503257,SA,2024,2025-01-26,US Lecce,FC Internazionale Milano,5890,108,0,4,0
+503256,SA,2024,2025-01-26,SS Lazio,ACF Fiorentina,110,99,1,2,0
+503255,SA,2024,2025-01-27,Genoa CFC,AC Monza,107,5911,2,0,1
+503270,SA,2024,2025-01-31,Parma Calcio 1913,US Lecce,112,5890,1,3,0
+503269,SA,2024,2025-02-01,AC Monza,Hellas Verona FC,5911,450,0,1,0
+503272,SA,2024,2025-02-01,Udinese Calcio,Venezia FC,115,454,3,2,1
+503264,SA,2024,2025-02-01,Bologna FC 1909,Como 1907,103,7397,2,0,1
+503267,SA,2024,2025-02-02,Juventus FC,Empoli FC,109,445,4,1,1
+503266,SA,2024,2025-02-02,ACF Fiorentina,Genoa CFC,99,107,2,1,1
+503265,SA,2024,2025-02-03,Cagliari Calcio,SS Lazio,104,110,1,2,0
+503176,SA,2024,2025-02-06,ACF Fiorentina,FC Internazionale Milano,99,108,3,0,1
+503274,SA,2024,2025-02-07,Como 1907,Juventus FC,7397,109,1,2,0
+503276,SA,2024,2025-02-08,Hellas Verona FC,Atalanta BC,450,102,0,5,0
+503275,SA,2024,2025-02-08,Empoli FC,AC Milan,445,98,0,2,0
+503282,SA,2024,2025-02-09,Venezia FC,AS Roma,454,100,0,1,0
+503273,SA,2024,2025-02-09,Cagliari Calcio,Parma Calcio 1913,104,112,2,1,1
+503278,SA,2024,2025-02-09,SS Lazio,AC Monza,110,5911,5,1,1
+503277,SA,2024,2025-02-10,FC Internazionale Milano,ACF Fiorentina,108,99,2,1,1
+503284,SA,2024,2025-02-14,Bologna FC 1909,Torino FC,103,586,3,2,1
+503289,SA,2024,2025-02-15,AC Milan,Hellas Verona FC,98,450,1,0,1
+503285,SA,2024,2025-02-16,ACF Fiorentina,Como 1907,99,7397,0,2,0
+503292,SA,2024,2025-02-16,Udinese Calcio,Empoli FC,115,445,3,0,1
+503291,SA,2024,2025-02-16,Parma Calcio 1913,AS Roma,112,100,0,1,0
+503287,SA,2024,2025-02-16,Juventus FC,FC Internazionale Milano,109,108,1,0,1
+503286,SA,2024,2025-02-17,Genoa CFC,Venezia FC,107,454,2,0,1
+503298,SA,2024,2025-02-21,US Lecce,Udinese Calcio,5890,115,0,1,0
+503299,SA,2024,2025-02-22,Parma Calcio 1913,Bologna FC 1909,112,103,2,0,1
+503301,SA,2024,2025-02-22,Torino FC,AC Milan,586,98,2,1,1
+503297,SA,2024,2025-02-22,FC Internazionale Milano,Genoa CFC,108,107,1,0,1
+503294,SA,2024,2025-02-23,Como 1907,SSC Napoli,7397,113,2,1,1
+503296,SA,2024,2025-02-23,Hellas Verona FC,ACF Fiorentina,450,99,1,0,1
+503295,SA,2024,2025-02-23,Empoli FC,Atalanta BC,445,102,0,5,0
+503293,SA,2024,2025-02-23,Cagliari Calcio,Juventus FC,104,109,0,1,0
+503300,SA,2024,2025-02-24,AS Roma,AC Monza,100,5911,4,0,1
+503124,SA,2024,2025-02-27,Bologna FC 1909,AC Milan,103,98,2,1,1
+503305,SA,2024,2025-02-28,ACF Fiorentina,US Lecce,99,5890,1,0,1
+503312,SA,2024,2025-03-01,Udinese Calcio,Parma Calcio 1913,115,112,1,0,1
+503309,SA,2024,2025-03-02,AC Monza,Torino FC,5911,586,0,2,0
+503304,SA,2024,2025-03-02,Bologna FC 1909,Cagliari Calcio,103,104,2,1,1
+503311,SA,2024,2025-03-02,AS Roma,Como 1907,100,7397,2,1,1
+503308,SA,2024,2025-03-02,AC Milan,SS Lazio,98,110,1,2,0
+503307,SA,2024,2025-03-03,Juventus FC,Hellas Verona FC,109,450,2,0,1
+503320,SA,2024,2025-03-08,US Lecce,AC Milan,5890,98,2,3,0
+503317,SA,2024,2025-03-08,FC Internazionale Milano,AC Monza,108,5911,3,2,1
+503316,SA,2024,2025-03-09,Hellas Verona FC,Bologna FC 1909,450,103,1,2,0
+503321,SA,2024,2025-03-09,SSC Napoli,ACF Fiorentina,113,99,2,1,1
+503315,SA,2024,2025-03-09,Empoli FC,AS Roma,445,100,0,1,0
+503318,SA,2024,2025-03-09,Juventus FC,Atalanta BC,109,102,0,4,0
+503326,SA,2024,2025-03-14,Genoa CFC,US Lecce,107,5890,2,1,1
+503331,SA,2024,2025-03-15,Udinese Calcio,Hellas Verona FC,115,450,0,1,0
+503327,SA,2024,2025-03-15,AC Milan,Como 1907,98,7397,2,1,1
+503330,SA,2024,2025-03-15,Torino FC,Empoli FC,586,445,1,0,1
+503324,SA,2024,2025-03-16,Bologna FC 1909,SS Lazio,103,110,5,0,1
+503329,SA,2024,2025-03-16,AS Roma,Cagliari Calcio,100,104,1,0,1
+503325,SA,2024,2025-03-16,ACF Fiorentina,Juventus FC,99,109,3,0,1
+503323,SA,2024,2025-03-16,Atalanta BC,FC Internazionale Milano,102,108,0,2,0
+503342,SA,2024,2025-03-29,Venezia FC,Bologna FC 1909,454,103,0,1,0
+503338,SA,2024,2025-03-29,Juventus FC,Genoa CFC,109,107,1,0,1
+503340,SA,2024,2025-03-29,US Lecce,AS Roma,5890,100,0,1,0
+503333,SA,2024,2025-03-30,Cagliari Calcio,AC Monza,104,5911,3,0,1
+503335,SA,2024,2025-03-30,ACF Fiorentina,Atalanta BC,99,102,1,0,1
+503337,SA,2024,2025-03-30,FC Internazionale Milano,Udinese Calcio,108,115,2,1,1
+503341,SA,2024,2025-03-30,SSC Napoli,AC Milan,113,98,2,1,1
+503346,SA,2024,2025-04-04,Genoa CFC,Udinese Calcio,107,115,1,0,1
+503349,SA,2024,2025-04-05,AC Monza,Como 1907,5911,7397,1,3,0
+503343,SA,2024,2025-04-06,Atalanta BC,SS Lazio,102,110,0,1,0
+503361,SA,2024,2025-04-11,Udinese Calcio,AC Milan,115,98,0,4,0
+503362,SA,2024,2025-04-12,Venezia FC,AC Monza,454,5911,1,0,1
+503357,SA,2024,2025-04-12,FC Internazionale Milano,Cagliari Calcio,108,104,3,1,1
+503358,SA,2024,2025-04-12,Juventus FC,US Lecce,109,5890,2,1,1
+503353,SA,2024,2025-04-13,Atalanta BC,Bologna FC 1909,102,103,2,0,1
+503354,SA,2024,2025-04-13,Como 1907,Torino FC,7397,586,1,0,1
+503360,SA,2024,2025-04-14,SSC Napoli,Empoli FC,113,445,3,0,1
+503367,SA,2024,2025-04-19,US Lecce,Como 1907,5890,7397,0,3,0
+503369,SA,2024,2025-04-19,AC Monza,SSC Napoli,5911,113,0,1,0
+503371,SA,2024,2025-04-19,AS Roma,Hellas Verona FC,100,450,1,0,1
+503363,SA,2024,2025-04-20,Bologna FC 1909,FC Internazionale Milano,103,108,1,0,1
+503368,SA,2024,2025-04-20,AC Milan,Atalanta BC,98,102,0,1,0
+503364,SA,2024,2025-04-23,Cagliari Calcio,ACF Fiorentina,104,99,1,2,0
+503366,SA,2024,2025-04-23,Genoa CFC,SS Lazio,107,110,0,2,0
+503370,SA,2024,2025-04-23,Parma Calcio 1913,Juventus FC,112,109,1,0,1
+503372,SA,2024,2025-04-23,Torino FC,Udinese Calcio,586,115,2,0,1
+503374,SA,2024,2025-04-27,Como 1907,Genoa CFC,7397,107,1,0,1
+503382,SA,2024,2025-04-27,Venezia FC,AC Milan,454,98,0,2,0
+503375,SA,2024,2025-04-27,ACF Fiorentina,Empoli FC,99,445,2,1,1
+503377,SA,2024,2025-04-27,FC Internazionale Milano,AS Roma,108,100,0,1,0
+503378,SA,2024,2025-04-27,Juventus FC,AC Monza,109,5911,2,0,1
+503380,SA,2024,2025-04-27,SSC Napoli,Torino FC,113,586,2,0,1
+503376,SA,2024,2025-04-28,Hellas Verona FC,Cagliari Calcio,450,104,0,2,0
+503384,SA,2024,2025-05-03,Cagliari Calcio,Udinese Calcio,104,115,1,2,0
+503390,SA,2024,2025-05-03,Parma Calcio 1913,Como 1907,112,7397,0,1,0
+503388,SA,2024,2025-05-03,US Lecce,SSC Napoli,5890,113,0,1,0
+503387,SA,2024,2025-05-03,FC Internazionale Milano,Hellas Verona FC,108,450,1,0,1
+503385,SA,2024,2025-05-04,Empoli FC,SS Lazio,445,110,0,1,0
+503389,SA,2024,2025-05-04,AC Monza,Atalanta BC,5911,102,0,4,0
+503391,SA,2024,2025-05-04,AS Roma,ACF Fiorentina,100,99,1,0,1
+503386,SA,2024,2025-05-05,Genoa CFC,AC Milan,107,98,1,2,0
+503398,SA,2024,2025-05-09,AC Milan,Bologna FC 1909,98,103,3,1,1
+503394,SA,2024,2025-05-10,Como 1907,Cagliari Calcio,7397,104,3,1,1
+503395,SA,2024,2025-05-10,Empoli FC,Parma Calcio 1913,445,112,2,1,1
+503401,SA,2024,2025-05-11,Udinese Calcio,AC Monza,115,5911,1,2,0
+503400,SA,2024,2025-05-11,Torino FC,FC Internazionale Milano,586,108,0,2,0
+503402,SA,2024,2025-05-12,Venezia FC,ACF Fiorentina,454,99,2,1,1
+503393,SA,2024,2025-05-12,Atalanta BC,AS Roma,102,100,2,1,1
+503405,SA,2024,2025-05-17,Genoa CFC,Atalanta BC,107,102,2,3,0
+503403,SA,2024,2025-05-18,Cagliari Calcio,Venezia FC,104,454,3,0,1
+503404,SA,2024,2025-05-18,ACF Fiorentina,Bologna FC 1909,99,103,3,2,1
+503408,SA,2024,2025-05-18,Juventus FC,Udinese Calcio,109,115,2,0,1
+503409,SA,2024,2025-05-18,US Lecce,Torino FC,5890,586,1,0,1
+503410,SA,2024,2025-05-18,AC Monza,Empoli FC,5911,445,1,3,0
+503412,SA,2024,2025-05-18,AS Roma,AC Milan,100,98,3,1,1
+503415,SA,2024,2025-05-23,Como 1907,FC Internazionale Milano,7397,108,0,2,0
+503419,SA,2024,2025-05-23,SSC Napoli,Cagliari Calcio,113,104,2,0,1
+503414,SA,2024,2025-05-24,Bologna FC 1909,Genoa CFC,103,107,1,3,0
+503418,SA,2024,2025-05-24,AC Milan,AC Monza,98,5911,2,0,1
+503413,SA,2024,2025-05-25,Atalanta BC,Parma Calcio 1913,102,112,2,3,0
+503416,SA,2024,2025-05-25,Empoli FC,Hellas Verona FC,445,450,1,2,0
+503417,SA,2024,2025-05-25,SS Lazio,US Lecce,110,5890,0,1,0
+503420,SA,2024,2025-05-25,Torino FC,AS Roma,586,100,0,2,0
+503421,SA,2024,2025-05-25,Udinese Calcio,ACF Fiorentina,115,99,2,3,0
+503422,SA,2024,2025-05-25,Venezia FC,Juventus FC,454,109,2,3,0
+536823,SA,2025,2025-08-23,US Sassuolo Calcio,SSC Napoli,471,113,0,2,0
+536815,SA,2025,2025-08-23,AC Milan,US Cremonese,98,457,1,2,0
+536816,SA,2025,2025-08-23,AS Roma,Bologna FC 1909,100,103,1,0,1
+536820,SA,2025,2025-08-24,Como 1907,SS Lazio,7397,110,2,0,1
+536822,SA,2025,2025-08-24,Juventus FC,Parma Calcio 1913,109,112,2,0,1
+536821,SA,2025,2025-08-25,FC Internazionale Milano,Torino FC,108,586,5,0,1
+536833,SA,2025,2025-08-29,US Cremonese,US Sassuolo Calcio,457,471,3,2,1
+536834,SA,2025,2025-08-29,US Lecce,AC Milan,5890,98,0,2,0
+536826,SA,2025,2025-08-30,Bologna FC 1909,Como 1907,103,7397,1,0,1
+536832,SA,2025,2025-08-30,SSC Napoli,Cagliari Calcio,113,104,1,0,1
+536831,SA,2025,2025-08-30,AC Pisa 1909,AS Roma,487,100,0,1,0
+536825,SA,2025,2025-08-31,Genoa CFC,Juventus FC,107,109,0,1,0
+536828,SA,2025,2025-08-31,FC Internazionale Milano,Udinese Calcio,108,115,1,2,0
+536829,SA,2025,2025-08-31,SS Lazio,Hellas Verona FC,110,450,4,0,1
+536839,SA,2025,2025-09-13,Cagliari Calcio,Parma Calcio 1913,104,112,2,0,1
+536842,SA,2025,2025-09-13,Juventus FC,FC Internazionale Milano,109,108,4,3,1
+536835,SA,2025,2025-09-13,ACF Fiorentina,SSC Napoli,99,113,1,3,0
+536837,SA,2025,2025-09-14,AS Roma,Torino FC,100,586,0,1,0
+536838,SA,2025,2025-09-14,Atalanta BC,US Lecce,102,5890,4,1,1
+536843,SA,2025,2025-09-14,AC Pisa 1909,Udinese Calcio,487,115,0,1,0
+536844,SA,2025,2025-09-14,US Sassuolo Calcio,SS Lazio,471,110,1,0,1
+536836,SA,2025,2025-09-14,AC Milan,Bologna FC 1909,98,103,1,0,1
+536854,SA,2025,2025-09-19,US Lecce,Cagliari Calcio,5890,104,1,2,0
+536846,SA,2025,2025-09-20,Bologna FC 1909,Genoa CFC,103,107,2,1,1
+536852,SA,2025,2025-09-20,Udinese Calcio,AC Milan,115,98,0,3,0
+536850,SA,2025,2025-09-21,SS Lazio,AS Roma,110,100,0,1,0
+536847,SA,2025,2025-09-21,Torino FC,Atalanta BC,586,102,0,3,0
+536845,SA,2025,2025-09-21,ACF Fiorentina,Como 1907,99,7397,1,2,0
+536849,SA,2025,2025-09-21,FC Internazionale Milano,US Sassuolo Calcio,108,471,2,1,1
+536851,SA,2025,2025-09-22,SSC Napoli,AC Pisa 1909,113,487,3,2,1
+536857,SA,2025,2025-09-27,Cagliari Calcio,FC Internazionale Milano,104,108,0,2,0
+536863,SA,2025,2025-09-28,US Sassuolo Calcio,Udinese Calcio,471,115,3,1,1
+536856,SA,2025,2025-09-28,AS Roma,Hellas Verona FC,100,450,2,0,1
+536855,SA,2025,2025-09-28,AC Milan,SSC Napoli,98,113,2,1,1
+536861,SA,2025,2025-09-29,Parma Calcio 1913,Torino FC,112,586,2,1,1
+536858,SA,2025,2025-09-29,Genoa CFC,SS Lazio,107,110,0,3,0
+536868,SA,2025,2025-10-03,Hellas Verona FC,US Sassuolo Calcio,450,471,0,1,0
+536872,SA,2025,2025-10-04,Parma Calcio 1913,US Lecce,112,5890,0,1,0
+536869,SA,2025,2025-10-04,FC Internazionale Milano,US Cremonese,108,457,4,1,1
+536865,SA,2025,2025-10-05,ACF Fiorentina,AS Roma,99,100,1,2,0
+536867,SA,2025,2025-10-05,Bologna FC 1909,AC Pisa 1909,103,487,4,0,1
+536873,SA,2025,2025-10-05,SSC Napoli,Genoa CFC,113,107,2,1,1
+536881,SA,2025,2025-10-18,Torino FC,SSC Napoli,586,113,1,0,1
+536876,SA,2025,2025-10-18,AS Roma,FC Internazionale Milano,100,108,0,1,0
+536880,SA,2025,2025-10-19,Como 1907,Juventus FC,7397,109,2,0,1
+536878,SA,2025,2025-10-19,Cagliari Calcio,Bologna FC 1909,104,103,0,2,0
+536875,SA,2025,2025-10-19,AC Milan,ACF Fiorentina,98,99,2,1,1
+536893,SA,2025,2025-10-25,Udinese Calcio,US Lecce,115,5890,3,2,1
+536892,SA,2025,2025-10-25,SSC Napoli,FC Internazionale Milano,113,108,3,1,1
+536887,SA,2025,2025-10-26,Torino FC,Genoa CFC,586,107,2,1,1
+536891,SA,2025,2025-10-26,US Sassuolo Calcio,AS Roma,471,100,0,1,0
+536889,SA,2025,2025-10-26,SS Lazio,Juventus FC,110,109,1,0,1
+536904,SA,2025,2025-10-28,US Lecce,SSC Napoli,5890,113,0,1,0
+536895,SA,2025,2025-10-29,AS Roma,Parma Calcio 1913,100,112,2,1,1
+536899,SA,2025,2025-10-29,Como 1907,Hellas Verona FC,7397,450,3,1,1
+536902,SA,2025,2025-10-29,Juventus FC,Udinese Calcio,109,115,3,1,1
+536898,SA,2025,2025-10-29,Genoa CFC,US Cremonese,107,457,0,2,0
+536901,SA,2025,2025-10-29,FC Internazionale Milano,ACF Fiorentina,108,99,3,0,1
+536897,SA,2025,2025-10-30,Cagliari Calcio,US Sassuolo Calcio,104,471,1,2,0
+536913,SA,2025,2025-11-01,Udinese Calcio,Atalanta BC,115,102,1,0,1
+536914,SA,2025,2025-11-01,US Cremonese,Juventus FC,457,109,1,2,0
+536908,SA,2025,2025-11-02,Hellas Verona FC,FC Internazionale Milano,450,108,1,2,0
+536905,SA,2025,2025-11-02,ACF Fiorentina,US Lecce,99,5890,0,1,0
+536910,SA,2025,2025-11-02,Parma Calcio 1913,Bologna FC 1909,112,103,1,3,0
+536906,SA,2025,2025-11-02,AC Milan,AS Roma,98,100,1,0,1
+536911,SA,2025,2025-11-03,US Sassuolo Calcio,Genoa CFC,471,107,1,2,0
+536909,SA,2025,2025-11-03,SS Lazio,Cagliari Calcio,110,104,2,0,1
+536923,SA,2025,2025-11-07,AC Pisa 1909,US Cremonese,487,457,1,0,1
+536916,SA,2025,2025-11-09,Atalanta BC,US Sassuolo Calcio,102,471,0,3,0
+536919,SA,2025,2025-11-09,Bologna FC 1909,SSC Napoli,103,113,2,0,1
+536915,SA,2025,2025-11-09,AS Roma,Udinese Calcio,100,115,2,0,1
+536920,SA,2025,2025-11-09,FC Internazionale Milano,SS Lazio,108,110,2,0,1
+536933,SA,2025,2025-11-22,Udinese Calcio,Bologna FC 1909,115,103,0,3,0
+536932,SA,2025,2025-11-22,SSC Napoli,Atalanta BC,113,102,3,1,1
+536928,SA,2025,2025-11-23,Hellas Verona FC,Parma Calcio 1913,450,112,1,2,0
+536934,SA,2025,2025-11-23,US Cremonese,AS Roma,457,100,1,3,0
+536930,SA,2025,2025-11-23,SS Lazio,US Lecce,110,5890,2,0,1
+536929,SA,2025,2025-11-23,FC Internazionale Milano,AC Milan,108,98,0,1,0
+536927,SA,2025,2025-11-24,Torino FC,Como 1907,586,7397,1,5,0
+536939,SA,2025,2025-11-28,Como 1907,US Sassuolo Calcio,7397,471,2,0,1
+536938,SA,2025,2025-11-29,Genoa CFC,Hellas Verona FC,107,450,2,1,1
+536942,SA,2025,2025-11-29,Parma Calcio 1913,Udinese Calcio,112,115,0,2,0
+536941,SA,2025,2025-11-29,Juventus FC,Cagliari Calcio,109,104,2,1,1
+536935,SA,2025,2025-11-29,AC Milan,SS Lazio,98,110,1,0,1
+536944,SA,2025,2025-11-30,US Lecce,Torino FC,5890,586,2,1,1
+536943,SA,2025,2025-11-30,AC Pisa 1909,FC Internazionale Milano,487,108,0,2,0
+536937,SA,2025,2025-11-30,Atalanta BC,ACF Fiorentina,102,99,2,0,1
+536936,SA,2025,2025-11-30,AS Roma,SSC Napoli,100,113,0,1,0
+536940,SA,2025,2025-12-01,Bologna FC 1909,US Cremonese,103,457,1,3,0
+536951,SA,2025,2025-12-06,US Sassuolo Calcio,ACF Fiorentina,471,99,3,1,1
+536948,SA,2025,2025-12-06,FC Internazionale Milano,Como 1907,108,7397,4,0,1
+536947,SA,2025,2025-12-06,Hellas Verona FC,Atalanta BC,450,102,3,1,1
+536954,SA,2025,2025-12-07,US Cremonese,US Lecce,457,5890,2,0,1
+536945,SA,2025,2025-12-07,Cagliari Calcio,AS Roma,104,100,1,0,1
+536952,SA,2025,2025-12-07,SSC Napoli,Juventus FC,113,109,2,1,1
+536950,SA,2025,2025-12-08,AC Pisa 1909,Parma Calcio 1913,487,112,0,1,0
+536953,SA,2025,2025-12-08,Udinese Calcio,Genoa CFC,115,107,1,2,0
+536946,SA,2025,2025-12-08,Torino FC,AC Milan,586,98,2,3,0
+536964,SA,2025,2025-12-12,US Lecce,AC Pisa 1909,5890,487,1,0,1
+536961,SA,2025,2025-12-13,Torino FC,US Cremonese,586,457,1,0,1
+536962,SA,2025,2025-12-13,Parma Calcio 1913,SS Lazio,112,110,0,1,0
+536958,SA,2025,2025-12-13,Atalanta BC,Cagliari Calcio,102,104,2,1,1
+536955,SA,2025,2025-12-14,ACF Fiorentina,Hellas Verona FC,99,450,1,2,0
+536963,SA,2025,2025-12-14,Udinese Calcio,SSC Napoli,115,113,1,0,1
+536959,SA,2025,2025-12-14,Genoa CFC,FC Internazionale Milano,107,108,1,2,0
+536960,SA,2025,2025-12-14,Bologna FC 1909,Juventus FC,103,109,0,1,0
+536957,SA,2025,2025-12-15,AS Roma,Como 1907,100,7397,1,0,1
+536971,SA,2025,2025-12-20,Juventus FC,AS Roma,109,100,2,1,1
+536973,SA,2025,2025-12-21,US Sassuolo Calcio,Torino FC,471,586,0,1,0
+536965,SA,2025,2025-12-21,ACF Fiorentina,Udinese Calcio,99,115,5,1,1
+536967,SA,2025,2025-12-21,Genoa CFC,Atalanta BC,107,102,0,1,0
+536980,SA,2025,2025-12-27,Parma Calcio 1913,ACF Fiorentina,112,99,1,0,1
+536979,SA,2025,2025-12-27,Torino FC,Cagliari Calcio,586,104,1,2,0
+536984,SA,2025,2025-12-27,US Lecce,Como 1907,5890,7397,0,3,0
+536981,SA,2025,2025-12-27,AC Pisa 1909,Juventus FC,487,109,0,2,0
+536975,SA,2025,2025-12-28,AC Milan,Hellas Verona FC,98,450,3,0,1
+536983,SA,2025,2025-12-28,US Cremonese,SSC Napoli,457,113,0,2,0
+536977,SA,2025,2025-12-28,Atalanta BC,FC Internazionale Milano,102,108,0,1,0
+536976,SA,2025,2025-12-29,AS Roma,Genoa CFC,100,107,3,1,1
+536987,SA,2025,2026-01-02,Cagliari Calcio,AC Milan,104,98,0,1,0
+536989,SA,2025,2026-01-03,Como 1907,Udinese Calcio,7397,115,1,0,1
+536986,SA,2025,2026-01-03,Atalanta BC,AS Roma,102,100,1,0,1
+536993,SA,2025,2026-01-04,SS Lazio,SSC Napoli,110,113,0,2,0
+536985,SA,2025,2026-01-04,ACF Fiorentina,US Cremonese,99,457,1,0,1
+536990,SA,2025,2026-01-04,Hellas Verona FC,Torino FC,450,586,0,3,0
+536991,SA,2025,2026-01-04,FC Internazionale Milano,Bologna FC 1909,108,103,3,1,1
+537000,SA,2025,2026-01-06,AC Pisa 1909,Como 1907,487,7397,0,3,0
+537004,SA,2025,2026-01-06,US Lecce,AS Roma,5890,100,0,2,0
+537001,SA,2025,2026-01-06,US Sassuolo Calcio,Juventus FC,471,109,0,3,0
+536996,SA,2025,2026-01-07,Bologna FC 1909,Atalanta BC,103,102,0,2,0
+536997,SA,2025,2026-01-07,Torino FC,Udinese Calcio,586,115,1,2,0
+536999,SA,2025,2026-01-07,Parma Calcio 1913,FC Internazionale Milano,112,108,0,2,0
+537006,SA,2025,2026-01-10,AS Roma,US Sassuolo Calcio,100,471,2,0,1
+537007,SA,2025,2026-01-10,Atalanta BC,Torino FC,102,586,2,0,1
+537014,SA,2025,2026-01-11,US Lecce,Parma Calcio 1913,5890,112,1,2,0
+537010,SA,2025,2026-01-11,Hellas Verona FC,SS Lazio,450,110,0,1,0
+537008,SA,2025,2026-01-12,Genoa CFC,Cagliari Calcio,107,104,3,0,1
+537012,SA,2025,2026-01-12,Juventus FC,US Cremonese,109,457,5,0,1
+536970,SA,2025,2026-01-14,FC Internazionale Milano,US Lecce,108,5890,1,0,1
+536969,SA,2025,2026-01-15,Hellas Verona FC,Bologna FC 1909,450,103,2,3,0
+536968,SA,2025,2026-01-15,Como 1907,AC Milan,7397,98,1,3,0
+537023,SA,2025,2026-01-17,Udinese Calcio,FC Internazionale Milano,115,108,0,1,0
+537022,SA,2025,2026-01-17,SSC Napoli,US Sassuolo Calcio,113,471,1,0,1
+537016,SA,2025,2026-01-17,Cagliari Calcio,Juventus FC,104,109,1,0,1
+537017,SA,2025,2026-01-18,Bologna FC 1909,ACF Fiorentina,103,99,1,2,0
+537018,SA,2025,2026-01-18,Torino FC,AS Roma,586,100,0,2,0
+537015,SA,2025,2026-01-18,AC Milan,US Lecce,98,5890,1,0,1
+537019,SA,2025,2026-01-19,SS Lazio,Como 1907,110,7397,0,3,0
+537031,SA,2025,2026-01-23,FC Internazionale Milano,AC Pisa 1909,108,487,6,2,1
+537029,SA,2025,2026-01-24,Como 1907,Torino FC,7397,586,6,0,1
+537025,SA,2025,2026-01-24,ACF Fiorentina,Cagliari Calcio,99,104,1,2,0
+537033,SA,2025,2026-01-25,US Sassuolo Calcio,US Cremonese,471,457,1,0,1
+537027,SA,2025,2026-01-25,Atalanta BC,Parma Calcio 1913,102,112,4,0,1
+537028,SA,2025,2026-01-25,Genoa CFC,Bologna FC 1909,107,103,3,2,1
+537032,SA,2025,2026-01-25,Juventus FC,SSC Napoli,109,113,3,0,1
+537030,SA,2025,2026-01-26,Hellas Verona FC,Udinese Calcio,450,115,1,3,0
+537039,SA,2025,2026-01-30,SS Lazio,Genoa CFC,110,107,3,2,1
+537041,SA,2025,2026-01-31,AC Pisa 1909,US Sassuolo Calcio,487,471,1,3,0
+537042,SA,2025,2026-01-31,SSC Napoli,ACF Fiorentina,113,99,2,1,1
+537035,SA,2025,2026-01-31,Cagliari Calcio,Hellas Verona FC,104,450,4,0,1
+537038,SA,2025,2026-02-01,Torino FC,US Lecce,586,5890,1,0,1
+537044,SA,2025,2026-02-01,US Cremonese,FC Internazionale Milano,457,108,0,2,0
+537040,SA,2025,2026-02-01,Parma Calcio 1913,Juventus FC,112,109,1,4,0
+537043,SA,2025,2026-02-02,Udinese Calcio,AS Roma,115,100,1,0,1
+537037,SA,2025,2026-02-03,Bologna FC 1909,AC Milan,103,98,0,3,0
+537049,SA,2025,2026-02-07,Genoa CFC,SSC Napoli,107,113,2,3,0
+537050,SA,2025,2026-02-08,Bologna FC 1909,Parma Calcio 1913,103,112,0,1,0
+537054,SA,2025,2026-02-08,US Lecce,Udinese Calcio,5890,115,2,1,1
+537053,SA,2025,2026-02-08,US Sassuolo Calcio,FC Internazionale Milano,471,108,0,5,0
+537048,SA,2025,2026-02-09,Atalanta BC,US Cremonese,102,457,2,1,1
+537047,SA,2025,2026-02-09,AS Roma,Cagliari Calcio,100,104,2,0,1
+537061,SA,2025,2026-02-13,AC Pisa 1909,AC Milan,487,98,1,2,0
+537056,SA,2025,2026-02-14,Como 1907,ACF Fiorentina,7397,99,1,2,0
+537059,SA,2025,2026-02-14,SS Lazio,Atalanta BC,110,102,0,2,0
+537058,SA,2025,2026-02-14,FC Internazionale Milano,Juventus FC,108,109,3,2,1
+537063,SA,2025,2026-02-15,Udinese Calcio,US Sassuolo Calcio,115,471,1,2,0
+537060,SA,2025,2026-02-15,Parma Calcio 1913,Hellas Verona FC,112,450,2,1,1
+537057,SA,2025,2026-02-15,Torino FC,Bologna FC 1909,586,103,1,2,0
+537055,SA,2025,2026-02-16,Cagliari Calcio,US Lecce,104,5890,0,2,0
+537073,SA,2025,2026-02-20,US Sassuolo Calcio,Hellas Verona FC,471,450,3,0,1
+537072,SA,2025,2026-02-21,Juventus FC,Como 1907,109,7397,0,2,0
+537074,SA,2025,2026-02-21,US Lecce,FC Internazionale Milano,5890,108,0,2,0
+537070,SA,2025,2026-02-22,Genoa CFC,Torino FC,107,586,3,0,1
+537068,SA,2025,2026-02-22,Atalanta BC,SSC Napoli,102,113,2,1,1
+537066,SA,2025,2026-02-22,AC Milan,Parma Calcio 1913,98,112,0,1,0
+537067,SA,2025,2026-02-22,AS Roma,US Cremonese,100,457,3,0,1
+537065,SA,2025,2026-02-23,ACF Fiorentina,AC Pisa 1909,99,487,1,0,1
+537071,SA,2025,2026-02-23,Bologna FC 1909,Udinese Calcio,103,115,1,0,1
+537076,SA,2025,2026-02-28,Como 1907,US Lecce,7397,5890,3,1,1
+537078,SA,2025,2026-02-28,Hellas Verona FC,SSC Napoli,450,113,1,2,0
+537079,SA,2025,2026-02-28,FC Internazionale Milano,Genoa CFC,108,107,2,0,1
+537084,SA,2025,2026-03-01,US Cremonese,AC Milan,457,98,0,2,0
+537082,SA,2025,2026-03-01,US Sassuolo Calcio,Atalanta BC,471,102,2,1,1
+537077,SA,2025,2026-03-01,Torino FC,SS Lazio,586,110,2,0,1
+537081,SA,2025,2026-03-02,AC Pisa 1909,Bologna FC 1909,487,103,0,1,0
+537083,SA,2025,2026-03-02,Udinese Calcio,ACF Fiorentina,115,99,3,0,1
+537093,SA,2025,2026-03-06,SSC Napoli,Torino FC,113,586,2,1,1
+537088,SA,2025,2026-03-07,Cagliari Calcio,Como 1907,104,7397,1,2,0
+537091,SA,2025,2026-03-07,Juventus FC,AC Pisa 1909,109,487,4,0,1
+537094,SA,2025,2026-03-08,US Lecce,US Cremonese,5890,457,2,1,1
+537090,SA,2025,2026-03-08,Bologna FC 1909,Hellas Verona FC,103,450,1,2,0
+537089,SA,2025,2026-03-08,Genoa CFC,AS Roma,107,100,2,1,1
+537086,SA,2025,2026-03-08,AC Milan,FC Internazionale Milano,98,108,1,0,1
+537092,SA,2025,2026-03-09,SS Lazio,US Sassuolo Calcio,110,471,2,1,1
+537096,SA,2025,2026-03-13,Torino FC,Parma Calcio 1913,586,112,4,1,1
+537102,SA,2025,2026-03-14,SSC Napoli,US Lecce,113,5890,2,1,1
+537103,SA,2025,2026-03-14,Udinese Calcio,Juventus FC,115,109,0,1,0
+537097,SA,2025,2026-03-15,Hellas Verona FC,Genoa CFC,450,107,0,2,0
+537100,SA,2025,2026-03-15,AC Pisa 1909,Cagliari Calcio,487,104,3,1,1
+537101,SA,2025,2026-03-15,US Sassuolo Calcio,Bologna FC 1909,471,103,0,1,0
+537095,SA,2025,2026-03-15,Como 1907,AS Roma,7397,100,2,1,1
+537099,SA,2025,2026-03-15,SS Lazio,AC Milan,110,98,1,0,1
+537104,SA,2025,2026-03-16,US Cremonese,ACF Fiorentina,457,99,1,4,0
+537109,SA,2025,2026-03-20,Cagliari Calcio,SSC Napoli,104,113,0,1,0
+537110,SA,2025,2026-03-20,Genoa CFC,Udinese Calcio,107,115,0,2,0
+537114,SA,2025,2026-03-21,Parma Calcio 1913,US Cremonese,112,457,0,2,0
+537106,SA,2025,2026-03-21,AC Milan,Torino FC,98,586,3,2,1
+537111,SA,2025,2026-03-22,Como 1907,AC Pisa 1909,7397,487,5,0,1
+537108,SA,2025,2026-03-22,Atalanta BC,Hellas Verona FC,102,450,1,0,1
+537112,SA,2025,2026-03-22,Bologna FC 1909,SS Lazio,103,110,0,2,0
+537107,SA,2025,2026-03-22,AS Roma,US Lecce,100,5890,1,0,1
+441789,BL1,2023,2023-08-18,SV Werder Bremen,FC Bayern München,12,5,0,4,0
+441792,BL1,2023,2023-08-19,Bayer 04 Leverkusen,RB Leipzig,3,721,3,2,1
+441794,BL1,2023,2023-08-19,VfL Wolfsburg,1. FC Heidenheim 1846,11,44,2,0,1
+441795,BL1,2023,2023-08-19,TSG 1899 Hoffenheim,SC Freiburg,2,17,1,2,0
+441797,BL1,2023,2023-08-19,VfB Stuttgart,VfL Bochum 1848,10,36,5,0,1
+441790,BL1,2023,2023-08-19,Borussia Dortmund,1. FC Köln,4,1,1,0,1
+441791,BL1,2023,2023-08-20,1. FC Union Berlin,1. FSV Mainz 05,28,15,4,1,1
+441793,BL1,2023,2023-08-20,Eintracht Frankfurt,SV Darmstadt 98,19,55,1,0,1
+441799,BL1,2023,2023-08-25,RB Leipzig,VfB Stuttgart,721,10,5,1,1
+441800,BL1,2023,2023-08-26,SC Freiburg,SV Werder Bremen,17,12,1,0,1
+441803,BL1,2023,2023-08-26,1. FC Köln,VfL Wolfsburg,1,11,1,2,0
+441805,BL1,2023,2023-08-26,1. FC Heidenheim 1846,TSG 1899 Hoffenheim,44,2,2,3,0
+441806,BL1,2023,2023-08-26,SV Darmstadt 98,1. FC Union Berlin,55,28,1,4,0
+441802,BL1,2023,2023-08-26,Borussia Mönchengladbach,Bayer 04 Leverkusen,18,3,0,3,0
+441798,BL1,2023,2023-08-27,FC Bayern München,FC Augsburg,5,16,3,1,1
+441809,BL1,2023,2023-09-02,Bayer 04 Leverkusen,SV Darmstadt 98,3,55,5,1,1
+441812,BL1,2023,2023-09-02,TSG 1899 Hoffenheim,VfL Wolfsburg,2,11,3,1,1
+441813,BL1,2023,2023-09-02,SV Werder Bremen,1. FSV Mainz 05,12,15,4,0,1
+441815,BL1,2023,2023-09-02,VfB Stuttgart,SC Freiburg,10,17,5,0,1
+441811,BL1,2023,2023-09-02,Borussia Mönchengladbach,FC Bayern München,18,5,1,2,0
+441808,BL1,2023,2023-09-03,1. FC Union Berlin,RB Leipzig,28,721,0,3,0
+441817,BL1,2023,2023-09-16,RB Leipzig,FC Augsburg,721,16,3,0,1
+441818,BL1,2023,2023-09-16,SC Freiburg,Borussia Dortmund,17,4,2,4,0
+441819,BL1,2023,2023-09-16,VfL Wolfsburg,1. FC Union Berlin,11,28,2,1,1
+441820,BL1,2023,2023-09-16,1. FSV Mainz 05,VfB Stuttgart,15,10,1,3,0
+441821,BL1,2023,2023-09-16,1. FC Köln,TSG 1899 Hoffenheim,1,2,1,3,0
+441823,BL1,2023,2023-09-17,1. FC Heidenheim 1846,SV Werder Bremen,44,12,4,2,1
+441833,BL1,2023,2023-09-22,VfB Stuttgart,SV Darmstadt 98,10,55,3,1,1
+441825,BL1,2023,2023-09-23,FC Bayern München,VfL Bochum 1848,5,36,7,0,1
+441826,BL1,2023,2023-09-23,Borussia Dortmund,VfL Wolfsburg,4,11,1,0,1
+441827,BL1,2023,2023-09-23,1. FC Union Berlin,TSG 1899 Hoffenheim,28,2,0,2,0
+441830,BL1,2023,2023-09-23,Borussia Mönchengladbach,RB Leipzig,18,721,0,1,0
+441832,BL1,2023,2023-09-23,FC Augsburg,1. FSV Mainz 05,16,15,2,1,1
+441831,BL1,2023,2023-09-23,SV Werder Bremen,1. FC Köln,12,1,2,1,1
+441828,BL1,2023,2023-09-24,Bayer 04 Leverkusen,1. FC Heidenheim 1846,3,44,4,1,1
+441839,BL1,2023,2023-09-29,TSG 1899 Hoffenheim,Borussia Dortmund,2,4,1,3,0
+441836,BL1,2023,2023-09-30,VfL Wolfsburg,Eintracht Frankfurt,11,19,2,0,1
+441837,BL1,2023,2023-09-30,1. FSV Mainz 05,Bayer 04 Leverkusen,15,3,0,3,0
+441838,BL1,2023,2023-09-30,1. FC Köln,VfB Stuttgart,1,10,0,2,0
+441840,BL1,2023,2023-09-30,VfL Bochum 1848,Borussia Mönchengladbach,36,18,1,3,0
+441841,BL1,2023,2023-09-30,1. FC Heidenheim 1846,1. FC Union Berlin,44,28,1,0,1
+441842,BL1,2023,2023-10-01,SV Darmstadt 98,SV Werder Bremen,55,12,4,2,1
+441835,BL1,2023,2023-10-01,SC Freiburg,FC Augsburg,17,16,2,0,1
+441844,BL1,2023,2023-10-07,Borussia Dortmund,1. FC Union Berlin,4,28,4,2,1
+441850,BL1,2023,2023-10-07,FC Augsburg,SV Darmstadt 98,16,55,1,2,0
+441851,BL1,2023,2023-10-07,VfB Stuttgart,VfL Wolfsburg,10,11,3,1,1
+441849,BL1,2023,2023-10-07,SV Werder Bremen,TSG 1899 Hoffenheim,12,2,2,3,0
+441846,BL1,2023,2023-10-08,Bayer 04 Leverkusen,1. FC Köln,3,1,3,0,1
+441843,BL1,2023,2023-10-08,FC Bayern München,SC Freiburg,5,17,3,0,1
+441847,BL1,2023,2023-10-08,Eintracht Frankfurt,1. FC Heidenheim 1846,19,44,2,0,1
+441852,BL1,2023,2023-10-20,Borussia Dortmund,SV Werder Bremen,4,12,1,0,1
+441858,BL1,2023,2023-10-21,TSG 1899 Hoffenheim,Eintracht Frankfurt,2,19,1,3,0
+441860,BL1,2023,2023-10-21,SV Darmstadt 98,RB Leipzig,55,721,1,3,0
+441853,BL1,2023,2023-10-21,1. FC Union Berlin,VfB Stuttgart,28,10,0,3,0
+441854,BL1,2023,2023-10-21,SC Freiburg,VfL Bochum 1848,17,36,2,1,1
+441855,BL1,2023,2023-10-21,VfL Wolfsburg,Bayer 04 Leverkusen,11,3,1,2,0
+441856,BL1,2023,2023-10-21,1. FSV Mainz 05,FC Bayern München,15,5,1,3,0
+441857,BL1,2023,2023-10-22,1. FC Köln,Borussia Mönchengladbach,1,18,3,1,1
+441859,BL1,2023,2023-10-22,1. FC Heidenheim 1846,FC Augsburg,44,16,2,5,0
+441861,BL1,2023,2023-10-28,FC Bayern München,SV Darmstadt 98,5,55,8,0,1
+441865,BL1,2023,2023-10-28,Borussia Mönchengladbach,1. FC Heidenheim 1846,18,44,2,1,1
+441866,BL1,2023,2023-10-28,SV Werder Bremen,1. FC Union Berlin,12,28,2,0,1
+441868,BL1,2023,2023-10-28,FC Augsburg,VfL Wolfsburg,16,11,3,2,1
+441869,BL1,2023,2023-10-28,VfB Stuttgart,TSG 1899 Hoffenheim,10,2,2,3,0
+441862,BL1,2023,2023-10-28,RB Leipzig,1. FC Köln,721,1,6,0,1
+441863,BL1,2023,2023-10-29,Bayer 04 Leverkusen,SC Freiburg,3,17,2,1,1
+441878,BL1,2023,2023-11-03,SV Darmstadt 98,VfL Bochum 1848,55,36,1,2,0
+441871,BL1,2023,2023-11-04,1. FC Union Berlin,Eintracht Frankfurt,28,19,0,3,0
+441874,BL1,2023,2023-11-04,1. FSV Mainz 05,RB Leipzig,15,721,2,0,1
+441876,BL1,2023,2023-11-04,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,2,3,2,3,0
+441870,BL1,2023,2023-11-04,Borussia Dortmund,FC Bayern München,4,5,0,4,0
+441877,BL1,2023,2023-11-05,1. FC Heidenheim 1846,VfB Stuttgart,44,10,2,0,1
+441882,BL1,2023,2023-11-10,Borussia Mönchengladbach,VfL Wolfsburg,18,11,4,0,1
+441879,BL1,2023,2023-11-11,FC Bayern München,1. FC Heidenheim 1846,5,44,4,2,1
+441886,BL1,2023,2023-11-11,VfB Stuttgart,Borussia Dortmund,10,4,2,1,1
+441881,BL1,2023,2023-11-12,Bayer 04 Leverkusen,1. FC Union Berlin,3,28,4,0,1
+441880,BL1,2023,2023-11-12,RB Leipzig,SC Freiburg,721,17,3,1,1
+441893,BL1,2023,2023-11-24,1. FC Köln,FC Bayern München,1,5,0,1,0
+441888,BL1,2023,2023-11-25,Borussia Dortmund,Borussia Mönchengladbach,4,18,4,2,1
+441892,BL1,2023,2023-11-25,VfL Wolfsburg,RB Leipzig,11,721,2,1,1
+441895,BL1,2023,2023-11-25,SV Werder Bremen,Bayer 04 Leverkusen,12,3,0,3,0
+441891,BL1,2023,2023-11-25,Eintracht Frankfurt,VfB Stuttgart,19,10,1,2,0
+441905,BL1,2023,2023-12-01,SV Darmstadt 98,1. FC Köln,55,1,0,1,0
+441898,BL1,2023,2023-12-02,RB Leipzig,1. FC Heidenheim 1846,721,44,2,1,1
+441901,BL1,2023,2023-12-02,Borussia Mönchengladbach,TSG 1899 Hoffenheim,18,2,2,1,1
+441902,BL1,2023,2023-12-02,VfL Bochum 1848,VfL Wolfsburg,36,11,3,1,1
+441904,BL1,2023,2023-12-02,VfB Stuttgart,SV Werder Bremen,10,12,2,0,1
+441900,BL1,2023,2023-12-03,1. FSV Mainz 05,SC Freiburg,15,17,0,1,0
+441903,BL1,2023,2023-12-03,FC Augsburg,Eintracht Frankfurt,16,19,2,1,1
+441911,BL1,2023,2023-12-08,TSG 1899 Hoffenheim,VfL Bochum 1848,2,36,3,1,1
+441907,BL1,2023,2023-12-09,1. FC Union Berlin,Borussia Mönchengladbach,28,18,3,1,1
+441908,BL1,2023,2023-12-09,Eintracht Frankfurt,FC Bayern München,19,5,5,1,1
+441909,BL1,2023,2023-12-09,VfL Wolfsburg,SC Freiburg,11,17,0,1,0
+441912,BL1,2023,2023-12-09,SV Werder Bremen,FC Augsburg,12,16,2,0,1
+441914,BL1,2023,2023-12-09,1. FC Heidenheim 1846,SV Darmstadt 98,44,55,3,2,1
+441906,BL1,2023,2023-12-09,Borussia Dortmund,RB Leipzig,4,721,2,3,0
+441919,BL1,2023,2023-12-16,1. FSV Mainz 05,1. FC Heidenheim 1846,15,44,0,1,0
+441921,BL1,2023,2023-12-16,VfL Bochum 1848,1. FC Union Berlin,36,28,3,0,1
+441923,BL1,2023,2023-12-16,SV Darmstadt 98,VfL Wolfsburg,55,11,0,1,0
+441916,BL1,2023,2023-12-16,RB Leipzig,TSG 1899 Hoffenheim,721,2,3,1,1
+441917,BL1,2023,2023-12-17,SC Freiburg,1. FC Köln,17,1,2,0,1
+441918,BL1,2023,2023-12-17,Bayer 04 Leverkusen,Eintracht Frankfurt,3,19,3,0,1
+441915,BL1,2023,2023-12-17,FC Bayern München,VfB Stuttgart,5,10,3,0,1
+441925,BL1,2023,2023-12-20,1. FC Union Berlin,1. FC Köln,28,1,2,0,1
+441926,BL1,2023,2023-12-20,Bayer 04 Leverkusen,VfL Bochum 1848,3,36,4,0,1
+441927,BL1,2023,2023-12-20,Eintracht Frankfurt,Borussia Mönchengladbach,19,18,2,1,1
+441928,BL1,2023,2023-12-20,VfL Wolfsburg,FC Bayern München,11,5,1,2,0
+441931,BL1,2023,2023-12-20,VfB Stuttgart,FC Augsburg,10,16,3,0,1
+441932,BL1,2023,2023-12-20,1. FC Heidenheim 1846,SC Freiburg,44,17,3,2,1
+441933,BL1,2023,2024-01-12,FC Bayern München,TSG 1899 Hoffenheim,5,2,3,0,1
+441934,BL1,2023,2024-01-13,RB Leipzig,Eintracht Frankfurt,721,19,0,1,0
+441940,BL1,2023,2024-01-13,FC Augsburg,Bayer 04 Leverkusen,16,3,0,1,0
+441941,BL1,2023,2024-01-13,SV Darmstadt 98,Borussia Dortmund,55,4,0,3,0
+441937,BL1,2023,2024-01-14,Borussia Mönchengladbach,VfB Stuttgart,18,10,3,1,1
+441943,BL1,2023,2024-01-20,1. FC Köln,Borussia Dortmund,1,4,0,4,0
+441948,BL1,2023,2024-01-20,SC Freiburg,TSG 1899 Hoffenheim,17,2,3,2,1
+441950,BL1,2023,2024-01-20,VfL Bochum 1848,VfB Stuttgart,36,10,1,0,1
+441945,BL1,2023,2024-01-20,RB Leipzig,Bayer 04 Leverkusen,721,3,2,3,0
+441942,BL1,2023,2024-01-21,FC Bayern München,SV Werder Bremen,5,12,0,1,0
+441949,BL1,2023,2024-01-21,Borussia Mönchengladbach,FC Augsburg,18,16,1,2,0
+441897,BL1,2023,2024-01-24,FC Bayern München,1. FC Union Berlin,5,28,1,0,1
+441954,BL1,2023,2024-01-26,Eintracht Frankfurt,1. FSV Mainz 05,19,15,1,0,1
+441951,BL1,2023,2024-01-27,FC Augsburg,FC Bayern München,16,5,2,3,0
+441952,BL1,2023,2024-01-27,VfB Stuttgart,RB Leipzig,10,721,5,2,1
+441953,BL1,2023,2024-01-27,SV Werder Bremen,SC Freiburg,12,17,3,1,1
+441959,BL1,2023,2024-01-28,1. FC Union Berlin,SV Darmstadt 98,28,55,1,0,1
+441957,BL1,2023,2024-01-28,Borussia Dortmund,VfL Bochum 1848,4,36,3,1,1
+441962,BL1,2023,2024-02-03,SV Darmstadt 98,Bayer 04 Leverkusen,55,3,0,2,0
+441964,BL1,2023,2024-02-03,FC Bayern München,Borussia Mönchengladbach,5,18,3,1,1
+441966,BL1,2023,2024-02-03,1. FSV Mainz 05,SV Werder Bremen,15,12,0,1,0
+441968,BL1,2023,2024-02-03,SC Freiburg,VfB Stuttgart,17,10,1,3,0
+441963,BL1,2023,2024-02-03,1. FC Köln,Eintracht Frankfurt,1,19,2,0,1
+441961,BL1,2023,2024-02-04,RB Leipzig,1. FC Union Berlin,721,28,2,0,1
+441971,BL1,2023,2024-02-09,Borussia Dortmund,SC Freiburg,4,17,3,0,1
+441972,BL1,2023,2024-02-10,1. FC Union Berlin,VfL Wolfsburg,28,11,1,0,1
+441976,BL1,2023,2024-02-10,SV Werder Bremen,1. FC Heidenheim 1846,12,44,1,2,0
+441969,BL1,2023,2024-02-10,Bayer 04 Leverkusen,FC Bayern München,3,5,3,0,1
+441973,BL1,2023,2024-02-11,VfB Stuttgart,1. FSV Mainz 05,10,15,3,1,1
+441984,BL1,2023,2024-02-16,1. FC Köln,SV Werder Bremen,1,12,0,1,0
+441980,BL1,2023,2024-02-17,TSG 1899 Hoffenheim,1. FC Union Berlin,2,28,0,1,0
+441981,BL1,2023,2024-02-17,1. FC Heidenheim 1846,Bayer 04 Leverkusen,44,3,1,2,0
+441985,BL1,2023,2024-02-17,1. FSV Mainz 05,FC Augsburg,15,16,1,0,1
+441986,BL1,2023,2024-02-17,SV Darmstadt 98,VfB Stuttgart,55,10,1,2,0
+441983,BL1,2023,2024-02-17,RB Leipzig,Borussia Mönchengladbach,721,18,2,0,1
+441978,BL1,2023,2024-02-18,VfL Bochum 1848,FC Bayern München,36,5,3,2,1
+441990,BL1,2023,2024-02-23,Bayer 04 Leverkusen,1. FSV Mainz 05,3,15,2,1,1
+441993,BL1,2023,2024-02-24,Borussia Mönchengladbach,VfL Bochum 1848,18,36,5,2,1
+441987,BL1,2023,2024-02-24,FC Bayern München,RB Leipzig,5,721,2,1,1
+441992,BL1,2023,2024-02-25,Borussia Dortmund,TSG 1899 Hoffenheim,4,2,2,3,0
+441988,BL1,2023,2024-02-25,FC Augsburg,SC Freiburg,16,17,2,1,1
+441997,BL1,2023,2024-03-02,1. FC Union Berlin,Borussia Dortmund,28,4,0,2,0
+441998,BL1,2023,2024-03-02,VfL Bochum 1848,RB Leipzig,36,721,1,4,0
+442000,BL1,2023,2024-03-02,1. FC Heidenheim 1846,Eintracht Frankfurt,44,19,1,2,0
+442003,BL1,2023,2024-03-02,SV Darmstadt 98,FC Augsburg,55,16,0,6,0
+442004,BL1,2023,2024-03-02,VfL Wolfsburg,VfB Stuttgart,11,10,2,3,0
+441999,BL1,2023,2024-03-03,1. FC Köln,Bayer 04 Leverkusen,1,3,0,2,0
+442002,BL1,2023,2024-03-03,TSG 1899 Hoffenheim,SV Werder Bremen,2,12,2,1,1
+442006,BL1,2023,2024-03-08,VfB Stuttgart,1. FC Union Berlin,10,28,2,0,1
+442009,BL1,2023,2024-03-09,FC Bayern München,1. FSV Mainz 05,5,15,8,1,1
+442012,BL1,2023,2024-03-09,FC Augsburg,1. FC Heidenheim 1846,16,44,1,0,1
+442013,BL1,2023,2024-03-09,RB Leipzig,SV Darmstadt 98,721,55,2,0,1
+442005,BL1,2023,2024-03-09,SV Werder Bremen,Borussia Dortmund,12,4,1,2,0
+442007,BL1,2023,2024-03-10,VfL Bochum 1848,SC Freiburg,36,17,1,2,0
+442011,BL1,2023,2024-03-10,Eintracht Frankfurt,TSG 1899 Hoffenheim,19,2,3,1,1
+442008,BL1,2023,2024-03-10,Bayer 04 Leverkusen,VfL Wolfsburg,3,11,2,0,1
+442015,BL1,2023,2024-03-15,1. FC Köln,RB Leipzig,1,721,1,5,0
+442014,BL1,2023,2024-03-16,SV Darmstadt 98,FC Bayern München,55,5,2,5,0
+442019,BL1,2023,2024-03-16,1. FC Union Berlin,SV Werder Bremen,28,12,2,1,1
+442020,BL1,2023,2024-03-16,1. FSV Mainz 05,VfL Bochum 1848,15,36,2,0,1
+442021,BL1,2023,2024-03-16,VfL Wolfsburg,FC Augsburg,11,16,1,3,0
+442022,BL1,2023,2024-03-16,TSG 1899 Hoffenheim,VfB Stuttgart,2,10,0,3,0
+442016,BL1,2023,2024-03-17,SC Freiburg,Bayer 04 Leverkusen,17,3,2,3,0
+442017,BL1,2023,2024-03-17,Borussia Dortmund,Eintracht Frankfurt,4,19,3,1,1
+442025,BL1,2023,2024-03-30,Borussia Mönchengladbach,SC Freiburg,18,17,0,3,0
+442026,BL1,2023,2024-03-30,SV Werder Bremen,VfL Wolfsburg,12,11,0,2,0
+442029,BL1,2023,2024-03-30,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,3,2,2,1,1
+442023,BL1,2023,2024-03-30,FC Bayern München,Borussia Dortmund,5,4,0,2,0
+442032,BL1,2023,2024-04-06,1. FC Heidenheim 1846,FC Bayern München,44,5,3,2,1
+442033,BL1,2023,2024-04-06,SC Freiburg,RB Leipzig,17,721,1,4,0
+442034,BL1,2023,2024-04-06,1. FC Union Berlin,Bayer 04 Leverkusen,28,3,0,1,0
+442037,BL1,2023,2024-04-06,1. FC Köln,VfL Bochum 1848,1,36,2,1,1
+442040,BL1,2023,2024-04-06,1. FSV Mainz 05,SV Darmstadt 98,15,55,4,0,1
+442039,BL1,2023,2024-04-06,Borussia Dortmund,VfB Stuttgart,4,10,0,1,0
+442038,BL1,2023,2024-04-07,TSG 1899 Hoffenheim,FC Augsburg,2,16,3,1,1
+442035,BL1,2023,2024-04-07,VfL Wolfsburg,Borussia Mönchengladbach,11,18,1,3,0
+442042,BL1,2023,2024-04-12,FC Augsburg,1. FC Union Berlin,16,28,2,0,1
+442041,BL1,2023,2024-04-13,Borussia Mönchengladbach,Borussia Dortmund,18,4,1,2,0
+442045,BL1,2023,2024-04-13,RB Leipzig,VfL Wolfsburg,721,11,3,0,1
+442046,BL1,2023,2024-04-13,FC Bayern München,1. FC Köln,5,1,2,0,1
+442047,BL1,2023,2024-04-13,1. FSV Mainz 05,TSG 1899 Hoffenheim,15,2,4,1,1
+442044,BL1,2023,2024-04-13,VfB Stuttgart,Eintracht Frankfurt,10,19,3,0,1
+442043,BL1,2023,2024-04-14,SV Darmstadt 98,SC Freiburg,55,17,0,1,0
+442048,BL1,2023,2024-04-14,Bayer 04 Leverkusen,SV Werder Bremen,3,12,5,0,1
+442056,BL1,2023,2024-04-19,Eintracht Frankfurt,FC Augsburg,19,16,3,1,1
+442051,BL1,2023,2024-04-20,1. FC Heidenheim 1846,RB Leipzig,44,721,1,2,0
+442054,BL1,2023,2024-04-20,TSG 1899 Hoffenheim,Borussia Mönchengladbach,2,18,4,3,1
+442055,BL1,2023,2024-04-20,VfL Wolfsburg,VfL Bochum 1848,11,36,1,0,1
+442058,BL1,2023,2024-04-20,1. FC Köln,SV Darmstadt 98,1,55,0,2,0
+442050,BL1,2023,2024-04-20,1. FC Union Berlin,FC Bayern München,28,5,1,5,0
+442057,BL1,2023,2024-04-21,SV Werder Bremen,VfB Stuttgart,12,10,2,1,1
+442064,BL1,2023,2024-04-26,VfL Bochum 1848,TSG 1899 Hoffenheim,36,2,3,2,1
+442059,BL1,2023,2024-04-27,RB Leipzig,Borussia Dortmund,721,4,4,1,1
+442061,BL1,2023,2024-04-27,FC Bayern München,Eintracht Frankfurt,5,19,2,1,1
+442062,BL1,2023,2024-04-27,SC Freiburg,VfL Wolfsburg,17,11,1,2,0
+442065,BL1,2023,2024-04-27,FC Augsburg,SV Werder Bremen,16,12,0,3,0
+442067,BL1,2023,2024-04-28,SV Darmstadt 98,1. FC Heidenheim 1846,55,44,0,1,0
+442068,BL1,2023,2024-05-04,VfB Stuttgart,FC Bayern München,10,5,3,1,1
+442075,BL1,2023,2024-05-04,Borussia Dortmund,FC Augsburg,4,16,5,1,1
+442076,BL1,2023,2024-05-04,VfL Wolfsburg,SV Darmstadt 98,11,55,3,0,1
+442074,BL1,2023,2024-05-05,1. FC Union Berlin,VfL Bochum 1848,28,36,3,4,0
+442071,BL1,2023,2024-05-05,Eintracht Frankfurt,Bayer 04 Leverkusen,19,3,1,5,0
+442084,BL1,2023,2024-05-10,FC Augsburg,VfB Stuttgart,16,10,0,1,0
+442078,BL1,2023,2024-05-11,1. FC Köln,1. FC Union Berlin,1,28,3,2,1
+442077,BL1,2023,2024-05-11,1. FSV Mainz 05,Borussia Dortmund,15,4,3,0,1
+442082,BL1,2023,2024-05-12,SV Darmstadt 98,TSG 1899 Hoffenheim,55,2,0,6,0
+442081,BL1,2023,2024-05-12,FC Bayern München,VfL Wolfsburg,5,11,2,0,1
+442079,BL1,2023,2024-05-12,VfL Bochum 1848,Bayer 04 Leverkusen,36,3,0,5,0
+442086,BL1,2023,2024-05-18,TSG 1899 Hoffenheim,FC Bayern München,2,5,4,2,1
+442088,BL1,2023,2024-05-18,1. FC Union Berlin,SC Freiburg,28,17,2,1,1
+442089,BL1,2023,2024-05-18,VfL Wolfsburg,1. FSV Mainz 05,11,15,1,3,0
+442090,BL1,2023,2024-05-18,VfB Stuttgart,Borussia Mönchengladbach,10,18,4,0,1
+442091,BL1,2023,2024-05-18,1. FC Heidenheim 1846,1. FC Köln,44,1,4,1,1
+442092,BL1,2023,2024-05-18,SV Werder Bremen,VfL Bochum 1848,12,36,4,1,1
+442093,BL1,2023,2024-05-18,Bayer 04 Leverkusen,FC Augsburg,3,16,2,1,1
+442094,BL1,2023,2024-05-18,Borussia Dortmund,SV Darmstadt 98,4,55,4,0,1
+502371,BL1,2024,2024-08-23,Borussia Mönchengladbach,Bayer 04 Leverkusen,18,3,2,3,0
+502372,BL1,2024,2024-08-24,RB Leipzig,VfL Bochum 1848,721,36,1,0,1
+502374,BL1,2024,2024-08-24,TSG 1899 Hoffenheim,Holstein Kiel,2,720,3,2,1
+502375,BL1,2024,2024-08-24,SC Freiburg,VfB Stuttgart,17,10,3,1,1
+502373,BL1,2024,2024-08-24,Borussia Dortmund,Eintracht Frankfurt,4,19,2,0,1
+502377,BL1,2024,2024-08-25,VfL Wolfsburg,FC Bayern München,11,5,2,3,0
+502379,BL1,2024,2024-08-25,FC St. Pauli 1910,1. FC Heidenheim 1846,20,44,0,2,0
+502386,BL1,2024,2024-08-30,1. FC Union Berlin,FC St. Pauli 1910,28,20,1,0,1
+502383,BL1,2024,2024-08-31,Eintracht Frankfurt,TSG 1899 Hoffenheim,19,2,3,1,1
+502387,BL1,2024,2024-08-31,VfL Bochum 1848,Borussia Mönchengladbach,36,18,0,2,0
+502388,BL1,2024,2024-08-31,Holstein Kiel,VfL Wolfsburg,720,11,0,2,0
+502380,BL1,2024,2024-08-31,Bayer 04 Leverkusen,RB Leipzig,3,721,2,3,0
+502384,BL1,2024,2024-09-01,1. FC Heidenheim 1846,FC Augsburg,44,16,4,0,1
+502382,BL1,2024,2024-09-01,FC Bayern München,SC Freiburg,5,17,2,0,1
+502390,BL1,2024,2024-09-13,Borussia Dortmund,1. FC Heidenheim 1846,4,44,4,2,1
+502391,BL1,2024,2024-09-14,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,2,3,1,4,0
+502392,BL1,2024,2024-09-14,SC Freiburg,VfL Bochum 1848,17,36,2,1,1
+502394,BL1,2024,2024-09-14,VfL Wolfsburg,Eintracht Frankfurt,11,19,1,2,0
+502396,BL1,2024,2024-09-14,Borussia Mönchengladbach,VfB Stuttgart,18,10,1,3,0
+502397,BL1,2024,2024-09-14,Holstein Kiel,FC Bayern München,720,5,1,6,0
+502393,BL1,2024,2024-09-15,FC Augsburg,FC St. Pauli 1910,16,20,3,1,1
+502395,BL1,2024,2024-09-15,1. FSV Mainz 05,SV Werder Bremen,15,12,1,2,0
+502403,BL1,2024,2024-09-20,FC Augsburg,1. FSV Mainz 05,16,15,2,3,0
+502401,BL1,2024,2024-09-21,1. FC Heidenheim 1846,SC Freiburg,44,17,0,3,0
+502402,BL1,2024,2024-09-21,SV Werder Bremen,FC Bayern München,12,5,0,5,0
+502404,BL1,2024,2024-09-21,1. FC Union Berlin,TSG 1899 Hoffenheim,28,2,2,1,1
+502400,BL1,2024,2024-09-21,Eintracht Frankfurt,Borussia Mönchengladbach,19,18,2,0,1
+502398,BL1,2024,2024-09-22,Bayer 04 Leverkusen,VfL Wolfsburg,3,11,4,3,1
+502399,BL1,2024,2024-09-22,VfB Stuttgart,Borussia Dortmund,10,4,5,1,1
+502409,BL1,2024,2024-09-27,Borussia Dortmund,VfL Bochum 1848,4,36,4,2,1
+502408,BL1,2024,2024-09-28,RB Leipzig,FC Augsburg,721,16,4,0,1
+502411,BL1,2024,2024-09-28,SC Freiburg,FC St. Pauli 1910,17,20,0,3,0
+502413,BL1,2024,2024-09-28,1. FSV Mainz 05,1. FC Heidenheim 1846,15,44,0,2,0
+502414,BL1,2024,2024-09-28,Borussia Mönchengladbach,1. FC Union Berlin,18,28,1,0,1
+502415,BL1,2024,2024-09-29,Holstein Kiel,Eintracht Frankfurt,720,19,2,4,0
+502410,BL1,2024,2024-09-29,TSG 1899 Hoffenheim,SV Werder Bremen,2,12,3,4,0
+502421,BL1,2024,2024-10-04,FC Augsburg,Borussia Mönchengladbach,16,18,2,1,1
+502420,BL1,2024,2024-10-05,SV Werder Bremen,SC Freiburg,12,17,0,1,0
+502422,BL1,2024,2024-10-05,1. FC Union Berlin,Borussia Dortmund,28,4,2,1,1
+502423,BL1,2024,2024-10-05,VfL Bochum 1848,VfL Wolfsburg,36,11,1,3,0
+502424,BL1,2024,2024-10-05,FC St. Pauli 1910,1. FSV Mainz 05,20,15,0,3,0
+502419,BL1,2024,2024-10-06,1. FC Heidenheim 1846,RB Leipzig,44,721,0,1,0
+502427,BL1,2024,2024-10-18,Borussia Dortmund,FC St. Pauli 1910,4,20,2,1,1
+502425,BL1,2024,2024-10-19,Bayer 04 Leverkusen,Eintracht Frankfurt,3,19,2,1,1
+502428,BL1,2024,2024-10-19,TSG 1899 Hoffenheim,VfL Bochum 1848,2,36,3,1,1
+502429,BL1,2024,2024-10-19,SC Freiburg,FC Augsburg,17,16,3,1,1
+502431,BL1,2024,2024-10-19,1. FSV Mainz 05,RB Leipzig,15,721,0,2,0
+502432,BL1,2024,2024-10-19,Borussia Mönchengladbach,1. FC Heidenheim 1846,18,44,3,2,1
+502426,BL1,2024,2024-10-19,FC Bayern München,VfB Stuttgart,5,10,4,0,1
+502433,BL1,2024,2024-10-20,Holstein Kiel,1. FC Union Berlin,720,28,0,2,0
+502430,BL1,2024,2024-10-20,VfL Wolfsburg,SV Werder Bremen,11,12,2,4,0
+502434,BL1,2024,2024-10-26,VfB Stuttgart,Holstein Kiel,10,720,2,1,1
+502435,BL1,2024,2024-10-26,RB Leipzig,SC Freiburg,721,17,3,1,1
+502438,BL1,2024,2024-10-26,FC Augsburg,Borussia Dortmund,16,4,2,1,1
+502441,BL1,2024,2024-10-27,VfL Bochum 1848,FC Bayern München,36,5,0,5,0
+502444,BL1,2024,2024-11-02,FC Bayern München,1. FC Union Berlin,5,28,3,0,1
+502446,BL1,2024,2024-11-02,Eintracht Frankfurt,VfL Bochum 1848,19,36,7,2,1
+502447,BL1,2024,2024-11-02,TSG 1899 Hoffenheim,FC St. Pauli 1910,2,20,0,2,0
+502451,BL1,2024,2024-11-02,Holstein Kiel,1. FC Heidenheim 1846,720,44,1,0,1
+502445,BL1,2024,2024-11-02,Borussia Dortmund,RB Leipzig,4,721,2,1,1
+502450,BL1,2024,2024-11-03,Borussia Mönchengladbach,SV Werder Bremen,18,12,4,1,1
+502455,BL1,2024,2024-11-09,SV Werder Bremen,Holstein Kiel,12,720,2,1,1
+502457,BL1,2024,2024-11-09,1. FSV Mainz 05,Borussia Dortmund,15,4,3,1,1
+502460,BL1,2024,2024-11-09,FC St. Pauli 1910,FC Bayern München,20,5,0,1,0
+502452,BL1,2024,2024-11-10,VfB Stuttgart,Eintracht Frankfurt,10,19,2,3,0
+502454,BL1,2024,2024-11-10,1. FC Heidenheim 1846,VfL Wolfsburg,44,11,1,3,0
+502463,BL1,2024,2024-11-22,FC Bayern München,FC Augsburg,5,16,3,0,1
+502461,BL1,2024,2024-11-23,Bayer 04 Leverkusen,1. FC Heidenheim 1846,3,44,5,2,1
+502462,BL1,2024,2024-11-23,VfB Stuttgart,VfL Bochum 1848,10,36,2,0,1
+502464,BL1,2024,2024-11-23,Borussia Dortmund,SC Freiburg,4,17,4,0,1
+502466,BL1,2024,2024-11-23,TSG 1899 Hoffenheim,RB Leipzig,2,721,4,3,1
+502467,BL1,2024,2024-11-23,VfL Wolfsburg,1. FC Union Berlin,11,28,1,0,1
+502465,BL1,2024,2024-11-23,Eintracht Frankfurt,SV Werder Bremen,19,12,1,0,1
+502469,BL1,2024,2024-11-24,Holstein Kiel,1. FSV Mainz 05,720,15,0,3,0
+502468,BL1,2024,2024-11-24,Borussia Mönchengladbach,FC St. Pauli 1910,18,20,2,0,1
+502478,BL1,2024,2024-11-29,FC St. Pauli 1910,Holstein Kiel,20,720,3,1,1
+502470,BL1,2024,2024-11-30,RB Leipzig,VfL Wolfsburg,721,11,1,5,0
+502474,BL1,2024,2024-11-30,SC Freiburg,Borussia Mönchengladbach,17,18,3,1,1
+502475,BL1,2024,2024-11-30,FC Augsburg,VfL Bochum 1848,16,36,1,0,1
+502477,BL1,2024,2024-11-30,1. FC Union Berlin,Bayer 04 Leverkusen,28,3,1,2,0
+502476,BL1,2024,2024-12-01,1. FSV Mainz 05,TSG 1899 Hoffenheim,15,2,2,0,1
+502472,BL1,2024,2024-12-01,1. FC Heidenheim 1846,Eintracht Frankfurt,44,19,0,4,0
+502480,BL1,2024,2024-12-06,VfB Stuttgart,1. FC Union Berlin,10,28,3,2,1
+502479,BL1,2024,2024-12-07,Bayer 04 Leverkusen,FC St. Pauli 1910,3,20,2,1,1
+502481,BL1,2024,2024-12-07,FC Bayern München,1. FC Heidenheim 1846,5,44,4,2,1
+502486,BL1,2024,2024-12-07,VfL Bochum 1848,SV Werder Bremen,36,12,0,1,0
+502487,BL1,2024,2024-12-07,Holstein Kiel,RB Leipzig,720,721,0,2,0
+502484,BL1,2024,2024-12-08,VfL Wolfsburg,1. FSV Mainz 05,11,15,4,3,1
+502491,BL1,2024,2024-12-13,SC Freiburg,VfL Wolfsburg,17,11,3,2,1
+502492,BL1,2024,2024-12-14,1. FSV Mainz 05,FC Bayern München,15,5,2,1,1
+502493,BL1,2024,2024-12-14,Borussia Mönchengladbach,Holstein Kiel,18,720,4,1,1
+502496,BL1,2024,2024-12-14,FC Augsburg,Bayer 04 Leverkusen,16,3,0,2,0
+502495,BL1,2024,2024-12-14,FC St. Pauli 1910,SV Werder Bremen,20,12,0,2,0
+502490,BL1,2024,2024-12-15,1. FC Heidenheim 1846,VfB Stuttgart,44,10,1,3,0
+502488,BL1,2024,2024-12-15,RB Leipzig,Eintracht Frankfurt,721,19,2,1,1
+502499,BL1,2024,2024-12-20,FC Bayern München,RB Leipzig,5,721,5,1,1
+502498,BL1,2024,2024-12-21,VfB Stuttgart,FC St. Pauli 1910,10,20,0,1,0
+502500,BL1,2024,2024-12-21,Eintracht Frankfurt,1. FSV Mainz 05,19,15,1,3,0
+502501,BL1,2024,2024-12-21,TSG 1899 Hoffenheim,Borussia Mönchengladbach,2,18,1,2,0
+502502,BL1,2024,2024-12-21,SV Werder Bremen,1. FC Union Berlin,12,28,4,1,1
+502505,BL1,2024,2024-12-21,Holstein Kiel,FC Augsburg,720,16,5,1,1
+502497,BL1,2024,2024-12-21,Bayer 04 Leverkusen,SC Freiburg,3,17,5,1,1
+502504,BL1,2024,2024-12-22,VfL Bochum 1848,1. FC Heidenheim 1846,36,44,2,0,1
+502503,BL1,2024,2024-12-22,VfL Wolfsburg,Borussia Dortmund,11,4,1,3,0
+502507,BL1,2024,2025-01-10,Borussia Dortmund,Bayer 04 Leverkusen,4,3,2,3,0
+502508,BL1,2024,2025-01-11,TSG 1899 Hoffenheim,VfL Wolfsburg,2,11,0,1,0
+502509,BL1,2024,2025-01-11,1. FC Heidenheim 1846,1. FC Union Berlin,44,28,2,0,1
+502510,BL1,2024,2025-01-11,SC Freiburg,Holstein Kiel,17,720,3,2,1
+502512,BL1,2024,2025-01-11,1. FSV Mainz 05,VfL Bochum 1848,15,36,2,0,1
+502514,BL1,2024,2025-01-11,FC St. Pauli 1910,Eintracht Frankfurt,20,19,0,1,0
+502513,BL1,2024,2025-01-11,Borussia Mönchengladbach,FC Bayern München,18,5,0,1,0
+502506,BL1,2024,2025-01-12,RB Leipzig,SV Werder Bremen,721,12,4,2,1
+502511,BL1,2024,2025-01-12,FC Augsburg,VfB Stuttgart,16,10,0,1,0
+502523,BL1,2024,2025-01-14,Holstein Kiel,Borussia Dortmund,720,4,4,2,1
+502515,BL1,2024,2025-01-14,Bayer 04 Leverkusen,1. FSV Mainz 05,3,15,1,0,1
+502518,BL1,2024,2025-01-14,Eintracht Frankfurt,SC Freiburg,19,17,4,1,1
+502520,BL1,2024,2025-01-14,VfL Wolfsburg,Borussia Mönchengladbach,11,18,5,1,1
+502522,BL1,2024,2025-01-15,VfL Bochum 1848,FC St. Pauli 1910,36,20,1,0,1
+502516,BL1,2024,2025-01-15,VfB Stuttgart,RB Leipzig,10,721,2,1,1
+502517,BL1,2024,2025-01-15,FC Bayern München,TSG 1899 Hoffenheim,5,2,5,0,1
+502521,BL1,2024,2025-01-15,1. FC Union Berlin,FC Augsburg,28,16,0,2,0
+502526,BL1,2024,2025-01-17,Eintracht Frankfurt,Borussia Dortmund,19,4,2,0,1
+502528,BL1,2024,2025-01-18,VfB Stuttgart,SC Freiburg,10,17,4,0,1
+502530,BL1,2024,2025-01-18,FC Bayern München,VfL Wolfsburg,5,11,3,2,1
+502532,BL1,2024,2025-01-18,1. FC Heidenheim 1846,FC St. Pauli 1910,44,20,0,2,0
+502527,BL1,2024,2025-01-18,Holstein Kiel,TSG 1899 Hoffenheim,720,2,1,3,0
+502524,BL1,2024,2025-01-18,Bayer 04 Leverkusen,Borussia Mönchengladbach,3,18,3,1,1
+502531,BL1,2024,2025-01-19,1. FC Union Berlin,1. FSV Mainz 05,28,15,2,1,1
+502529,BL1,2024,2025-01-19,SV Werder Bremen,FC Augsburg,12,16,0,2,0
+502534,BL1,2024,2025-01-25,1. FSV Mainz 05,VfB Stuttgart,15,10,2,0,1
+502535,BL1,2024,2025-01-25,SC Freiburg,FC Bayern München,17,5,1,2,0
+502537,BL1,2024,2025-01-25,FC Augsburg,1. FC Heidenheim 1846,16,44,2,1,1
+502540,BL1,2024,2025-01-25,Borussia Mönchengladbach,VfL Bochum 1848,18,36,3,0,1
+502539,BL1,2024,2025-01-26,FC St. Pauli 1910,1. FC Union Berlin,20,28,3,0,1
+502548,BL1,2024,2025-01-31,SV Werder Bremen,1. FSV Mainz 05,12,15,1,0,1
+502543,BL1,2024,2025-02-01,1. FC Heidenheim 1846,Borussia Dortmund,44,4,1,2,0
+502545,BL1,2024,2025-02-01,VfL Bochum 1848,SC Freiburg,36,17,0,1,0
+502549,BL1,2024,2025-02-01,VfB Stuttgart,Borussia Mönchengladbach,10,18,1,2,0
+502550,BL1,2024,2025-02-01,FC Bayern München,Holstein Kiel,5,720,4,3,1
+502544,BL1,2024,2025-02-02,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,3,2,3,1,1
+502555,BL1,2024,2025-02-07,FC Bayern München,SV Werder Bremen,5,12,3,0,1
+502552,BL1,2024,2025-02-08,Borussia Dortmund,VfB Stuttgart,4,10,1,2,0
+502554,BL1,2024,2025-02-08,SC Freiburg,1. FC Heidenheim 1846,17,44,1,0,1
+502557,BL1,2024,2025-02-08,TSG 1899 Hoffenheim,1. FC Union Berlin,2,28,0,4,0
+502559,BL1,2024,2025-02-09,RB Leipzig,FC St. Pauli 1910,721,20,2,0,1
+502562,BL1,2024,2025-02-15,VfL Bochum 1848,Borussia Dortmund,36,4,2,0,1
+502564,BL1,2024,2025-02-15,FC St. Pauli 1910,SC Freiburg,20,17,0,1,0
+502565,BL1,2024,2025-02-15,VfB Stuttgart,VfL Wolfsburg,10,11,1,2,0
+502567,BL1,2024,2025-02-15,1. FC Union Berlin,Borussia Mönchengladbach,28,18,1,2,0
+502563,BL1,2024,2025-02-16,SV Werder Bremen,TSG 1899 Hoffenheim,12,2,1,3,0
+502568,BL1,2024,2025-02-16,Eintracht Frankfurt,Holstein Kiel,19,720,3,1,1
+502566,BL1,2024,2025-02-16,1. FC Heidenheim 1846,1. FSV Mainz 05,44,15,0,2,0
+502573,BL1,2024,2025-02-21,SC Freiburg,SV Werder Bremen,17,12,5,0,1
+502569,BL1,2024,2025-02-22,Holstein Kiel,Bayer 04 Leverkusen,720,3,0,2,0
+502574,BL1,2024,2025-02-22,Borussia Mönchengladbach,FC Augsburg,18,16,0,3,0
+502577,BL1,2024,2025-02-22,1. FSV Mainz 05,FC St. Pauli 1910,15,20,2,0,1
+502575,BL1,2024,2025-02-22,Borussia Dortmund,1. FC Union Berlin,4,28,6,0,1
+502571,BL1,2024,2025-02-23,FC Bayern München,Eintracht Frankfurt,5,19,4,0,1
+502579,BL1,2024,2025-02-28,VfB Stuttgart,FC Bayern München,10,5,1,3,0
+502580,BL1,2024,2025-03-01,FC St. Pauli 1910,Borussia Dortmund,20,4,0,2,0
+502581,BL1,2024,2025-03-01,VfL Bochum 1848,TSG 1899 Hoffenheim,36,2,0,1,0
+502583,BL1,2024,2025-03-01,SV Werder Bremen,VfL Wolfsburg,12,11,1,2,0
+502584,BL1,2024,2025-03-01,RB Leipzig,1. FSV Mainz 05,721,15,1,2,0
+502585,BL1,2024,2025-03-01,1. FC Heidenheim 1846,Borussia Mönchengladbach,44,18,0,3,0
+502578,BL1,2024,2025-03-01,Eintracht Frankfurt,Bayer 04 Leverkusen,19,3,1,4,0
+502586,BL1,2024,2025-03-02,1. FC Union Berlin,Holstein Kiel,28,720,0,1,0
+502592,BL1,2024,2025-03-07,Borussia Mönchengladbach,1. FSV Mainz 05,18,15,1,3,0
+502590,BL1,2024,2025-03-08,Bayer 04 Leverkusen,SV Werder Bremen,3,12,0,2,0
+502591,BL1,2024,2025-03-08,Borussia Dortmund,FC Augsburg,4,16,0,1,0
+502594,BL1,2024,2025-03-08,FC Bayern München,VfL Bochum 1848,5,36,2,3,0
+502593,BL1,2024,2025-03-09,Eintracht Frankfurt,1. FC Union Berlin,19,28,1,2,0
+502600,BL1,2024,2025-03-14,FC St. Pauli 1910,TSG 1899 Hoffenheim,20,2,1,0,1
+502602,BL1,2024,2025-03-15,FC Augsburg,VfL Wolfsburg,16,11,1,0,1
+502603,BL1,2024,2025-03-15,SV Werder Bremen,Borussia Mönchengladbach,12,18,2,4,0
+502598,BL1,2024,2025-03-15,RB Leipzig,Borussia Dortmund,721,4,2,0,1
+502599,BL1,2024,2025-03-16,VfL Bochum 1848,Eintracht Frankfurt,36,19,1,3,0
+502604,BL1,2024,2025-03-16,1. FC Heidenheim 1846,Holstein Kiel,44,720,3,1,1
+502596,BL1,2024,2025-03-16,VfB Stuttgart,Bayer 04 Leverkusen,10,3,3,4,0
+502612,BL1,2024,2025-03-28,Bayer 04 Leverkusen,VfL Bochum 1848,3,36,3,1,1
+502606,BL1,2024,2025-03-29,Borussia Mönchengladbach,RB Leipzig,18,721,1,0,1
+502607,BL1,2024,2025-03-29,VfL Wolfsburg,1. FC Heidenheim 1846,11,44,0,1,0
+502608,BL1,2024,2025-03-29,Holstein Kiel,SV Werder Bremen,720,12,0,3,0
+502613,BL1,2024,2025-03-29,FC Bayern München,FC St. Pauli 1910,5,20,3,2,1
+502605,BL1,2024,2025-03-29,Eintracht Frankfurt,VfB Stuttgart,19,10,1,0,1
+502611,BL1,2024,2025-03-30,SC Freiburg,1. FC Union Berlin,17,28,1,2,0
+502610,BL1,2024,2025-03-30,Borussia Dortmund,1. FSV Mainz 05,4,15,3,1,1
+502616,BL1,2024,2025-04-04,FC Augsburg,FC Bayern München,16,5,1,3,0
+502614,BL1,2024,2025-04-05,1. FC Heidenheim 1846,Bayer 04 Leverkusen,44,3,0,1,0
+502615,BL1,2024,2025-04-05,VfL Bochum 1848,VfB Stuttgart,36,10,0,4,0
+502617,BL1,2024,2025-04-05,SC Freiburg,Borussia Dortmund,17,4,1,4,0
+502619,BL1,2024,2025-04-05,RB Leipzig,TSG 1899 Hoffenheim,721,2,3,1,1
+502618,BL1,2024,2025-04-05,SV Werder Bremen,Eintracht Frankfurt,12,19,2,0,1
+502620,BL1,2024,2025-04-06,1. FC Union Berlin,VfL Wolfsburg,28,11,1,0,1
+502623,BL1,2024,2025-04-11,VfL Wolfsburg,RB Leipzig,11,721,2,3,0
+502627,BL1,2024,2025-04-12,Borussia Mönchengladbach,SC Freiburg,18,17,1,2,0
+502628,BL1,2024,2025-04-12,VfL Bochum 1848,FC Augsburg,36,16,1,2,0
+502629,BL1,2024,2025-04-12,TSG 1899 Hoffenheim,1. FSV Mainz 05,2,15,2,0,1
+502631,BL1,2024,2025-04-12,Holstein Kiel,FC St. Pauli 1910,720,20,1,2,0
+502626,BL1,2024,2025-04-13,VfB Stuttgart,SV Werder Bremen,10,12,1,2,0
+502625,BL1,2024,2025-04-13,Eintracht Frankfurt,1. FC Heidenheim 1846,19,44,3,0,1
+502634,BL1,2024,2025-04-19,1. FC Heidenheim 1846,FC Bayern München,44,5,0,4,0
+502636,BL1,2024,2025-04-19,SC Freiburg,TSG 1899 Hoffenheim,17,2,3,2,1
+502639,BL1,2024,2025-04-19,SV Werder Bremen,VfL Bochum 1848,12,36,1,0,1
+502638,BL1,2024,2025-04-20,Borussia Dortmund,Borussia Mönchengladbach,4,18,3,2,1
+502643,BL1,2024,2025-04-25,VfB Stuttgart,1. FC Heidenheim 1846,10,44,0,1,0
+502642,BL1,2024,2025-04-26,TSG 1899 Hoffenheim,Borussia Dortmund,2,4,2,3,0
+502644,BL1,2024,2025-04-26,VfL Wolfsburg,SC Freiburg,11,17,0,1,0
+502645,BL1,2024,2025-04-26,FC Bayern München,1. FSV Mainz 05,5,15,3,0,1
+502646,BL1,2024,2025-04-26,Holstein Kiel,Borussia Mönchengladbach,720,18,4,3,1
+502649,BL1,2024,2025-04-26,Bayer 04 Leverkusen,FC Augsburg,3,16,2,0,1
+502641,BL1,2024,2025-04-26,Eintracht Frankfurt,RB Leipzig,19,721,4,0,1
+502651,BL1,2024,2025-05-03,FC St. Pauli 1910,VfB Stuttgart,20,10,0,1,0
+502656,BL1,2024,2025-05-03,Borussia Dortmund,VfL Wolfsburg,4,11,4,0,1
+502658,BL1,2024,2025-05-04,FC Augsburg,Holstein Kiel,16,720,1,3,0
+502662,BL1,2024,2025-05-10,1. FC Union Berlin,1. FC Heidenheim 1846,28,44,0,3,0
+502663,BL1,2024,2025-05-10,Holstein Kiel,SC Freiburg,720,17,1,2,0
+502665,BL1,2024,2025-05-10,VfL Bochum 1848,1. FSV Mainz 05,36,15,1,4,0
+502666,BL1,2024,2025-05-10,FC Bayern München,Borussia Mönchengladbach,5,18,2,0,1
+502660,BL1,2024,2025-05-11,Bayer 04 Leverkusen,Borussia Dortmund,3,4,2,4,0
+502664,BL1,2024,2025-05-11,VfB Stuttgart,FC Augsburg,10,16,4,0,1
+502669,BL1,2024,2025-05-17,RB Leipzig,VfB Stuttgart,721,10,2,3,0
+502670,BL1,2024,2025-05-17,TSG 1899 Hoffenheim,FC Bayern München,2,5,0,4,0
+502671,BL1,2024,2025-05-17,SC Freiburg,Eintracht Frankfurt,17,19,1,3,0
+502672,BL1,2024,2025-05-17,1. FC Heidenheim 1846,SV Werder Bremen,44,12,1,4,0
+502673,BL1,2024,2025-05-17,Borussia Mönchengladbach,VfL Wolfsburg,18,11,0,1,0
+502674,BL1,2024,2025-05-17,FC Augsburg,1. FC Union Berlin,16,28,1,2,0
+502675,BL1,2024,2025-05-17,FC St. Pauli 1910,VfL Bochum 1848,20,36,0,2,0
+502676,BL1,2024,2025-05-17,Borussia Dortmund,Holstein Kiel,4,720,3,0,1
+540406,BL1,2025,2025-08-22,FC Bayern München,RB Leipzig,5,721,6,0,1
+540407,BL1,2025,2025-08-23,Eintracht Frankfurt,SV Werder Bremen,19,12,4,1,1
+540408,BL1,2025,2025-08-23,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,3,2,1,2,0
+540409,BL1,2025,2025-08-23,SC Freiburg,FC Augsburg,17,16,1,3,0
+540412,BL1,2025,2025-08-23,1. FC Union Berlin,VfB Stuttgart,28,10,2,1,1
+540414,BL1,2025,2025-08-23,1. FC Heidenheim 1846,VfL Wolfsburg,44,11,1,3,0
+540410,BL1,2025,2025-08-24,1. FSV Mainz 05,1. FC Köln,15,1,0,1,0
+540423,BL1,2025,2025-08-29,Hamburger SV,FC St. Pauli 1910,7,20,0,2,0
+540416,BL1,2025,2025-08-30,RB Leipzig,1. FC Heidenheim 1846,721,44,2,0,1
+540418,BL1,2025,2025-08-30,VfB Stuttgart,Borussia Mönchengladbach,10,18,1,0,1
+540421,BL1,2025,2025-08-30,TSG 1899 Hoffenheim,Eintracht Frankfurt,2,19,1,3,0
+540420,BL1,2025,2025-08-30,FC Augsburg,FC Bayern München,16,5,2,3,0
+540415,BL1,2025,2025-08-31,Borussia Dortmund,1. FC Union Berlin,4,28,3,0,1
+540422,BL1,2025,2025-08-31,1. FC Köln,SC Freiburg,1,17,4,1,1
+540425,BL1,2025,2025-09-12,Bayer 04 Leverkusen,Eintracht Frankfurt,3,19,3,1,1
+540426,BL1,2025,2025-09-13,SC Freiburg,VfB Stuttgart,17,10,3,1,1
+540427,BL1,2025,2025-09-13,1. FSV Mainz 05,RB Leipzig,15,721,0,1,0
+540430,BL1,2025,2025-09-13,1. FC Union Berlin,TSG 1899 Hoffenheim,28,2,2,4,0
+540432,BL1,2025,2025-09-13,1. FC Heidenheim 1846,Borussia Dortmund,44,4,0,2,0
+540424,BL1,2025,2025-09-13,FC Bayern München,Hamburger SV,5,7,5,0,1
+540431,BL1,2025,2025-09-14,FC St. Pauli 1910,FC Augsburg,20,16,2,1,1
+540428,BL1,2025,2025-09-14,Borussia Mönchengladbach,SV Werder Bremen,18,12,0,4,0
+540438,BL1,2025,2025-09-19,VfB Stuttgart,FC St. Pauli 1910,10,20,2,0,1
+540437,BL1,2025,2025-09-20,SV Werder Bremen,SC Freiburg,12,17,0,3,0
+540439,BL1,2025,2025-09-20,FC Augsburg,1. FSV Mainz 05,16,15,1,4,0
+540440,BL1,2025,2025-09-20,TSG 1899 Hoffenheim,FC Bayern München,2,5,1,4,0
+540441,BL1,2025,2025-09-20,Hamburger SV,1. FC Heidenheim 1846,7,44,2,1,1
+540436,BL1,2025,2025-09-20,RB Leipzig,1. FC Köln,721,1,3,1,1
+540434,BL1,2025,2025-09-21,Eintracht Frankfurt,1. FC Union Berlin,19,28,3,4,0
+540435,BL1,2025,2025-09-21,Borussia Dortmund,VfL Wolfsburg,4,11,1,0,1
+540442,BL1,2025,2025-09-26,FC Bayern München,SV Werder Bremen,5,12,4,0,1
+540444,BL1,2025,2025-09-27,1. FSV Mainz 05,Borussia Dortmund,15,4,0,2,0
+540446,BL1,2025,2025-09-27,VfL Wolfsburg,RB Leipzig,11,721,0,1,0
+540448,BL1,2025,2025-09-27,FC St. Pauli 1910,Bayer 04 Leverkusen,20,3,1,2,0
+540449,BL1,2025,2025-09-27,1. FC Heidenheim 1846,FC Augsburg,44,16,2,1,1
+540445,BL1,2025,2025-09-27,Borussia Mönchengladbach,Eintracht Frankfurt,18,19,4,6,0
+540450,BL1,2025,2025-09-28,1. FC Köln,VfB Stuttgart,1,10,1,2,0
+540458,BL1,2025,2025-10-03,TSG 1899 Hoffenheim,1. FC Köln,2,1,0,1,0
+540451,BL1,2025,2025-10-04,Bayer 04 Leverkusen,1. FC Union Berlin,3,28,2,0,1
+540454,BL1,2025,2025-10-04,SV Werder Bremen,FC St. Pauli 1910,12,20,1,0,1
+540457,BL1,2025,2025-10-04,FC Augsburg,VfL Wolfsburg,16,11,3,1,1
+540452,BL1,2025,2025-10-04,Eintracht Frankfurt,FC Bayern München,19,5,0,3,0
+540455,BL1,2025,2025-10-05,VfB Stuttgart,1. FC Heidenheim 1846,10,44,1,0,1
+540459,BL1,2025,2025-10-05,Hamburger SV,1. FSV Mainz 05,7,15,4,0,1
+540465,BL1,2025,2025-10-17,1. FC Union Berlin,Borussia Mönchengladbach,28,18,3,1,1
+540462,BL1,2025,2025-10-18,1. FSV Mainz 05,Bayer 04 Leverkusen,15,3,3,4,0
+540463,BL1,2025,2025-10-18,RB Leipzig,Hamburger SV,721,7,2,1,1
+540464,BL1,2025,2025-10-18,VfL Wolfsburg,VfB Stuttgart,11,10,0,3,0
+540460,BL1,2025,2025-10-18,FC Bayern München,Borussia Dortmund,5,4,2,1,1
+540466,BL1,2025,2025-10-19,FC St. Pauli 1910,TSG 1899 Hoffenheim,20,2,0,3,0
+540472,BL1,2025,2025-10-24,SV Werder Bremen,1. FC Union Berlin,12,28,1,0,1
+540470,BL1,2025,2025-10-25,Eintracht Frankfurt,FC St. Pauli 1910,19,20,2,0,1
+540475,BL1,2025,2025-10-25,FC Augsburg,RB Leipzig,16,721,0,6,0
+540476,BL1,2025,2025-10-25,TSG 1899 Hoffenheim,1. FC Heidenheim 1846,2,44,3,1,1
+540477,BL1,2025,2025-10-25,Hamburger SV,VfL Wolfsburg,7,11,0,1,0
+540474,BL1,2025,2025-10-25,Borussia Mönchengladbach,FC Bayern München,18,5,0,3,0
+540471,BL1,2025,2025-10-25,Borussia Dortmund,1. FC Köln,4,1,1,0,1
+540469,BL1,2025,2025-10-26,Bayer 04 Leverkusen,SC Freiburg,3,17,2,0,1
+540473,BL1,2025,2025-10-26,VfB Stuttgart,1. FSV Mainz 05,10,15,2,1,1
+540482,BL1,2025,2025-10-31,FC Augsburg,Borussia Dortmund,16,4,0,1,0
+540480,BL1,2025,2025-11-01,RB Leipzig,VfB Stuttgart,721,10,3,1,1
+540484,BL1,2025,2025-11-01,FC St. Pauli 1910,Borussia Mönchengladbach,20,18,0,4,0
+540478,BL1,2025,2025-11-01,FC Bayern München,Bayer 04 Leverkusen,5,3,3,0,1
+540486,BL1,2025,2025-11-02,1. FC Köln,Hamburger SV,1,7,4,1,1
+540481,BL1,2025,2025-11-02,VfL Wolfsburg,TSG 1899 Hoffenheim,11,2,2,3,0
+540490,BL1,2025,2025-11-07,SV Werder Bremen,VfL Wolfsburg,12,11,2,1,1
+540487,BL1,2025,2025-11-08,Bayer 04 Leverkusen,1. FC Heidenheim 1846,3,44,6,0,1
+540494,BL1,2025,2025-11-08,TSG 1899 Hoffenheim,RB Leipzig,2,721,3,1,1
+540492,BL1,2025,2025-11-08,Borussia Mönchengladbach,1. FC Köln,18,1,3,1,1
+540489,BL1,2025,2025-11-09,SC Freiburg,FC St. Pauli 1910,17,20,2,1,1
+540491,BL1,2025,2025-11-09,VfB Stuttgart,FC Augsburg,10,16,3,2,1
+540488,BL1,2025,2025-11-09,Eintracht Frankfurt,1. FSV Mainz 05,19,15,1,0,1
+540496,BL1,2025,2025-11-22,FC Bayern München,SC Freiburg,5,17,6,2,1
+540500,BL1,2025,2025-11-22,VfL Wolfsburg,Bayer 04 Leverkusen,11,3,1,3,0
+540501,BL1,2025,2025-11-22,FC Augsburg,Hamburger SV,16,7,1,0,1
+540503,BL1,2025,2025-11-22,1. FC Heidenheim 1846,Borussia Mönchengladbach,44,18,0,3,0
+540504,BL1,2025,2025-11-22,1. FC Köln,Eintracht Frankfurt,1,19,3,4,0
+540499,BL1,2025,2025-11-23,RB Leipzig,SV Werder Bremen,721,12,2,0,1
+540502,BL1,2025,2025-11-23,FC St. Pauli 1910,1. FC Union Berlin,20,28,0,1,0
+540505,BL1,2025,2025-11-29,FC Bayern München,FC St. Pauli 1910,5,20,3,1,1
+540511,BL1,2025,2025-11-29,1. FC Union Berlin,1. FC Heidenheim 1846,28,44,1,2,0
+540512,BL1,2025,2025-11-29,TSG 1899 Hoffenheim,FC Augsburg,2,16,3,0,1
+540506,BL1,2025,2025-11-29,Bayer 04 Leverkusen,Borussia Dortmund,3,4,1,2,0
+540513,BL1,2025,2025-11-30,Hamburger SV,VfB Stuttgart,7,10,2,1,1
+540508,BL1,2025,2025-11-30,SC Freiburg,1. FSV Mainz 05,17,15,4,0,1
+540515,BL1,2025,2025-12-05,1. FSV Mainz 05,Borussia Mönchengladbach,15,18,0,1,0
+540517,BL1,2025,2025-12-06,VfB Stuttgart,FC Bayern München,10,5,0,5,0
+540518,BL1,2025,2025-12-06,VfL Wolfsburg,1. FC Union Berlin,11,28,3,1,1
+540519,BL1,2025,2025-12-06,1. FC Heidenheim 1846,SC Freiburg,44,17,2,1,1
+540522,BL1,2025,2025-12-06,FC Augsburg,Bayer 04 Leverkusen,16,3,2,0,1
+540516,BL1,2025,2025-12-06,RB Leipzig,Eintracht Frankfurt,721,19,6,0,1
+540521,BL1,2025,2025-12-07,Hamburger SV,SV Werder Bremen,7,12,3,2,1
+540514,BL1,2025,2025-12-07,Borussia Dortmund,TSG 1899 Hoffenheim,4,2,2,0,1
+540529,BL1,2025,2025-12-12,1. FC Union Berlin,RB Leipzig,28,721,3,1,1
+540525,BL1,2025,2025-12-13,Eintracht Frankfurt,FC Augsburg,19,16,1,0,1
+540528,BL1,2025,2025-12-13,Borussia Mönchengladbach,VfL Wolfsburg,18,11,1,3,0
+540530,BL1,2025,2025-12-13,FC St. Pauli 1910,1. FC Heidenheim 1846,20,44,2,1,1
+540531,BL1,2025,2025-12-13,TSG 1899 Hoffenheim,Hamburger SV,2,7,4,1,1
+540524,BL1,2025,2025-12-13,Bayer 04 Leverkusen,1. FC Köln,3,1,2,0,1
+540527,BL1,2025,2025-12-14,SV Werder Bremen,VfB Stuttgart,12,10,0,4,0
+540532,BL1,2025,2025-12-19,Borussia Dortmund,Borussia Mönchengladbach,4,18,2,0,1
+540536,BL1,2025,2025-12-20,VfL Wolfsburg,SC Freiburg,11,17,3,4,0
+540539,BL1,2025,2025-12-20,1. FC Köln,1. FC Union Berlin,1,28,0,1,0
+540534,BL1,2025,2025-12-20,RB Leipzig,Bayer 04 Leverkusen,721,3,1,3,0
+540538,BL1,2025,2025-12-21,1. FC Heidenheim 1846,FC Bayern München,44,5,0,4,0
+540544,BL1,2025,2026-01-10,SC Freiburg,Hamburger SV,17,7,2,1,1
+540542,BL1,2025,2026-01-10,Bayer 04 Leverkusen,VfB Stuttgart,3,10,1,4,0
+540546,BL1,2025,2026-01-11,Borussia Mönchengladbach,FC Augsburg,18,16,4,0,1
+540541,BL1,2025,2026-01-11,FC Bayern München,VfL Wolfsburg,5,11,8,1,1
+540553,BL1,2025,2026-01-13,VfB Stuttgart,Eintracht Frankfurt,10,19,3,2,1
+540550,BL1,2025,2026-01-13,Borussia Dortmund,SV Werder Bremen,4,12,3,0,1
+540551,BL1,2025,2026-01-13,1. FSV Mainz 05,1. FC Heidenheim 1846,15,44,2,1,1
+540554,BL1,2025,2026-01-14,VfL Wolfsburg,FC St. Pauli 1910,11,20,2,1,1
+540552,BL1,2025,2026-01-14,RB Leipzig,SC Freiburg,721,17,2,0,1
+540556,BL1,2025,2026-01-14,TSG 1899 Hoffenheim,Borussia Mönchengladbach,2,18,5,1,1
+540557,BL1,2025,2026-01-14,1. FC Köln,FC Bayern München,1,5,1,3,0
+540561,BL1,2025,2026-01-17,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,2,3,1,0,1
+540563,BL1,2025,2026-01-17,1. FC Köln,1. FSV Mainz 05,1,15,2,1,1
+540566,BL1,2025,2026-01-17,Borussia Dortmund,FC St. Pauli 1910,4,20,3,2,1
+540559,BL1,2025,2026-01-17,RB Leipzig,FC Bayern München,721,5,1,5,0
+540569,BL1,2025,2026-01-24,1. FC Heidenheim 1846,RB Leipzig,44,721,0,3,0
+540570,BL1,2025,2026-01-24,Bayer 04 Leverkusen,SV Werder Bremen,3,12,1,0,1
+540572,BL1,2025,2026-01-24,1. FSV Mainz 05,VfL Wolfsburg,15,11,3,1,1
+540573,BL1,2025,2026-01-24,FC Bayern München,FC Augsburg,5,16,1,2,0
+540574,BL1,2025,2026-01-24,Eintracht Frankfurt,TSG 1899 Hoffenheim,19,2,1,3,0
+540568,BL1,2025,2026-01-24,1. FC Union Berlin,Borussia Dortmund,28,4,0,3,0
+540571,BL1,2025,2026-01-25,Borussia Mönchengladbach,VfB Stuttgart,18,10,0,3,0
+540575,BL1,2025,2026-01-25,SC Freiburg,1. FC Köln,17,1,2,1,1
+540545,BL1,2025,2026-01-27,SV Werder Bremen,TSG 1899 Hoffenheim,12,2,0,2,0
+540582,BL1,2025,2026-01-30,1. FC Köln,VfL Wolfsburg,1,11,1,0,1
+540578,BL1,2025,2026-01-31,Eintracht Frankfurt,Bayer 04 Leverkusen,19,3,1,3,0
+540580,BL1,2025,2026-01-31,RB Leipzig,1. FSV Mainz 05,721,15,1,2,0
+540583,BL1,2025,2026-01-31,TSG 1899 Hoffenheim,1. FC Union Berlin,2,28,3,1,1
+540584,BL1,2025,2026-01-31,FC Augsburg,FC St. Pauli 1910,16,20,2,1,1
+540579,BL1,2025,2026-02-01,VfB Stuttgart,SC Freiburg,10,17,1,0,1
+540585,BL1,2025,2026-02-01,Borussia Dortmund,1. FC Heidenheim 1846,4,44,3,2,1
+540588,BL1,2025,2026-02-07,VfL Wolfsburg,Borussia Dortmund,11,4,1,2,0
+540590,BL1,2025,2026-02-07,SC Freiburg,SV Werder Bremen,17,12,1,0,1
+540591,BL1,2025,2026-02-07,FC St. Pauli 1910,VfB Stuttgart,20,10,2,1,1
+540592,BL1,2025,2026-02-07,1. FSV Mainz 05,FC Augsburg,15,16,2,0,1
+540594,BL1,2025,2026-02-07,1. FC Heidenheim 1846,Hamburger SV,44,7,0,2,0
+540589,BL1,2025,2026-02-08,1. FC Köln,RB Leipzig,1,721,1,2,0
+540593,BL1,2025,2026-02-08,FC Bayern München,TSG 1899 Hoffenheim,5,2,5,1,1
+540597,BL1,2025,2026-02-13,Borussia Dortmund,1. FSV Mainz 05,4,15,4,0,1
+540595,BL1,2025,2026-02-14,SV Werder Bremen,FC Bayern München,12,5,0,3,0
+540596,BL1,2025,2026-02-14,TSG 1899 Hoffenheim,SC Freiburg,2,17,3,0,1
+540598,BL1,2025,2026-02-14,Eintracht Frankfurt,Borussia Mönchengladbach,19,18,3,0,1
+540600,BL1,2025,2026-02-14,Hamburger SV,1. FC Union Berlin,7,28,3,2,1
+540601,BL1,2025,2026-02-14,Bayer 04 Leverkusen,FC St. Pauli 1910,3,20,4,0,1
+540603,BL1,2025,2026-02-14,VfB Stuttgart,1. FC Köln,10,1,3,1,1
+540602,BL1,2025,2026-02-15,FC Augsburg,1. FC Heidenheim 1846,16,44,1,0,1
+540604,BL1,2025,2026-02-21,1. FC Union Berlin,Bayer 04 Leverkusen,28,3,1,0,1
+540605,BL1,2025,2026-02-21,FC Bayern München,Eintracht Frankfurt,5,19,3,2,1
+540610,BL1,2025,2026-02-21,VfL Wolfsburg,FC Augsburg,11,16,2,3,0
+540609,BL1,2025,2026-02-22,SC Freiburg,Borussia Mönchengladbach,17,18,2,1,1
+540607,BL1,2025,2026-02-22,FC St. Pauli 1910,SV Werder Bremen,20,12,2,1,1
+540621,BL1,2025,2026-02-27,FC Augsburg,1. FC Köln,16,1,2,0,1
+540618,BL1,2025,2026-02-28,Borussia Mönchengladbach,1. FC Union Berlin,18,28,1,0,1
+540619,BL1,2025,2026-02-28,TSG 1899 Hoffenheim,FC St. Pauli 1910,2,20,0,1,0
+540620,BL1,2025,2026-02-28,SV Werder Bremen,1. FC Heidenheim 1846,12,44,2,0,1
+540613,BL1,2025,2026-02-28,Borussia Dortmund,FC Bayern München,4,5,2,3,0
+540617,BL1,2025,2026-03-01,VfB Stuttgart,VfL Wolfsburg,10,11,4,0,1
+540614,BL1,2025,2026-03-01,Eintracht Frankfurt,SC Freiburg,19,17,2,0,1
+540616,BL1,2025,2026-03-01,Hamburger SV,RB Leipzig,7,721,1,2,0
+540558,BL1,2025,2026-03-04,Hamburger SV,Bayer 04 Leverkusen,7,3,0,1,0
+540627,BL1,2025,2026-03-06,FC Bayern München,Borussia Mönchengladbach,5,18,4,1,1
+540628,BL1,2025,2026-03-07,RB Leipzig,FC Augsburg,721,16,2,1,1
+540629,BL1,2025,2026-03-07,1. FC Heidenheim 1846,TSG 1899 Hoffenheim,44,2,2,4,0
+540630,BL1,2025,2026-03-07,VfL Wolfsburg,Hamburger SV,11,7,1,2,0
+540624,BL1,2025,2026-03-07,1. FC Köln,Borussia Dortmund,1,4,1,2,0
+540625,BL1,2025,2026-03-08,1. FC Union Berlin,SV Werder Bremen,28,12,1,4,0
+540637,BL1,2025,2026-03-13,Borussia Mönchengladbach,FC St. Pauli 1910,18,20,2,0,1
+540635,BL1,2025,2026-03-14,Borussia Dortmund,FC Augsburg,4,16,2,0,1
+540638,BL1,2025,2026-03-14,Eintracht Frankfurt,1. FC Heidenheim 1846,19,44,1,0,1
+540632,BL1,2025,2026-03-15,SV Werder Bremen,1. FSV Mainz 05,12,15,0,2,0
+540636,BL1,2025,2026-03-15,SC Freiburg,1. FC Union Berlin,17,28,0,1,0
+540633,BL1,2025,2026-03-15,VfB Stuttgart,RB Leipzig,10,721,1,0,1
+540647,BL1,2025,2026-03-20,RB Leipzig,TSG 1899 Hoffenheim,721,2,5,0,1
+540643,BL1,2025,2026-03-21,VfL Wolfsburg,SV Werder Bremen,11,12,0,1,0
+540646,BL1,2025,2026-03-21,FC Bayern München,1. FC Union Berlin,5,28,4,0,1
+540648,BL1,2025,2026-03-21,Borussia Dortmund,Hamburger SV,4,7,3,2,1
+540641,BL1,2025,2026-03-22,1. FSV Mainz 05,Eintracht Frankfurt,15,19,2,1,1
+540642,BL1,2025,2026-03-22,FC St. Pauli 1910,SC Freiburg,20,17,1,2,0
+540644,BL1,2025,2026-03-22,FC Augsburg,VfB Stuttgart,16,10,2,5,0
+438482,PD,2023,2023-08-11,UD Almería,Rayo Vallecano de Madrid,267,87,0,2,0
+438479,PD,2023,2023-08-11,Sevilla FC,Valencia CF,559,95,1,2,0
+438474,PD,2023,2023-08-12,Athletic Club,Real Madrid CF,77,86,0,2,0
+438476,PD,2023,2023-08-13,RC Celta de Vigo,CA Osasuna,558,79,0,2,0
+438480,PD,2023,2023-08-13,Villarreal CF,Real Betis Balompié,94,90,1,2,0
+438477,PD,2023,2023-08-14,Cádiz CF,Deportivo Alavés,264,263,1,0,1
+438475,PD,2023,2023-08-14,Club Atlético de Madrid,Granada CF,78,83,3,1,1
+438491,PD,2023,2023-08-18,RCD Mallorca,Villarreal CF,89,94,0,1,0
+438490,PD,2023,2023-08-18,Valencia CF,UD Las Palmas,95,275,1,0,1
+438493,PD,2023,2023-08-19,UD Almería,Real Madrid CF,267,86,1,3,0
+438485,PD,2023,2023-08-19,CA Osasuna,Athletic Club,79,77,0,2,0
+438488,PD,2023,2023-08-20,Girona FC,Getafe CF,298,82,3,0,1
+438487,PD,2023,2023-08-20,FC Barcelona,Cádiz CF,81,264,2,0,1
+438486,PD,2023,2023-08-21,Deportivo Alavés,Sevilla FC,263,559,4,3,1
+438489,PD,2023,2023-08-21,Granada CF,Rayo Vallecano de Madrid,83,87,0,2,0
+438495,PD,2023,2023-08-25,RC Celta de Vigo,Real Madrid CF,558,86,0,1,0
+438498,PD,2023,2023-08-26,Granada CF,RCD Mallorca,83,89,3,2,1
+438499,PD,2023,2023-08-26,Sevilla FC,Girona FC,559,298,1,2,0
+438501,PD,2023,2023-08-27,Villarreal CF,FC Barcelona,94,81,3,4,0
+438500,PD,2023,2023-08-27,Valencia CF,CA Osasuna,95,79,1,2,0
+438494,PD,2023,2023-08-27,Athletic Club,Real Betis Balompié,77,90,4,2,1
+438497,PD,2023,2023-08-28,Getafe CF,Deportivo Alavés,82,263,1,0,1
+438502,PD,2023,2023-08-28,Rayo Vallecano de Madrid,Club Atlético de Madrid,87,78,0,7,0
+438508,PD,2023,2023-09-01,Cádiz CF,Villarreal CF,264,94,3,1,1
+438513,PD,2023,2023-09-01,UD Almería,RC Celta de Vigo,267,558,2,3,0
+438512,PD,2023,2023-09-02,Real Sociedad de Fútbol,Granada CF,92,83,5,3,1
+438511,PD,2023,2023-09-02,Real Madrid CF,Getafe CF,86,82,2,1,1
+438507,PD,2023,2023-09-02,Deportivo Alavés,Valencia CF,263,95,1,0,1
+438505,PD,2023,2023-09-02,Real Betis Balompié,Rayo Vallecano de Madrid,90,87,1,0,1
+438509,PD,2023,2023-09-03,Girona FC,UD Las Palmas,298,275,1,0,1
+438506,PD,2023,2023-09-03,CA Osasuna,FC Barcelona,79,81,1,2,0
+438522,PD,2023,2023-09-15,Rayo Vallecano de Madrid,Deportivo Alavés,87,263,2,0,1
+438514,PD,2023,2023-09-16,Athletic Club,Cádiz CF,77,264,3,0,1
+438520,PD,2023,2023-09-16,Valencia CF,Club Atlético de Madrid,95,78,3,0,1
+438515,PD,2023,2023-09-16,RC Celta de Vigo,RCD Mallorca,558,89,0,1,0
+438516,PD,2023,2023-09-16,FC Barcelona,Real Betis Balompié,81,90,5,0,1
+438517,PD,2023,2023-09-17,Getafe CF,CA Osasuna,82,79,3,2,1
+438521,PD,2023,2023-09-17,Villarreal CF,UD Almería,94,267,2,1,1
+438519,PD,2023,2023-09-17,Sevilla FC,UD Las Palmas,559,275,1,0,1
+438523,PD,2023,2023-09-17,Real Madrid CF,Real Sociedad de Fútbol,86,92,2,1,1
+438518,PD,2023,2023-09-18,Granada CF,Girona FC,83,298,2,4,0
+438527,PD,2023,2023-09-22,Deportivo Alavés,Athletic Club,263,77,0,2,0
+438529,PD,2023,2023-09-23,Girona FC,RCD Mallorca,298,89,5,3,1
+438528,PD,2023,2023-09-23,FC Barcelona,RC Celta de Vigo,81,558,3,2,1
+438531,PD,2023,2023-09-24,Real Sociedad de Fútbol,Getafe CF,92,82,4,3,1
+438533,PD,2023,2023-09-24,UD Las Palmas,Granada CF,275,83,1,0,1
+438524,PD,2023,2023-09-24,Club Atlético de Madrid,Real Madrid CF,78,86,3,1,1
+438539,PD,2023,2023-09-26,Sevilla FC,UD Almería,559,267,5,1,1
+438541,PD,2023,2023-09-27,Villarreal CF,Girona FC,94,298,1,2,0
+438543,PD,2023,2023-09-27,Real Madrid CF,UD Las Palmas,86,275,2,0,1
+438540,PD,2023,2023-09-27,Valencia CF,Real Sociedad de Fútbol,95,92,0,1,0
+438535,PD,2023,2023-09-28,CA Osasuna,Club Atlético de Madrid,79,78,0,2,0
+438547,PD,2023,2023-09-29,FC Barcelona,Sevilla FC,81,559,1,0,1
+438549,PD,2023,2023-09-30,Girona FC,Real Madrid CF,298,86,0,3,0
+438551,PD,2023,2023-09-30,Real Sociedad de Fútbol,Athletic Club,92,77,3,0,1
+438546,PD,2023,2023-10-01,Deportivo Alavés,CA Osasuna,263,79,0,2,0
+438544,PD,2023,2023-10-01,Club Atlético de Madrid,Cádiz CF,78,264,3,2,1
+438545,PD,2023,2023-10-01,Real Betis Balompié,Valencia CF,90,95,3,0,1
+438553,PD,2023,2023-10-02,UD Las Palmas,RC Celta de Vigo,275,558,2,1,1
+438554,PD,2023,2023-10-06,Athletic Club,UD Almería,77,267,3,0,1
+438558,PD,2023,2023-10-07,Cádiz CF,Girona FC,264,298,0,1,0
+438563,PD,2023,2023-10-07,Real Madrid CF,CA Osasuna,86,79,4,0,1
+438561,PD,2023,2023-10-08,Villarreal CF,UD Las Palmas,94,275,1,2,0
+438555,PD,2023,2023-10-08,Club Atlético de Madrid,Real Sociedad de Fútbol,78,92,2,1,1
+438564,PD,2023,2023-10-20,CA Osasuna,Granada CF,79,83,2,0,1
+438572,PD,2023,2023-10-21,Real Sociedad de Fútbol,RCD Mallorca,92,89,1,0,1
+438565,PD,2023,2023-10-21,RC Celta de Vigo,Club Atlético de Madrid,558,78,0,3,0
+438573,PD,2023,2023-10-22,UD Las Palmas,Rayo Vallecano de Madrid,275,87,0,1,0
+438568,PD,2023,2023-10-22,Girona FC,UD Almería,298,267,5,2,1
+438566,PD,2023,2023-10-22,FC Barcelona,Athletic Club,81,77,1,0,1
+438570,PD,2023,2023-10-23,Valencia CF,Cádiz CF,95,264,2,0,1
+438579,PD,2023,2023-10-27,Girona FC,RC Celta de Vigo,298,558,1,0,1
+438583,PD,2023,2023-10-28,UD Almería,UD Las Palmas,267,275,1,2,0
+438577,PD,2023,2023-10-28,FC Barcelona,Real Madrid CF,81,86,1,2,0
+438576,PD,2023,2023-10-29,Real Betis Balompié,CA Osasuna,90,79,2,1,1
+438575,PD,2023,2023-10-29,Club Atlético de Madrid,Deportivo Alavés,78,263,2,1,1
+438580,PD,2023,2023-10-30,Granada CF,Villarreal CF,83,94,2,3,0
+438593,PD,2023,2023-11-03,UD Las Palmas,Club Atlético de Madrid,275,78,2,1,1
+438585,PD,2023,2023-11-04,CA Osasuna,Girona FC,79,298,2,4,0
+438584,PD,2023,2023-11-04,Real Betis Balompié,RCD Mallorca,90,89,2,0,1
+438592,PD,2023,2023-11-04,Real Sociedad de Fútbol,FC Barcelona,92,81,0,1,0
+438587,PD,2023,2023-11-05,Deportivo Alavés,UD Almería,263,267,1,0,1
+438589,PD,2023,2023-11-05,Valencia CF,Granada CF,95,83,1,0,1
+438590,PD,2023,2023-11-05,Villarreal CF,Athletic Club,94,77,2,3,0
+438588,PD,2023,2023-11-06,Getafe CF,Cádiz CF,82,264,1,0,1
+438594,PD,2023,2023-11-10,Athletic Club,RC Celta de Vigo,77,558,4,3,1
+438600,PD,2023,2023-11-11,Rayo Vallecano de Madrid,Girona FC,87,298,1,2,0
+438603,PD,2023,2023-11-11,UD Almería,Real Sociedad de Fútbol,267,92,1,3,0
+438602,PD,2023,2023-11-11,Real Madrid CF,Valencia CF,86,95,5,1,1
+438597,PD,2023,2023-11-12,FC Barcelona,Deportivo Alavés,81,263,2,1,1
+438595,PD,2023,2023-11-12,Club Atlético de Madrid,Villarreal CF,78,94,3,1,1
+438606,PD,2023,2023-11-24,Deportivo Alavés,Granada CF,263,83,3,1,1
+438608,PD,2023,2023-11-25,Getafe CF,UD Almería,82,267,2,1,1
+438604,PD,2023,2023-11-25,Club Atlético de Madrid,RCD Mallorca,78,89,1,0,1
+438611,PD,2023,2023-11-26,Villarreal CF,CA Osasuna,94,79,3,1,1
+438613,PD,2023,2023-11-26,Real Sociedad de Fútbol,Sevilla FC,92,559,2,1,1
+438607,PD,2023,2023-11-26,Cádiz CF,Real Madrid CF,264,86,0,3,0
+438605,PD,2023,2023-11-26,Real Betis Balompié,UD Las Palmas,90,275,1,0,1
+438623,PD,2023,2023-12-01,UD Las Palmas,Getafe CF,275,82,2,0,1
+438618,PD,2023,2023-12-02,Girona FC,Valencia CF,298,95,2,1,1
+438614,PD,2023,2023-12-02,Athletic Club,Rayo Vallecano de Madrid,77,87,4,0,1
+438621,PD,2023,2023-12-02,Real Madrid CF,Granada CF,86,83,2,0,1
+438617,PD,2023,2023-12-03,FC Barcelona,Club Atlético de Madrid,81,78,1,0,1
+438629,PD,2023,2023-12-08,Getafe CF,Valencia CF,82,95,1,0,1
+438626,PD,2023,2023-12-09,Deportivo Alavés,UD Las Palmas,263,275,0,1,0
+438631,PD,2023,2023-12-09,Villarreal CF,Real Sociedad de Fútbol,94,92,0,3,0
+438633,PD,2023,2023-12-09,RCD Mallorca,Sevilla FC,89,559,1,0,1
+438624,PD,2023,2023-12-10,Club Atlético de Madrid,UD Almería,78,267,2,1,1
+438627,PD,2023,2023-12-10,FC Barcelona,Girona FC,81,298,2,4,0
+438635,PD,2023,2023-12-15,CA Osasuna,Rayo Vallecano de Madrid,79,87,1,0,1
+438636,PD,2023,2023-12-16,RC Celta de Vigo,Granada CF,558,83,1,0,1
+438634,PD,2023,2023-12-16,Athletic Club,Club Atlético de Madrid,77,78,2,0,1
+438638,PD,2023,2023-12-16,Sevilla FC,Getafe CF,559,82,0,3,0
+438640,PD,2023,2023-12-17,Real Madrid CF,Villarreal CF,86,94,4,1,1
+438637,PD,2023,2023-12-18,Girona FC,Deportivo Alavés,298,263,3,0,1
+438652,PD,2023,2023-12-19,Rayo Vallecano de Madrid,Valencia CF,87,95,0,1,0
+438650,PD,2023,2023-12-19,Granada CF,Sevilla FC,83,559,0,3,0
+438648,PD,2023,2023-12-20,FC Barcelona,UD Almería,81,267,3,2,1
+438644,PD,2023,2023-12-20,Athletic Club,UD Las Palmas,77,275,1,0,1
+438651,PD,2023,2023-12-20,Villarreal CF,RC Celta de Vigo,94,558,3,2,1
+438647,PD,2023,2023-12-21,Deportivo Alavés,Real Madrid CF,263,86,0,1,0
+438653,PD,2023,2023-12-21,RCD Mallorca,CA Osasuna,89,79,3,2,1
+438504,PD,2023,2023-12-23,Club Atlético de Madrid,Sevilla FC,78,559,1,0,1
+438656,PD,2023,2024-01-02,Getafe CF,Rayo Vallecano de Madrid,82,87,0,2,0
+438660,PD,2023,2024-01-02,Valencia CF,Villarreal CF,95,94,3,1,1
+438658,PD,2023,2024-01-03,Granada CF,Cádiz CF,83,264,2,0,1
+438655,PD,2023,2024-01-03,RC Celta de Vigo,Real Betis Balompié,558,90,2,1,1
+438661,PD,2023,2024-01-03,Real Madrid CF,RCD Mallorca,86,89,1,0,1
+438657,PD,2023,2024-01-03,Girona FC,Club Atlético de Madrid,298,78,4,3,1
+438654,PD,2023,2024-01-04,CA Osasuna,UD Almería,79,267,1,0,1
+438659,PD,2023,2024-01-04,Sevilla FC,Athletic Club,559,77,0,2,0
+438663,PD,2023,2024-01-04,UD Las Palmas,FC Barcelona,275,81,1,2,0
+438670,PD,2023,2024-01-12,Sevilla FC,Deportivo Alavés,559,263,2,3,0
+438673,PD,2023,2024-01-13,UD Las Palmas,Villarreal CF,275,94,3,0,1
+438664,PD,2023,2024-01-13,Athletic Club,Real Sociedad de Fútbol,77,92,2,1,1
+438666,PD,2023,2024-01-13,Real Betis Balompié,Granada CF,90,83,1,0,1
+438668,PD,2023,2024-01-14,Cádiz CF,Valencia CF,264,95,1,4,0
+438677,PD,2023,2024-01-19,Deportivo Alavés,Cádiz CF,263,264,1,0,1
+438682,PD,2023,2024-01-20,Rayo Vallecano de Madrid,UD Las Palmas,87,275,0,2,0
+438680,PD,2023,2024-01-20,Valencia CF,Athletic Club,95,77,1,0,1
+438676,PD,2023,2024-01-20,RC Celta de Vigo,Real Sociedad de Fútbol,558,92,0,1,0
+438675,PD,2023,2024-01-21,CA Osasuna,Getafe CF,79,82,3,2,1
+438683,PD,2023,2024-01-21,Real Madrid CF,UD Almería,86,267,3,2,1
+438674,PD,2023,2024-01-21,Real Betis Balompié,FC Barcelona,90,81,2,4,0
+438678,PD,2023,2024-01-21,Girona FC,Sevilla FC,298,559,5,1,1
+438679,PD,2023,2024-01-22,Granada CF,Club Atlético de Madrid,83,78,0,1,0
+438692,PD,2023,2024-01-26,UD Almería,Deportivo Alavés,267,263,0,3,0
+438693,PD,2023,2024-01-27,UD Las Palmas,Real Madrid CF,275,86,1,2,0
+438686,PD,2023,2024-01-27,FC Barcelona,Villarreal CF,81,94,3,5,0
+438690,PD,2023,2024-01-27,RCD Mallorca,Real Betis Balompié,89,90,0,1,0
+438685,PD,2023,2024-01-28,RC Celta de Vigo,Girona FC,558,298,0,1,0
+438684,PD,2023,2024-01-28,Club Atlético de Madrid,Valencia CF,78,95,2,0,1
+438688,PD,2023,2024-01-29,Getafe CF,Granada CF,82,83,2,0,1
+438667,PD,2023,2024-01-31,FC Barcelona,CA Osasuna,81,79,1,0,1
+438665,PD,2023,2024-01-31,Club Atlético de Madrid,Rayo Vallecano de Madrid,78,87,2,1,1
+438669,PD,2023,2024-02-01,Getafe CF,Real Madrid CF,82,86,0,2,0
+438694,PD,2023,2024-02-02,Athletic Club,RCD Mallorca,77,89,4,0,1
+438700,PD,2023,2024-02-03,Valencia CF,UD Almería,95,267,2,1,1
+438697,PD,2023,2024-02-03,Deportivo Alavés,FC Barcelona,263,81,1,3,0
+438696,PD,2023,2024-02-04,CA Osasuna,RC Celta de Vigo,79,558,0,3,0
+438702,PD,2023,2024-02-05,Rayo Vallecano de Madrid,Sevilla FC,87,559,1,2,0
+438706,PD,2023,2024-02-09,Cádiz CF,Real Betis Balompié,264,90,0,2,0
+438711,PD,2023,2024-02-10,Real Sociedad de Fútbol,CA Osasuna,92,79,0,1,0
+438710,PD,2023,2024-02-10,Real Madrid CF,Girona FC,86,298,4,0,1
+438713,PD,2023,2024-02-10,UD Las Palmas,Valencia CF,275,95,2,0,1
+438707,PD,2023,2024-02-11,Getafe CF,RC Celta de Vigo,82,558,3,2,1
+438709,PD,2023,2024-02-11,RCD Mallorca,Rayo Vallecano de Madrid,89,87,2,1,1
+438708,PD,2023,2024-02-11,Sevilla FC,Club Atlético de Madrid,559,78,1,0,1
+438715,PD,2023,2024-02-17,Club Atlético de Madrid,UD Las Palmas,78,275,5,0,1
+438717,PD,2023,2024-02-17,CA Osasuna,Cádiz CF,79,264,2,0,1
+438718,PD,2023,2024-02-17,RC Celta de Vigo,FC Barcelona,558,81,1,2,0
+438723,PD,2023,2024-02-18,RCD Mallorca,Real Sociedad de Fútbol,89,92,1,2,0
+438714,PD,2023,2024-02-19,Athletic Club,Girona FC,77,298,3,2,1
+438731,PD,2023,2024-02-23,Real Sociedad de Fútbol,Villarreal CF,92,94,1,3,0
+438726,PD,2023,2024-02-24,FC Barcelona,Getafe CF,81,82,4,0,1
+438724,PD,2023,2024-02-25,Real Betis Balompié,Athletic Club,90,77,3,1,1
+438730,PD,2023,2024-02-25,Real Madrid CF,Sevilla FC,86,559,1,0,1
+438728,PD,2023,2024-02-26,Girona FC,Rayo Vallecano de Madrid,298,87,3,0,1
+438737,PD,2023,2024-03-01,RC Celta de Vigo,UD Almería,558,267,1,0,1
+438739,PD,2023,2024-03-02,Sevilla FC,Real Sociedad de Fútbol,559,92,3,2,1
+438741,PD,2023,2024-03-03,Villarreal CF,Granada CF,94,83,5,1,1
+438735,PD,2023,2024-03-03,Club Atlético de Madrid,Real Betis Balompié,78,90,2,1,1
+438743,PD,2023,2024-03-03,RCD Mallorca,Girona FC,89,298,1,0,1
+438736,PD,2023,2024-03-04,CA Osasuna,Deportivo Alavés,79,263,1,0,1
+438746,PD,2023,2024-03-08,FC Barcelona,RCD Mallorca,81,89,1,0,1
+438750,PD,2023,2024-03-09,Valencia CF,Getafe CF,95,82,1,0,1
+438747,PD,2023,2024-03-09,Cádiz CF,Club Atlético de Madrid,264,78,2,0,1
+438749,PD,2023,2024-03-09,Granada CF,Real Sociedad de Fútbol,83,92,2,3,0
+438748,PD,2023,2024-03-09,Girona FC,CA Osasuna,298,79,2,0,1
+438745,PD,2023,2024-03-10,Deportivo Alavés,Rayo Vallecano de Madrid,263,87,1,0,1
+438753,PD,2023,2024-03-10,UD Las Palmas,Athletic Club,275,77,0,2,0
+438751,PD,2023,2024-03-10,Real Madrid CF,RC Celta de Vigo,86,558,4,0,1
+438744,PD,2023,2024-03-10,Real Betis Balompié,Villarreal CF,90,94,2,3,0
+438762,PD,2023,2024-03-15,Real Sociedad de Fútbol,Cádiz CF,92,264,2,0,1
+438761,PD,2023,2024-03-16,RCD Mallorca,Granada CF,89,83,1,0,1
+438756,PD,2023,2024-03-16,CA Osasuna,Real Madrid CF,79,86,2,4,0
+438757,PD,2023,2024-03-16,Getafe CF,Girona FC,82,298,1,0,1
+438754,PD,2023,2024-03-16,Athletic Club,Deportivo Alavés,77,263,2,0,1
+438758,PD,2023,2024-03-17,Sevilla FC,RC Celta de Vigo,559,558,1,2,0
+438759,PD,2023,2024-03-17,Villarreal CF,Valencia CF,94,95,1,0,1
+438763,PD,2023,2024-03-17,UD Las Palmas,UD Almería,275,267,0,1,0
+438760,PD,2023,2024-03-17,Rayo Vallecano de Madrid,Real Betis Balompié,87,90,2,0,1
+438755,PD,2023,2024-03-17,Club Atlético de Madrid,FC Barcelona,78,81,0,3,0
+438767,PD,2023,2024-03-29,Cádiz CF,Granada CF,264,83,1,0,1
+438768,PD,2023,2024-03-30,Getafe CF,Sevilla FC,82,559,0,1,0
+438773,PD,2023,2024-03-30,UD Almería,CA Osasuna,267,79,0,3,0
+438766,PD,2023,2024-03-30,FC Barcelona,UD Las Palmas,81,275,1,0,1
+438769,PD,2023,2024-03-31,Girona FC,Real Betis Balompié,298,90,3,2,1
+438765,PD,2023,2024-03-31,Deportivo Alavés,Real Sociedad de Fútbol,263,92,0,1,0
+438772,PD,2023,2024-03-31,Real Madrid CF,Athletic Club,86,77,2,0,1
+438771,PD,2023,2024-04-01,Villarreal CF,Club Atlético de Madrid,94,78,1,2,0
+438729,PD,2023,2024-04-04,Granada CF,Valencia CF,83,95,0,1,0
+438776,PD,2023,2024-04-12,Real Betis Balompié,RC Celta de Vigo,90,558,2,1,1
+438775,PD,2023,2024-04-13,Club Atlético de Madrid,Girona FC,78,298,3,1,1
+438781,PD,2023,2024-04-13,RCD Mallorca,Real Madrid CF,89,86,0,1,0
+438778,PD,2023,2024-04-13,Cádiz CF,FC Barcelona,264,81,0,1,0
+438783,PD,2023,2024-04-14,UD Las Palmas,Sevilla FC,275,559,0,2,0
+438779,PD,2023,2024-04-14,Granada CF,Deportivo Alavés,83,263,2,0,1
+438777,PD,2023,2024-04-15,CA Osasuna,Valencia CF,79,95,0,1,0
+438785,PD,2023,2024-04-20,RC Celta de Vigo,UD Las Palmas,558,275,4,1,1
+438791,PD,2023,2024-04-20,Rayo Vallecano de Madrid,CA Osasuna,87,79,2,1,1
+438790,PD,2023,2024-04-20,Valencia CF,Real Betis Balompié,95,90,1,2,0
+438788,PD,2023,2024-04-20,Girona FC,Cádiz CF,298,264,4,1,1
+438793,PD,2023,2024-04-21,UD Almería,Villarreal CF,267,94,1,2,0
+438786,PD,2023,2024-04-21,Deportivo Alavés,Club Atlético de Madrid,263,78,2,0,1
+438792,PD,2023,2024-04-21,Real Madrid CF,FC Barcelona,86,81,3,2,1
+438789,PD,2023,2024-04-22,Sevilla FC,RCD Mallorca,559,89,2,1,1
+438801,PD,2023,2024-04-26,Real Sociedad de Fútbol,Real Madrid CF,92,86,0,1,0
+438803,PD,2023,2024-04-27,UD Las Palmas,Girona FC,275,298,0,2,0
+438802,PD,2023,2024-04-27,UD Almería,Getafe CF,267,82,1,3,0
+438796,PD,2023,2024-04-27,Deportivo Alavés,RC Celta de Vigo,263,558,3,0,1
+438794,PD,2023,2024-04-27,Club Atlético de Madrid,Athletic Club,78,77,3,1,1
+438799,PD,2023,2024-04-28,Granada CF,CA Osasuna,83,79,3,0,1
+438800,PD,2023,2024-04-28,Villarreal CF,Rayo Vallecano de Madrid,94,87,3,0,1
+438797,PD,2023,2024-04-29,FC Barcelona,Valencia CF,81,95,4,2,1
+438806,PD,2023,2024-05-03,Getafe CF,Athletic Club,82,77,0,2,0
+438813,PD,2023,2024-05-04,Real Sociedad de Fútbol,UD Las Palmas,92,275,2,0,1
+438812,PD,2023,2024-05-04,Real Madrid CF,Cádiz CF,86,264,3,0,1
+438807,PD,2023,2024-05-04,Girona FC,FC Barcelona,298,81,4,2,1
+438811,PD,2023,2024-05-04,RCD Mallorca,Club Atlético de Madrid,89,78,0,1,0
+438804,PD,2023,2024-05-05,CA Osasuna,Real Betis Balompié,79,90,0,2,0
+438805,PD,2023,2024-05-05,RC Celta de Vigo,Villarreal CF,558,94,3,2,1
+438809,PD,2023,2024-05-05,Valencia CF,Deportivo Alavés,95,263,0,1,0
+438808,PD,2023,2024-05-05,Sevilla FC,Granada CF,559,83,3,0,1
+438810,PD,2023,2024-05-05,Rayo Vallecano de Madrid,UD Almería,87,267,0,1,0
+438823,PD,2023,2024-05-11,RCD Mallorca,UD Las Palmas,89,275,1,0,1
+438822,PD,2023,2024-05-11,Villarreal CF,Sevilla FC,94,559,3,2,1
+438820,PD,2023,2024-05-11,Granada CF,Real Madrid CF,83,86,0,4,0
+438819,PD,2023,2024-05-12,Cádiz CF,Getafe CF,264,82,1,0,1
+438815,PD,2023,2024-05-12,Club Atlético de Madrid,RC Celta de Vigo,78,558,1,0,1
+438816,PD,2023,2024-05-12,Real Betis Balompié,UD Almería,90,267,3,2,1
+438818,PD,2023,2024-05-13,FC Barcelona,Real Sociedad de Fútbol,81,92,2,0,1
+438830,PD,2023,2024-05-14,Real Madrid CF,Deportivo Alavés,86,263,5,0,1
+438827,PD,2023,2024-05-14,Girona FC,Villarreal CF,298,94,0,1,0
+438828,PD,2023,2024-05-15,Sevilla FC,Cádiz CF,559,264,0,1,0
+438829,PD,2023,2024-05-15,Rayo Vallecano de Madrid,Granada CF,87,83,2,1,1
+438825,PD,2023,2024-05-15,RC Celta de Vigo,Athletic Club,558,77,2,1,1
+438826,PD,2023,2024-05-15,Getafe CF,Club Atlético de Madrid,82,78,0,3,0
+438832,PD,2023,2024-05-16,UD Almería,FC Barcelona,267,81,0,2,0
+438831,PD,2023,2024-05-16,Real Sociedad de Fútbol,Valencia CF,92,95,1,0,1
+438837,PD,2023,2024-05-18,Deportivo Alavés,Getafe CF,263,82,1,0,1
+438834,PD,2023,2024-05-19,Athletic Club,Sevilla FC,77,559,2,0,1
+438835,PD,2023,2024-05-19,Club Atlético de Madrid,CA Osasuna,78,79,1,4,0
+438836,PD,2023,2024-05-19,Real Betis Balompié,Real Sociedad de Fútbol,90,92,0,2,0
+438838,PD,2023,2024-05-19,FC Barcelona,Rayo Vallecano de Madrid,81,87,3,0,1
+438840,PD,2023,2024-05-19,Granada CF,RC Celta de Vigo,83,558,1,2,0
+438841,PD,2023,2024-05-19,Valencia CF,Girona FC,95,298,1,3,0
+438847,PD,2023,2024-05-24,Girona FC,Granada CF,298,83,7,0,1
+438851,PD,2023,2024-05-25,Real Sociedad de Fútbol,Club Atlético de Madrid,92,78,0,2,0
+438849,PD,2023,2024-05-25,Rayo Vallecano de Madrid,Athletic Club,87,77,0,1,0
+438852,PD,2023,2024-05-25,UD Almería,Cádiz CF,267,264,6,1,1
+438846,PD,2023,2024-05-26,Getafe CF,RCD Mallorca,82,89,1,2,0
+438848,PD,2023,2024-05-26,Sevilla FC,FC Barcelona,559,81,1,2,0
+498616,PD,2024,2024-08-16,RC Celta de Vigo,Deportivo Alavés,558,263,2,1,1
+498617,PD,2024,2024-08-17,Valencia CF,FC Barcelona,95,81,1,2,0
+498620,PD,2024,2024-08-18,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,92,87,1,2,0
+498622,PD,2024,2024-08-19,Real Valladolid CF,RCD Espanyol de Barcelona,250,80,1,0,1
+498626,PD,2024,2024-08-23,RC Celta de Vigo,Valencia CF,558,95,3,1,1
+498630,PD,2024,2024-08-23,Sevilla FC,Villarreal CF,559,94,1,2,0
+498624,PD,2024,2024-08-24,CA Osasuna,RCD Mallorca,79,89,1,0,1
+498628,PD,2024,2024-08-24,FC Barcelona,Athletic Club,81,77,2,1,1
+498632,PD,2024,2024-08-24,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,80,92,0,1,0
+498631,PD,2024,2024-08-25,Real Madrid CF,Real Valladolid CF,86,250,3,0,1
+498625,PD,2024,2024-08-25,CD Leganés,UD Las Palmas,745,275,2,1,1
+498623,PD,2024,2024-08-25,Club Atlético de Madrid,Girona FC,78,298,3,0,1
+498636,PD,2024,2024-08-26,Villarreal CF,RC Celta de Vigo,94,558,4,3,1
+498637,PD,2024,2024-08-27,Rayo Vallecano de Madrid,FC Barcelona,87,81,1,2,0
+498633,PD,2024,2024-08-28,Athletic Club,Valencia CF,77,95,1,0,1
+498639,PD,2024,2024-08-28,Real Sociedad de Fútbol,Deportivo Alavés,92,263,1,2,0
+498635,PD,2024,2024-08-29,Girona FC,CA Osasuna,298,79,4,0,1
+498647,PD,2024,2024-08-31,FC Barcelona,Real Valladolid CF,81,250,7,0,1
+498643,PD,2024,2024-08-31,Athletic Club,Club Atlético de Madrid,77,78,0,1,0
+498652,PD,2024,2024-08-31,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,80,87,2,1,1
+498645,PD,2024,2024-08-31,CD Leganés,RCD Mallorca,745,89,0,1,0
+498644,PD,2024,2024-09-01,CA Osasuna,RC Celta de Vigo,79,558,3,2,1
+498646,PD,2024,2024-09-01,Deportivo Alavés,UD Las Palmas,263,275,2,0,1
+498649,PD,2024,2024-09-01,Sevilla FC,Girona FC,559,298,0,2,0
+498651,PD,2024,2024-09-01,Real Madrid CF,Real Betis Balompié,86,90,2,0,1
+498654,PD,2024,2024-09-13,Real Betis Balompié,CD Leganés,90,745,2,0,1
+498659,PD,2024,2024-09-14,RCD Mallorca,Villarreal CF,89,94,1,2,0
+498662,PD,2024,2024-09-14,RCD Espanyol de Barcelona,Deportivo Alavés,80,263,3,2,1
+498657,PD,2024,2024-09-14,Sevilla FC,Getafe CF,559,82,1,0,1
+498660,PD,2024,2024-09-14,Real Sociedad de Fútbol,Real Madrid CF,92,86,0,2,0
+498655,PD,2024,2024-09-15,RC Celta de Vigo,Real Valladolid CF,558,250,3,1,1
+498656,PD,2024,2024-09-15,Girona FC,FC Barcelona,298,81,1,4,0
+498661,PD,2024,2024-09-15,UD Las Palmas,Athletic Club,275,77,2,3,0
+498653,PD,2024,2024-09-15,Club Atlético de Madrid,Valencia CF,78,95,3,0,1
+498658,PD,2024,2024-09-16,Rayo Vallecano de Madrid,CA Osasuna,87,79,3,1,1
+498679,PD,2024,2024-09-17,RCD Mallorca,Real Sociedad de Fútbol,89,92,1,0,1
+498634,PD,2024,2024-09-18,Real Betis Balompié,Getafe CF,90,82,2,1,1
+498673,PD,2024,2024-09-19,CD Leganés,Athletic Club,745,77,0,2,0
+498666,PD,2024,2024-09-20,Deportivo Alavés,Sevilla FC,263,559,2,1,1
+498665,PD,2024,2024-09-21,CA Osasuna,UD Las Palmas,79,275,2,1,1
+498668,PD,2024,2024-09-21,Valencia CF,Girona FC,95,298,2,0,1
+498672,PD,2024,2024-09-21,Real Madrid CF,RCD Espanyol de Barcelona,86,80,4,1,1
+498663,PD,2024,2024-09-22,Athletic Club,RC Celta de Vigo,77,558,3,1,1
+498669,PD,2024,2024-09-22,Villarreal CF,FC Barcelona,94,81,1,5,0
+498664,PD,2024,2024-09-23,Real Betis Balompié,RCD Mallorca,90,89,1,2,0
+498677,PD,2024,2024-09-24,Sevilla FC,Real Valladolid CF,559,250,2,1,1
+498680,PD,2024,2024-09-24,Real Madrid CF,Deportivo Alavés,86,263,3,2,1
+498675,PD,2024,2024-09-25,FC Barcelona,Getafe CF,81,82,1,0,1
+498682,PD,2024,2024-09-26,RCD Espanyol de Barcelona,Villarreal CF,80,94,1,2,0
+498674,PD,2024,2024-09-26,RC Celta de Vigo,Club Atlético de Madrid,558,78,0,1,0
+498691,PD,2024,2024-09-27,Real Valladolid CF,RCD Mallorca,250,89,1,2,0
+498687,PD,2024,2024-09-28,Getafe CF,Deportivo Alavés,82,263,2,0,1
+498690,PD,2024,2024-09-28,Real Sociedad de Fútbol,Valencia CF,92,95,3,0,1
+498685,PD,2024,2024-09-28,CA Osasuna,FC Barcelona,79,81,4,2,1
+498692,PD,2024,2024-09-29,Real Betis Balompié,RCD Espanyol de Barcelona,90,80,1,0,1
+498688,PD,2024,2024-09-30,Villarreal CF,UD Las Palmas,94,275,3,1,1
+498702,PD,2024,2024-10-05,RCD Espanyol de Barcelona,RCD Mallorca,80,89,2,1,1
+498700,PD,2024,2024-10-05,Real Valladolid CF,Rayo Vallecano de Madrid,250,87,1,2,0
+498701,PD,2024,2024-10-05,UD Las Palmas,RC Celta de Vigo,275,558,0,1,0
+498698,PD,2024,2024-10-05,Real Madrid CF,Villarreal CF,86,94,2,0,1
+498696,PD,2024,2024-10-06,Girona FC,Athletic Club,298,77,2,1,1
+498694,PD,2024,2024-10-06,Deportivo Alavés,FC Barcelona,263,81,0,3,0
+498697,PD,2024,2024-10-06,Sevilla FC,Real Betis Balompié,559,90,1,0,1
+498706,PD,2024,2024-10-18,Deportivo Alavés,Real Valladolid CF,263,250,2,3,0
+498712,PD,2024,2024-10-19,Athletic Club,RCD Espanyol de Barcelona,77,80,4,1,1
+498704,PD,2024,2024-10-19,CA Osasuna,Real Betis Balompié,79,90,1,2,0
+498708,PD,2024,2024-10-19,Girona FC,Real Sociedad de Fútbol,298,92,0,1,0
+498705,PD,2024,2024-10-19,RC Celta de Vigo,Real Madrid CF,558,86,1,2,0
+498711,PD,2024,2024-10-20,RCD Mallorca,Rayo Vallecano de Madrid,89,87,1,0,1
+498703,PD,2024,2024-10-20,Club Atlético de Madrid,CD Leganés,78,745,3,1,1
+498707,PD,2024,2024-10-20,FC Barcelona,Sevilla FC,81,559,5,1,1
+498709,PD,2024,2024-10-21,Valencia CF,UD Las Palmas,95,275,2,3,0
+498722,PD,2024,2024-10-25,RCD Espanyol de Barcelona,Sevilla FC,80,559,0,2,0
+498720,PD,2024,2024-10-26,Real Valladolid CF,Villarreal CF,250,94,1,2,0
+498716,PD,2024,2024-10-26,Rayo Vallecano de Madrid,Deportivo Alavés,87,263,1,0,1
+498721,PD,2024,2024-10-26,UD Las Palmas,Girona FC,275,298,1,0,1
+498718,PD,2024,2024-10-26,Real Madrid CF,FC Barcelona,86,81,0,4,0
+498714,PD,2024,2024-10-27,CD Leganés,RC Celta de Vigo,745,558,3,0,1
+498713,PD,2024,2024-10-27,Real Betis Balompié,Club Atlético de Madrid,90,78,1,0,1
+498719,PD,2024,2024-10-27,Real Sociedad de Fútbol,CA Osasuna,92,79,0,2,0
+498727,PD,2024,2024-11-01,Deportivo Alavés,RCD Mallorca,263,89,1,0,1
+498725,PD,2024,2024-11-02,CA Osasuna,Real Valladolid CF,79,250,1,0,1
+498728,PD,2024,2024-11-02,Girona FC,CD Leganés,298,745,4,3,1
+498724,PD,2024,2024-11-03,Club Atlético de Madrid,UD Las Palmas,78,275,2,0,1
+498732,PD,2024,2024-11-03,FC Barcelona,RCD Espanyol de Barcelona,81,80,3,1,1
+498729,PD,2024,2024-11-03,Sevilla FC,Real Sociedad de Fútbol,559,92,0,2,0
+498726,PD,2024,2024-11-04,RC Celta de Vigo,Getafe CF,558,82,1,0,1
+498737,PD,2024,2024-11-08,Rayo Vallecano de Madrid,UD Las Palmas,87,275,1,3,0
+498739,PD,2024,2024-11-09,Real Madrid CF,CA Osasuna,86,79,4,0,1
+498736,PD,2024,2024-11-09,Villarreal CF,Deportivo Alavés,94,263,3,0,1
+498734,PD,2024,2024-11-09,CD Leganés,Sevilla FC,745,559,1,0,1
+498738,PD,2024,2024-11-10,RCD Mallorca,Club Atlético de Madrid,89,78,0,1,0
+498735,PD,2024,2024-11-10,Getafe CF,Girona FC,82,298,0,1,0
+498740,PD,2024,2024-11-10,Real Sociedad de Fútbol,FC Barcelona,92,81,1,0,1
+498748,PD,2024,2024-11-22,Getafe CF,Real Valladolid CF,82,250,2,0,1
+498750,PD,2024,2024-11-23,Valencia CF,Real Betis Balompié,95,90,4,2,1
+498744,PD,2024,2024-11-23,Club Atlético de Madrid,Deportivo Alavés,78,263,2,1,1
+498751,PD,2024,2024-11-23,UD Las Palmas,RCD Mallorca,275,89,2,3,0
+498752,PD,2024,2024-11-23,Girona FC,RCD Espanyol de Barcelona,298,80,4,1,1
+498749,PD,2024,2024-11-24,Sevilla FC,Rayo Vallecano de Madrid,559,87,1,0,1
+498746,PD,2024,2024-11-24,CD Leganés,Real Madrid CF,745,86,0,3,0
+498743,PD,2024,2024-11-24,Athletic Club,Real Sociedad de Fútbol,77,92,1,0,1
+498758,PD,2024,2024-11-29,RCD Mallorca,Valencia CF,89,95,2,1,1
+498754,PD,2024,2024-11-30,FC Barcelona,UD Las Palmas,81,275,1,2,0
+498762,PD,2024,2024-11-30,RCD Espanyol de Barcelona,RC Celta de Vigo,80,558,3,1,1
+498761,PD,2024,2024-11-30,Real Valladolid CF,Club Atlético de Madrid,250,78,0,5,0
+498759,PD,2024,2024-12-01,Real Madrid CF,Getafe CF,86,82,2,0,1
+498757,PD,2024,2024-12-01,Rayo Vallecano de Madrid,Athletic Club,87,77,1,2,0
+498760,PD,2024,2024-12-01,Real Sociedad de Fútbol,Real Betis Balompié,92,90,2,0,1
+498798,PD,2024,2024-12-03,RCD Mallorca,FC Barcelona,89,81,1,5,0
+498793,PD,2024,2024-12-04,Athletic Club,Real Madrid CF,77,86,2,1,1
+498768,PD,2024,2024-12-06,RC Celta de Vigo,RCD Mallorca,558,89,2,0,1
+498771,PD,2024,2024-12-07,UD Las Palmas,Real Valladolid CF,275,250,2,1,1
+498770,PD,2024,2024-12-07,Valencia CF,Rayo Vallecano de Madrid,95,87,0,1,0
+498769,PD,2024,2024-12-07,Girona FC,Real Madrid CF,298,86,0,3,0
+498767,PD,2024,2024-12-08,CD Leganés,Real Sociedad de Fútbol,745,92,0,3,0
+498763,PD,2024,2024-12-08,Athletic Club,Villarreal CF,77,94,2,0,1
+498764,PD,2024,2024-12-08,Club Atlético de Madrid,Sevilla FC,78,559,4,3,1
+498772,PD,2024,2024-12-09,Getafe CF,RCD Espanyol de Barcelona,82,80,1,0,1
+498781,PD,2024,2024-12-13,Real Valladolid CF,Valencia CF,250,95,1,0,1
+498779,PD,2024,2024-12-14,RCD Mallorca,Girona FC,89,298,2,1,1
+498776,PD,2024,2024-12-14,Sevilla FC,RC Celta de Vigo,559,558,1,0,1
+498773,PD,2024,2024-12-15,Club Atlético de Madrid,Getafe CF,78,82,1,0,1
+498777,PD,2024,2024-12-15,Villarreal CF,Real Betis Balompié,94,90,1,2,0
+498775,PD,2024,2024-12-15,FC Barcelona,CD Leganés,81,745,0,1,0
+498789,PD,2024,2024-12-20,Girona FC,Real Valladolid CF,298,250,3,0,1
+498788,PD,2024,2024-12-21,Getafe CF,RCD Mallorca,82,89,0,1,0
+498786,PD,2024,2024-12-21,RC Celta de Vigo,Real Sociedad de Fútbol,558,92,2,0,1
+498784,PD,2024,2024-12-21,CA Osasuna,Athletic Club,79,77,1,2,0
+498787,PD,2024,2024-12-21,FC Barcelona,Club Atlético de Madrid,81,78,1,2,0
+498791,PD,2024,2024-12-22,Real Madrid CF,Sevilla FC,86,559,4,2,1
+498785,PD,2024,2024-12-22,CD Leganés,Villarreal CF,745,94,2,5,0
+498792,PD,2024,2024-12-22,UD Las Palmas,RCD Espanyol de Barcelona,275,80,1,0,1
+498730,PD,2024,2025-01-03,Valencia CF,Real Madrid CF,95,86,1,2,0
+498797,PD,2024,2025-01-10,Rayo Vallecano de Madrid,RC Celta de Vigo,87,558,2,1,1
+498795,PD,2024,2025-01-11,Deportivo Alavés,Girona FC,263,298,0,1,0
+498800,PD,2024,2025-01-11,Real Valladolid CF,Real Betis Balompié,250,90,1,0,1
+498801,PD,2024,2025-01-12,UD Las Palmas,Getafe CF,275,82,1,2,0
+498794,PD,2024,2025-01-12,Club Atlético de Madrid,CA Osasuna,78,79,1,0,1
+498799,PD,2024,2025-01-13,Real Sociedad de Fútbol,Villarreal CF,92,94,1,0,1
+498812,PD,2024,2025-01-17,RCD Espanyol de Barcelona,Real Valladolid CF,80,250,2,1,1
+498808,PD,2024,2025-01-18,Girona FC,Sevilla FC,298,559,1,2,0
+498805,PD,2024,2025-01-18,CD Leganés,Club Atlético de Madrid,745,78,1,0,1
+498803,PD,2024,2025-01-18,Real Betis Balompié,Deportivo Alavés,90,263,1,3,0
+498806,PD,2024,2025-01-19,RC Celta de Vigo,Athletic Club,558,77,1,2,0
+498811,PD,2024,2025-01-19,Real Madrid CF,UD Las Palmas,86,275,4,1,1
+498809,PD,2024,2025-01-19,Valencia CF,Real Sociedad de Fútbol,95,92,1,0,1
+498810,PD,2024,2025-01-20,Villarreal CF,RCD Mallorca,94,89,4,0,1
+498818,PD,2024,2025-01-25,RCD Mallorca,Real Betis Balompié,89,90,0,1,0
+498820,PD,2024,2025-01-25,Real Valladolid CF,Real Madrid CF,250,86,0,3,0
+498817,PD,2024,2025-01-26,Rayo Vallecano de Madrid,Girona FC,87,298,2,1,1
+498819,PD,2024,2025-01-26,Real Sociedad de Fútbol,Getafe CF,92,82,0,3,0
+498816,PD,2024,2025-01-26,FC Barcelona,Valencia CF,81,95,7,1,1
+498826,PD,2024,2025-01-31,CD Leganés,Rayo Vallecano de Madrid,745,87,0,1,0
+498831,PD,2024,2025-02-01,Villarreal CF,Real Valladolid CF,94,250,5,1,1
+498823,PD,2024,2025-02-01,Club Atlético de Madrid,RCD Mallorca,78,89,2,0,1
+498832,PD,2024,2025-02-01,RCD Espanyol de Barcelona,Real Madrid CF,80,86,1,0,1
+498827,PD,2024,2025-02-02,FC Barcelona,Deportivo Alavés,81,263,1,0,1
+498830,PD,2024,2025-02-02,Valencia CF,RC Celta de Vigo,95,558,2,1,1
+498825,PD,2024,2025-02-02,CA Osasuna,Real Sociedad de Fútbol,79,92,2,1,1
+498829,PD,2024,2025-02-03,Girona FC,UD Las Palmas,298,275,2,1,1
+498838,PD,2024,2025-02-07,Rayo Vallecano de Madrid,Real Valladolid CF,87,250,1,0,1
+498834,PD,2024,2025-02-08,RC Celta de Vigo,Real Betis Balompié,558,90,3,2,1
+498833,PD,2024,2025-02-08,Athletic Club,Girona FC,77,298,3,0,1
+498841,PD,2024,2025-02-08,UD Las Palmas,Villarreal CF,275,94,1,2,0
+498835,PD,2024,2025-02-09,Deportivo Alavés,Getafe CF,263,82,0,1,0
+498837,PD,2024,2025-02-09,Valencia CF,CD Leganés,95,745,2,0,1
+498842,PD,2024,2025-02-09,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,92,80,2,1,1
+498836,PD,2024,2025-02-09,Sevilla FC,FC Barcelona,559,81,1,4,0
+498848,PD,2024,2025-02-14,Girona FC,Getafe CF,298,82,1,2,0
+498851,PD,2024,2025-02-16,Real Valladolid CF,Sevilla FC,250,559,0,4,0
+498850,PD,2024,2025-02-16,RCD Mallorca,UD Las Palmas,89,275,3,1,1
+498844,PD,2024,2025-02-16,Real Betis Balompié,Real Sociedad de Fútbol,90,92,3,0,1
+498847,PD,2024,2025-02-17,FC Barcelona,Rayo Vallecano de Madrid,81,87,1,0,1
+498854,PD,2024,2025-02-21,RC Celta de Vigo,CA Osasuna,558,79,1,0,1
+498862,PD,2024,2025-02-22,Deportivo Alavés,RCD Espanyol de Barcelona,263,80,0,1,0
+498858,PD,2024,2025-02-22,Rayo Vallecano de Madrid,Villarreal CF,87,94,0,1,0
+498857,PD,2024,2025-02-22,Valencia CF,Club Atlético de Madrid,95,78,0,3,0
+498861,PD,2024,2025-02-22,UD Las Palmas,FC Barcelona,275,81,0,2,0
+498853,PD,2024,2025-02-23,Athletic Club,Real Valladolid CF,77,250,7,1,1
+498859,PD,2024,2025-02-23,Real Madrid CF,Girona FC,86,298,2,0,1
+498855,PD,2024,2025-02-23,Getafe CF,Real Betis Balompié,82,90,1,2,0
+498860,PD,2024,2025-02-23,Real Sociedad de Fútbol,CD Leganés,92,745,3,0,1
+498864,PD,2024,2025-03-01,Real Betis Balompié,Real Madrid CF,90,86,2,1,1
+498863,PD,2024,2025-03-01,Club Atlético de Madrid,Athletic Club,78,77,1,0,1
+498866,PD,2024,2025-03-02,CD Leganés,Getafe CF,745,82,1,0,1
+498867,PD,2024,2025-03-02,FC Barcelona,Real Sociedad de Fútbol,81,92,4,0,1
+498875,PD,2024,2025-03-08,RC Celta de Vigo,CD Leganés,558,745,2,1,1
+498876,PD,2024,2025-03-08,Deportivo Alavés,Villarreal CF,263,94,1,0,1
+498879,PD,2024,2025-03-08,Valencia CF,Real Valladolid CF,95,250,2,1,1
+498878,PD,2024,2025-03-09,Getafe CF,Club Atlético de Madrid,82,78,2,1,1
+498880,PD,2024,2025-03-09,Real Madrid CF,Rayo Vallecano de Madrid,86,87,2,1,1
+498874,PD,2024,2025-03-09,Real Betis Balompié,UD Las Palmas,90,275,1,0,1
+498881,PD,2024,2025-03-09,Real Sociedad de Fútbol,Sevilla FC,92,559,0,1,0
+498890,PD,2024,2025-03-15,Real Valladolid CF,RC Celta de Vigo,250,558,0,1,0
+498892,PD,2024,2025-03-15,RCD Mallorca,RCD Espanyol de Barcelona,89,80,2,1,1
+498888,PD,2024,2025-03-15,Villarreal CF,Real Madrid CF,94,86,1,2,0
+498885,PD,2024,2025-03-16,CD Leganés,Real Betis Balompié,745,90,2,3,0
+498887,PD,2024,2025-03-16,Sevilla FC,Athletic Club,559,77,0,1,0
+498884,PD,2024,2025-03-16,CA Osasuna,Getafe CF,79,82,1,2,0
+498883,PD,2024,2025-03-16,Club Atlético de Madrid,FC Barcelona,78,81,2,4,0
+498877,PD,2024,2025-03-27,FC Barcelona,CA Osasuna,81,79,3,0,1
+498901,PD,2024,2025-03-29,Real Sociedad de Fútbol,Real Valladolid CF,92,250,2,1,1
+498896,PD,2024,2025-03-29,Deportivo Alavés,Rayo Vallecano de Madrid,263,87,0,2,0
+498900,PD,2024,2025-03-29,Real Madrid CF,CD Leganés,86,745,3,2,1
+498898,PD,2024,2025-03-30,Getafe CF,Villarreal CF,82,94,1,2,0
+498897,PD,2024,2025-03-30,FC Barcelona,Girona FC,81,298,4,1,1
+498899,PD,2024,2025-03-30,Valencia CF,RCD Mallorca,95,89,1,0,1
+498894,PD,2024,2025-03-30,Real Betis Balompié,Sevilla FC,90,559,2,1,1
+498912,PD,2024,2025-04-04,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,87,80,0,4,0
+498905,PD,2024,2025-04-05,Girona FC,Deportivo Alavés,298,263,0,1,0
+498909,PD,2024,2025-04-05,Real Madrid CF,Valencia CF,86,95,1,2,0
+498908,PD,2024,2025-04-05,RCD Mallorca,RC Celta de Vigo,89,558,1,2,0
+498911,PD,2024,2025-04-06,UD Las Palmas,Real Sociedad de Fútbol,275,92,1,3,0
+498906,PD,2024,2025-04-06,Sevilla FC,Club Atlético de Madrid,559,78,1,2,0
+498910,PD,2024,2025-04-06,Real Valladolid CF,Getafe CF,250,82,0,4,0
+498920,PD,2024,2025-04-11,Valencia CF,Sevilla FC,95,559,1,0,1
+498921,PD,2024,2025-04-12,Real Sociedad de Fútbol,RCD Mallorca,92,89,0,2,0
+498919,PD,2024,2025-04-12,Getafe CF,UD Las Palmas,82,275,1,3,0
+498922,PD,2024,2025-04-12,RC Celta de Vigo,RCD Espanyol de Barcelona,558,80,0,2,0
+498917,PD,2024,2025-04-12,CD Leganés,FC Barcelona,745,81,0,1,0
+498916,PD,2024,2025-04-13,CA Osasuna,Girona FC,79,298,2,1,1
+498918,PD,2024,2025-04-13,Deportivo Alavés,Real Madrid CF,263,86,0,1,0
+498915,PD,2024,2025-04-13,Real Betis Balompié,Villarreal CF,90,94,1,2,0
+498913,PD,2024,2025-04-13,Athletic Club,Rayo Vallecano de Madrid,77,87,3,1,1
+498914,PD,2024,2025-04-14,Club Atlético de Madrid,Real Valladolid CF,78,250,4,2,1
+498932,PD,2024,2025-04-18,RCD Espanyol de Barcelona,Getafe CF,80,82,1,0,1
+498923,PD,2024,2025-04-19,FC Barcelona,RC Celta de Vigo,81,558,4,3,1
+498931,PD,2024,2025-04-19,UD Las Palmas,Club Atlético de Madrid,275,78,1,0,1
+498930,PD,2024,2025-04-20,Real Valladolid CF,CA Osasuna,250,79,2,3,0
+498929,PD,2024,2025-04-20,Real Madrid CF,Athletic Club,86,77,1,0,1
+498924,PD,2024,2025-04-21,Girona FC,Real Betis Balompié,298,90,1,3,0
+498940,PD,2024,2025-04-22,FC Barcelona,RCD Mallorca,81,89,1,0,1
+498933,PD,2024,2025-04-23,Athletic Club,UD Las Palmas,77,275,1,0,1
+498938,PD,2024,2025-04-23,RC Celta de Vigo,Villarreal CF,558,94,3,0,1
+498939,PD,2024,2025-04-23,Deportivo Alavés,Real Sociedad de Fútbol,263,92,1,0,1
+498941,PD,2024,2025-04-23,Getafe CF,Real Madrid CF,82,86,0,1,0
+498936,PD,2024,2025-04-24,CA Osasuna,Sevilla FC,79,559,1,0,1
+498934,PD,2024,2025-04-24,Club Atlético de Madrid,Rayo Vallecano de Madrid,78,87,3,0,1
+498935,PD,2024,2025-04-24,Real Betis Balompié,Real Valladolid CF,90,250,5,1,1
+498872,PD,2024,2025-04-27,Villarreal CF,RCD Espanyol de Barcelona,94,80,1,0,1
+498947,PD,2024,2025-05-02,Rayo Vallecano de Madrid,Getafe CF,87,82,1,0,1
+498946,PD,2024,2025-05-03,Villarreal CF,CA Osasuna,94,79,4,2,1
+498951,PD,2024,2025-05-03,UD Las Palmas,Valencia CF,275,95,2,3,0
+498950,PD,2024,2025-05-03,Real Valladolid CF,FC Barcelona,250,81,1,2,0
+498948,PD,2024,2025-05-04,Real Madrid CF,RC Celta de Vigo,86,558,3,2,1
+498952,PD,2024,2025-05-04,RCD Espanyol de Barcelona,Real Betis Balompié,80,90,1,2,0
+498944,PD,2024,2025-05-05,Girona FC,RCD Mallorca,298,89,1,0,1
+498961,PD,2024,2025-05-09,UD Las Palmas,Rayo Vallecano de Madrid,275,87,0,1,0
+498959,PD,2024,2025-05-10,Valencia CF,Getafe CF,95,82,3,0,1
+498956,PD,2024,2025-05-10,RC Celta de Vigo,Sevilla FC,558,559,3,2,1
+498958,PD,2024,2025-05-10,Girona FC,Villarreal CF,298,94,0,1,0
+498960,PD,2024,2025-05-10,RCD Mallorca,Real Valladolid CF,89,250,2,1,1
+498954,PD,2024,2025-05-10,Club Atlético de Madrid,Real Sociedad de Fútbol,78,92,4,0,1
+498962,PD,2024,2025-05-11,CD Leganés,RCD Espanyol de Barcelona,745,80,3,2,1
+498957,PD,2024,2025-05-11,FC Barcelona,Real Madrid CF,81,86,4,3,1
+498953,PD,2024,2025-05-11,Athletic Club,Deportivo Alavés,77,263,1,0,1
+498971,PD,2024,2025-05-13,Real Valladolid CF,Girona FC,250,298,0,1,0
+498970,PD,2024,2025-05-13,Real Sociedad de Fútbol,RC Celta de Vigo,92,558,0,1,0
+498966,PD,2024,2025-05-13,Sevilla FC,UD Las Palmas,559,275,1,0,1
+498964,PD,2024,2025-05-14,Deportivo Alavés,Valencia CF,263,95,1,0,1
+498967,PD,2024,2025-05-14,Villarreal CF,CD Leganés,94,745,3,0,1
+498969,PD,2024,2025-05-14,Real Madrid CF,RCD Mallorca,86,89,2,1,1
+498963,PD,2024,2025-05-15,CA Osasuna,Club Atlético de Madrid,79,78,2,0,1
+498965,PD,2024,2025-05-15,Getafe CF,Athletic Club,82,77,0,2,0
+498972,PD,2024,2025-05-15,RCD Espanyol de Barcelona,FC Barcelona,80,81,0,2,0
+498973,PD,2024,2025-05-18,Club Atlético de Madrid,Real Betis Balompié,78,90,4,1,1
+498974,PD,2024,2025-05-18,RC Celta de Vigo,Rayo Vallecano de Madrid,558,87,1,2,0
+498975,PD,2024,2025-05-18,FC Barcelona,Villarreal CF,81,94,2,3,0
+498976,PD,2024,2025-05-18,Sevilla FC,Real Madrid CF,559,86,0,2,0
+498977,PD,2024,2025-05-18,Valencia CF,Athletic Club,95,77,0,1,0
+498978,PD,2024,2025-05-18,RCD Mallorca,Getafe CF,89,82,1,2,0
+498979,PD,2024,2025-05-18,Real Sociedad de Fútbol,Girona FC,92,298,3,2,1
+498980,PD,2024,2025-05-18,Real Valladolid CF,Deportivo Alavés,250,263,0,1,0
+498981,PD,2024,2025-05-18,UD Las Palmas,CD Leganés,275,745,0,1,0
+498982,PD,2024,2025-05-18,CA Osasuna,RCD Espanyol de Barcelona,79,80,2,0,1
+498991,PD,2024,2025-05-24,Real Madrid CF,Real Sociedad de Fútbol,86,92,2,0,1
+498985,PD,2024,2025-05-24,CD Leganés,Real Valladolid CF,745,250,3,0,1
+498992,PD,2024,2025-05-24,RCD Espanyol de Barcelona,UD Las Palmas,80,275,2,0,1
+498987,PD,2024,2025-05-24,Getafe CF,RC Celta de Vigo,82,558,1,2,0
+498988,PD,2024,2025-05-25,Girona FC,Club Atlético de Madrid,298,78,0,4,0
+498989,PD,2024,2025-05-25,Villarreal CF,Sevilla FC,94,559,4,2,1
+498983,PD,2024,2025-05-25,Athletic Club,FC Barcelona,77,81,0,3,0
